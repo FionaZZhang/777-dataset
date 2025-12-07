@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Or this one! (She grabs and starts to open the biggest present.)\nmonica: Hey, how are you feelin’? Any morning sickness?\nrachel: Shh-shh-shh! The guys don’t know yet do they?\nmonica: No! Joey and Ross don’t know anything and Chandler still thinks that Phoebe’s pregnant.",
+  "phoebe_transcript": "Yeah that’s right Chandler does still think I’m pregnant. He hasn’t asked me how I’m feeling or offered to carry my bags. Boy, I feel bad for the woman who ends up with him. (Monica looks at her.) After you of course.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\238\\merged_before_phoebe_238.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\238\\actual_phoebe.wav"
+}

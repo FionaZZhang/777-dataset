@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: So whenever you’re ready to apologize to me, I will forgive you. Good day! (Monica and Phoebe reenter the apartment and Monica closes the door on a stunned Mrs. Green.) I can’t feel my legs!",
+  "phoebe_transcript": "You were fantastic! I’m so proud of you!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\536\\merged_before_phoebe_536.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\536\\actual_phoebe.wav"
+}

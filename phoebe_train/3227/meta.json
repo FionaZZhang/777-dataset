@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I did punch a girl in the face.\nrachel: The whole night was horrible, it was pouring down rain, and when I got there, there was no Rachel Green on the list, but there was a Rachel Greep.",
+  "phoebe_transcript": "Ohh! So, did you get to meet her?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3227\\merged_before_phoebe_3227.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3227\\actual_phoebe.wav"
+}

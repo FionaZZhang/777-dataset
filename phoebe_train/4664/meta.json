@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Ok. Hold on. (her mobile phone rings) Geller here! No! I said it has to be there by 4 o'clock. Goodbye. (she hangs up) Oh, how hard it is to make an ice sculpture?",
+  "phoebe_transcript": "Ice sculpture? That sounds really fancy! I told you I just want a simple wedding.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4664\\merged_before_phoebe_4664.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4664\\actual_phoebe.wav"
+}

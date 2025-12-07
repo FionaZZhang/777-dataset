@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Pheebs, I have studied evolution my entire adult life. Ok, I can tell you, wehave collected fossils from all over the world that actually show the evolution ofdifferent species, ok? You can literally see them evolving through time.",
+  "phoebe_transcript": "Really? You can actually see it?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1259\\merged_before_phoebe_1259.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1259\\actual_phoebe.wav"
+}

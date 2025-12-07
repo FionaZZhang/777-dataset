@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Ohh, there’s a picture of her in the yearbook actually.\nross: She didn’t photograph well!\nchandler: Well, she probably wasn’t familiar with the process having spent most of her life sitting for oil paintings!",
+  "phoebe_transcript": "So how did this happen? Did she, did she lure you to an early bird dinner?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3971\\merged_before_phoebe_3971.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3971\\actual_phoebe.wav"
+}

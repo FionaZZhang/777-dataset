@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Whoa-hello! We were closer with the mixed tape.\nmonica: All right. Have you said, \"I love you?\" You could say, I love  you.\nross: Yeah I-I don’t-I don’t think I’m quite there yet, but I  could say I looove spending time with you.",
+  "phoebe_transcript": "No, we hate that.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1705\\merged_before_phoebe_1705.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1705\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I-I am not uptight—Hey-hey-hey-oh-oh! Listen, I am not uptight, man.",
+  "phoebe_transcript": "That's okay Rachel. I'm not judging you; that's just who you are. Me. I'm more free y'know? I run like I did when I was a kid, cause that's the only way it's fun. Y'know, I mean didn’t you ever run so fast you thought your legs were gonna fall off? Y'know, like when you were like running towards the swings or running away from Satan? (Rachel looks confused) The neighbor's dog.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\078\\merged_before_phoebe_078.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\078\\actual_phoebe.wav"
+}

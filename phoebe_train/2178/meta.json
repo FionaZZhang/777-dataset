@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: 'That' would be Marcel. You wanna say hi?\nmonica: No, no, I don't.\nrachel: Oh, he is precious! Where did you get him?\nross: My friend Bethel rescued him from some lab.",
+  "phoebe_transcript": "That is so cruel! Why? Why would a parent name their child Bethel?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2178\\merged_before_phoebe_2178.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2178\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (to Monica and Phoebe) Oh my God, you guys, what am I doing? What am I doing? This is so un-me!\nmonica: If you want, I'll do it.",
+  "phoebe_transcript": "I know, I just want to bite his bottom lip. (Rachel looks at her) But I won't.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5044\\merged_before_phoebe_5044.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5044\\actual_phoebe.wav"
+}

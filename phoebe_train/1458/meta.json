@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Umm, okay, yeah, sure. But wh-what’s wrong with Monica and Chandler?\nross: Phoebe, you said it was urgent!",
+  "phoebe_transcript": "Oh yeah it is! I’m going to the movies and it starts in like five minutes.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1458\\merged_before_phoebe_1458.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1458\\actual_phoebe.wav"
+}

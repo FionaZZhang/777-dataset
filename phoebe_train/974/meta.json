@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: We’ll discuss it, in the morning! (Slams the door shut.)\nchandler: What the hell is going on?!\nrachel: We took our apartment back!! (Slams the door shut.)",
+  "phoebe_transcript": "(opening the door) I had nothing to do with it. (Closes the door.) (Opens the door.) Okay, it was my idea, but I don’t feel good about it.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\974\\merged_before_phoebe_974.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\974\\actual_phoebe.wav"
+}

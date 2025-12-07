@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Well, the point is, maybe I should just stop waiting around for moments    with Ross, you know? I should just . . . move on with my life.\nrachel: I don't know. Do I have to decide right now?",
+  "phoebe_transcript": "Well, you kind of just did. That guy is going to call you tonight.    Ross is going to pick up the phone and that's a pretty clear message.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4785\\merged_before_phoebe_4785.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4785\\actual_phoebe.wav"
+}

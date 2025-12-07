@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Hi, Pheebs? Okay, so just spoke to the nurse and the reason that your doctor is late is because uh, she's not coming.\nross: Apparently she fell in the shower and hit her head.",
+  "phoebe_transcript": "Oh my God, she's so stupid!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1800\\merged_before_phoebe_1800.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1800\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: You won an adult Thanksgiving day spelling bee.\nrachel: Yes! (spells it) Y-E-S. Yes!\nross: Let me see this... (he takes the trophy from Rachel's hands) Grand Supreme Little Darling, New York Division.\nross: You entered Emma into a Beauty Pageant?",
+  "phoebe_transcript": "And it looks like she put makeup on her!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1129\\merged_before_phoebe_1129.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1129\\actual_phoebe.wav"
+}

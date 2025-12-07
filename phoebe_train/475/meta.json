@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: I’m sorry, I don’t believe contestants are allowed to talk to each other.",
+  "phoebe_transcript": "Oh, I told the stripper to be here at five. That’s good right?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\475\\merged_before_phoebe_475.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\475\\actual_phoebe.wav"
+}

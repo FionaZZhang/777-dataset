@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (closing the fridge in disgust) Shoot! We’re out of soda.\nchandler: Nope! Because I’m not your boyfriend. (to Phoebe, who’s entering) Hey Pheebs, how did it go?",
+  "phoebe_transcript": "Well, umm, my Mom’s friend, Phoebe, is actually my birth Mom.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6120\\merged_before_phoebe_6120.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6120\\actual_phoebe.wav"
+}

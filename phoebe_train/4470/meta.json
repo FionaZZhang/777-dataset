@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Don't worry, we're just gonna search here for an hour, and then we're gonna go over to Joey's and search, OK?\nchandler: No not okay, you can't look for Monica's presents!\nchandler: No, you don't have to, and you can't because I, I live here too.",
+  "phoebe_transcript": "Well then, you should look with us.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4470\\merged_before_phoebe_4470.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4470\\actual_phoebe.wav"
+}

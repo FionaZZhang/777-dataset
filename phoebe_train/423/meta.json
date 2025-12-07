@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: I don’t think you have much choice.\njoey: Yeah bye-bye! (Exits and comes back in still holding the lotion.) Hey! So just a light layer?\nross: Yes. Yes. Just here (Runs his fingers down the bridge of his nose) and there (Runs his fingers across his forehead).\nchandler: Joey got meat sauce on the banister again! (He goes into the bathroom to wash his hands.)",
+  "phoebe_transcript": "Yeah, swing music is so out.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\423\\merged_before_phoebe_423.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\423\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Come on, don’t be crazy. (To Rachel) You don’t think there’s someone out there better suited for Monica than me, do ya? (Rachel looks at him.)\nrachel: (To Phoebe) Well, what’s he like?!",
+  "phoebe_transcript": "He has brown hair.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\101\\merged_before_phoebe_101.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\101\\actual_phoebe.wav"
+}

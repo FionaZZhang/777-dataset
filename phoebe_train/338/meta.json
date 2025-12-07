@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: So, the ebola virus. That's gotta suck, huh?\nchandler: Gee, Monica, what's in the bag?\nmonica: I don't know, Chandler. Let's take a look.",
+  "phoebe_transcript": "Oh, it's like a skit.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\338\\merged_before_phoebe_338.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\338\\actual_phoebe.wav"
+}

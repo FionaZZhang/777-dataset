@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Alright, Emma is napping... (then to Ross) what happened to your shirt?\nross: I got mugged. And they stole my pocket.",
+  "phoebe_transcript": "We're just... we're trying to figure out an excuse. Hey! Ooh! How about this We can say that Monica told us 5 o'clock, not 4 o'clock. That way we're right on time! (Others start to agree but she continues) OR... or, we can plant PCP in the apartment and call the cops on her.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1146\\merged_before_phoebe_1146.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1146\\actual_phoebe.wav"
+}

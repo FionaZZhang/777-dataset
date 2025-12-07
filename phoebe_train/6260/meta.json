@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: You kissed him?\nrachel: Yeah. It was after the party, we were on the balcony  and...\nmonica: Wait wait wait. I was at home the whole time. How did I missed  that?",
+  "phoebe_transcript": "It was the end of the party, you were probably ironing wrapping  paper.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6260\\merged_before_phoebe_6260.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6260\\actual_phoebe.wav"
+}

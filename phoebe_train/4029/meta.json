@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Well-well you can give them to me! I haven’t felt my feet in years!\nmonica: I can’t! I spent so much money on them and I told Chandler that I’d wear them all the time, I just can’t give them away!",
+  "phoebe_transcript": "Well then get your money back and return them!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4029\\merged_before_phoebe_4029.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4029\\actual_phoebe.wav"
+}

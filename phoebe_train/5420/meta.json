@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I think he's stealing from me.\nrachel: Because he's stealing from me!",
+  "phoebe_transcript": "(entering) Hi! It's me. And soup. (to Rachel) Hey, I just saw Josh, he looks so yummy in your leather jacket.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5420\\merged_before_phoebe_5420.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5420\\actual_phoebe.wav"
+}

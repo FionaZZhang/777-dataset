@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Well, then, you know, couldn't she have just copied my haircut?\nchandler: You know, it's funny when my parents got divorced, they sent me to thisshrink, and she told me that all kids have a tendency to blame themselves. But in yourcase it's actually kinda true.\nchandler: Damn. My mail order grandfather hasn't come yet.",
+  "phoebe_transcript": "Yes, hi, Mr. Adelman. Thanks for meeting me.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3018\\merged_before_phoebe_3018.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3018\\actual_phoebe.wav"
+}

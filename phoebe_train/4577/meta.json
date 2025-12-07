@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: They’re not gonna swallow anything, you guys are being way over protective. When I was a kid, my mom used to just throw me into a pile of broken glass!\nchandler: Glass, sand, whatever. (Walks out as Monica and Phoebe turn to check on the babies again.)",
+  "phoebe_transcript": "Oh, look at little Leslie stretching in her sleep.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4577\\merged_before_phoebe_4577.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4577\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Alright. Just keep him away from me.\nross: Thank you. (She walks off) C'mon, Marcel, whaddya say you and I do a little mingling? (Marcel runs off) Alright, I'll, uh... catch up with you later.\nmonica: Oh my gosh! Rachel, honey.. are you okay? Where-where's Paolo?\nrachel: Rome. Jerk missed his flight.",
+  "phoebe_transcript": "And then... your face is bloated?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2236\\merged_before_phoebe_2236.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2236\\actual_phoebe.wav"
+}

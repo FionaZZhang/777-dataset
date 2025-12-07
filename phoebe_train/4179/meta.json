@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: (out of his Monica character) Very good! Drawing on your own experience, I like that!\nross: Yes, very nice Rachel.\nrachel: Thank you judges.",
+  "phoebe_transcript": "Yes! Your honor?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4179\\merged_before_phoebe_4179.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4179\\actual_phoebe.wav"
+}

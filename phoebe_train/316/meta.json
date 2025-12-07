@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Do you guys ever get the feeling that um, Chandler and those guys just don'tget that we don't make as much money as they do?\njoey: Yes! Yeah, it's like they're always saying \"let's go here, let's gothere\". Like we can afford to go here and there.",
+  "phoebe_transcript": "Yes, yes, and it's, and we always have to go to, you know, someplace nice, youknow? God, and it's not like we can say anything about it, 'cause, like this birthdaything, it's for Ross.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\316\\merged_before_phoebe_316.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\316\\actual_phoebe.wav"
+}

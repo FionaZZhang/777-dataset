@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: [holding a pillow made out of 4 inch red fur] Hey, nice pillow. So now tell me, is this genuine Muppet skin?",
+  "phoebe_transcript": "[looking at a water sculpture that looks like a window with rain running down it] Hey, excellent, excellent water-table thing.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6297\\merged_before_phoebe_6297.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6297\\actual_phoebe.wav"
+}

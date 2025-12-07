@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: What're you talkin' about?\nross: Yeah but Phoebs, what about the end?",
+  "phoebe_transcript": "What when Yeller saves saves the family from the wolf and everyone's happy?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5213\\merged_before_phoebe_5213.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5213\\actual_phoebe.wav"
+}

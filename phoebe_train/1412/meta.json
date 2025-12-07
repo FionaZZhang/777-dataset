@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Monica can I talk to you outside for a minute?\nrachel: Oh no, you guys, just stay here, I’m gonna go check her diaper, Pheebs you wanna come?\nchandler: Actually Pheebs its more of a husband and wife kinda thing",
+  "phoebe_transcript": "I knew I should have married Chandler.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1412\\merged_before_phoebe_1412.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1412\\actual_phoebe.wav"
+}

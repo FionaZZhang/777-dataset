@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I’d move in tomorrow!\nchandler: (disgusted) Oh come on! (To Phoebe) Are you listening to this?\nchandler: What do we do?",
+  "phoebe_transcript": "I don’t know, they both want to live in a house of cheese! I don’t know how you fight that.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\140\\merged_before_phoebe_140.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\140\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: That’s different, we were roommates! And when?!",
+  "phoebe_transcript": "I’m curious about the human body.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3079\\merged_before_phoebe_3079.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3079\\actual_phoebe.wav"
+}

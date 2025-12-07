@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Joey, speed it up!\njoey: I'm sorry, it's the pigs. they're reluctant to get in the blankets!",
+  "phoebe_transcript": "Monica, how did this happen? I thought you had this all planned out.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3026\\merged_before_phoebe_3026.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3026\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: all day long. Did you know that something really boring happened to someone really ugly in the Middle Ages? (to the waitress handing her a cup of coffee) Oh, thank you. I’ll see you guys later.\njoey: There’s one lucky to-go cup of coffee.",
+  "phoebe_transcript": "(sighs) Honey, I wish you would get over her. I hate seeing you like this. Is there anything I can do for you? Do you want to look down my top?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2757\\merged_before_phoebe_2757.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2757\\actual_phoebe.wav"
+}

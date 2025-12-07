@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh yeah, nothing! These are happy tears! This is just what I wanted.",
+  "phoebe_transcript": "(pointing at cake) Hey, you made it into a bunny.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\856\\merged_before_phoebe_856.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\856\\actual_phoebe.wav"
+}

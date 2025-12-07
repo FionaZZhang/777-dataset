@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: The babies are asleep, I’m sure you’ll be okay on your own for a while!",
+  "phoebe_transcript": "But you-you can’t leave me with them! We-we’re a team! We’re playing a zone! They’re gonna triple team me!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4597\\merged_before_phoebe_4597.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4597\\actual_phoebe.wav"
+}

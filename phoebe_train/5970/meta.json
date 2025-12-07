@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: I’m not going to let you say anything.\nmonica: You just stay here! (Dumps a jar of bath salts in the bathtub)",
+  "phoebe_transcript": "Oh, hey, Monica, I brought back your iron.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5970\\merged_before_phoebe_5970.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5970\\actual_phoebe.wav"
+}

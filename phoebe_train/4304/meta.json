@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Chandler? Forty-five minutes? Well, something is not right. I just can’t believe he would do this to Monica!\nross: I know, and with the baby coming?",
+  "phoebe_transcript": "So, should we tell her?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4304\\merged_before_phoebe_4304.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4304\\actual_phoebe.wav"
+}

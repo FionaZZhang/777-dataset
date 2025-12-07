@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Yeah, we played, we watched TV.. that juggling thing is amazing.\nross: What, uh... what juggling thing?\nchandler: With the balled-up socks? I figured you taught him that.\nchandler: Y'know, it wasn't that big a deal. He just balled up socks... and a melon...",
+  "phoebe_transcript": "Oh, hi Max! Hey, do you know everybody?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2231\\merged_before_phoebe_2231.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2231\\actual_phoebe.wav"
+}

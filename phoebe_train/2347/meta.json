@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Monica’s chicken parm! I’ll take care of it. (He picks up the phone) Hey Mr. Treeger, it’s Joey Tribbiani. Listen, I need to get into Monica and Chandler’s apartment. It’s an emergency. (Listens) Uhh, gas leak! Yeah oh, and bring garlic bread. (Hangs up.)",
+  "phoebe_transcript": "Did Rachel find you?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2347\\merged_before_phoebe_2347.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2347\\actual_phoebe.wav"
+}

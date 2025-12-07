@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Yeah sure, nature called, she wanted to see who else did.\nrachel: (on phone) Hello? (Shocked that someone answered.) Uh, Rachel. (To the gang.) Great, someone is in our apartment. Call the cops!\nmonica: You’re on the phone!\nrachel: (on phone) Oh my God! Oh my God! Thank you! (Hangs up) That was the fire department, there was a fire at our place!",
+  "phoebe_transcript": "Oh my God! How bad was it?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3562\\merged_before_phoebe_3562.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3562\\actual_phoebe.wav"
+}

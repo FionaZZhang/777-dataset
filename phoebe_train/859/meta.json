@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Wow! Why do you want to get rid of her so badly?",
+  "phoebe_transcript": "Because she exchanges every gift she ever gets, it’s like impossible to get her something she likes. Come on, let’s trade!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\859\\merged_before_phoebe_859.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\859\\actual_phoebe.wav"
+}

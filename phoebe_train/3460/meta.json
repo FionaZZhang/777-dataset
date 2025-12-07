@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Ross, come sign this birthday card for dad. Rich is gonna be here any minute.\nmonica: Well, he's my parents' best friend, he has to be there.\njoey: Oh, is today the day you're gonna tell them about you two?\nmonica: Yeah. It's my dad's birthday, I decided to give him a stroke.",
+  "phoebe_transcript": "No, I think you should tell them.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3460\\merged_before_phoebe_3460.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3460\\actual_phoebe.wav"
+}

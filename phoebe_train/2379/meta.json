@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Yeah! Do that!\njoey: And-and you won’t blame us for any damage? (Gives Phoebe a thumbs up.)\nmonica: No! (Pause) Are you doing it?! I don’t hear anything! Come on!\njoey: Uh, okay I’ll-I’ll-I’ll break it down. (He hands the phone to Phoebe, gets up, picks up a chair, and starts banging it on the floor.)",
+  "phoebe_transcript": "Oh hey hi, he’s doing it. He’s breaking down the door. (The chair breaks in half.) Okay, we’re in. (She hangs up the phone.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2379\\merged_before_phoebe_2379.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2379\\actual_phoebe.wav"
+}

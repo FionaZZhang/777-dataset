@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: I called you fat?! I don't even remember that!\nchandler: I am so sorry. I really am. I was an idiot back then. I rushed the stage at a Wham concert for crying out loud!",
+  "phoebe_transcript": "Oh, I can't believe you called her fat.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5311\\merged_before_phoebe_5311.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5311\\actual_phoebe.wav"
+}

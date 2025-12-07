@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Uhm, she has been showing us houses outside of the city.\nrachel: Are you serious?\nmonica: When we found out that we're gonna get this baby, Chandler and I started talking and we decided that we didn't want to raise a kid in the city.",
+  "phoebe_transcript": "So you're gonna move?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4328\\merged_before_phoebe_4328.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4328\\actual_phoebe.wav"
+}

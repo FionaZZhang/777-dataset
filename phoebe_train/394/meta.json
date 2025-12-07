@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: be a baby!",
+  "phoebe_transcript": "Okay! (Runs that way and hears another whistle blast.) Hey! (Heads the other way and hears another blast.) What do I do?!! (She runs in the second direction and finds that the whistling is coming from inside a rack. She moves the dresses out of the way to find Rachel curled up in a fetal position frantically blowing on the whistle.) What are you doing? (Rachel doesn’t stop.) Did you find the dress? (Rachel won’t stop so Phoebe pinches her nose shut which causes her to spit the whistle out.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\394\\merged_before_phoebe_394.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\394\\actual_phoebe.wav"
+}

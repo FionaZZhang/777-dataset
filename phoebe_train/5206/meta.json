@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Well then honey, buy the lamp! Hey, we have that 60 bucks from Ross.",
+  "phoebe_transcript": "I can’t! I can’t! Unless… Well are you saying that-that you would move out if-if I didn’t buy that lamp?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5206\\merged_before_phoebe_5206.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5206\\actual_phoebe.wav"
+}

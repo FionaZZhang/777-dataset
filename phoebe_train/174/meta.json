@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: What about him?\nrachel: I love him. He’s so pretty I wanna cry! I don’t know what to do. Tell me what to do.",
+  "phoebe_transcript": "Come on you know what to do! You hire the first one! You don’t hire an assistant because they’re cute, you hire them because they’re qualified.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\174\\merged_before_phoebe_174.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\174\\actual_phoebe.wav"
+}

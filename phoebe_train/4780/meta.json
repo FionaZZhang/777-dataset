@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (as herself) \"Well, but I'm not sure I really want to do anything about    it.\"\nrachel: (as herself) \"Well, should we just continue to live together and not    really tell each other how we're really feeling?\"\nrachel: (as Ross) \"Yeah. That works for me.\" (Clears throat twice more.)",
+  "phoebe_transcript": "Yeah, I see what you mean. By the way, nice Ross imitation.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4780\\merged_before_phoebe_4780.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4780\\actual_phoebe.wav"
+}

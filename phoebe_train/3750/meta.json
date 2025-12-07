@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Chandler, look they’re actors. They’re there to do a job, just ‘cause they work together, doesn’t mean they’re gonna get together. I mean just ‘cause it happened with Susan Sarandon and Tim Robbins, it doesn’t mean it’s gonna happen with them.\nross: Oh-oh, Alec Baldwin and Kim Basinger.\njoey: Tom Cruise and Nicole Kidman.",
+  "phoebe_transcript": "Hey, Mel Gibson and Clint Eastwood.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3750\\merged_before_phoebe_3750.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3750\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Well, okay, I'll - I'll just call her and tell her the date's cancelled,       and find him somebody else.",
+  "phoebe_transcript": "What if we don't find him somebody else? We'll just tell her the       date's off, but we don't tell Ross, and he goes to the restaurant and gets       stood up!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2562\\merged_before_phoebe_2562.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2562\\actual_phoebe.wav"
+}

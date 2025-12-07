@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Hello? (Listens) What?! (Listens) You what?! (Listens) Hey you listen here missy! (Listens) Wh—(She is hung up on.)\nmonica: That was that girl Megan! She booked the Swing Kings on the day of our wedding and said that I couldn’t have them back unless I gave her the dress!",
+  "phoebe_transcript": "(gasps) Does that mean Carcass is available?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\413\\merged_before_phoebe_413.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\413\\actual_phoebe.wav"
+}

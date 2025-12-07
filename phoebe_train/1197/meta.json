@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Why? This was supposed to be a temp job!\nmonica: Yeah, Chandler... you've been there for five years.\nchandler: If I took this promotion, it'd be like admitting that this is what I actually do.",
+  "phoebe_transcript": "So was it a lot more money?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1197\\merged_before_phoebe_1197.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1197\\actual_phoebe.wav"
+}

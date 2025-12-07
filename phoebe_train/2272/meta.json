@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Uh, Pheebs, about your mom...",
+  "phoebe_transcript": "So great. Oh, we took a nap today and my Mom fell asleep on my tummy and purred.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2272\\merged_before_phoebe_2272.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2272\\actual_phoebe.wav"
+}

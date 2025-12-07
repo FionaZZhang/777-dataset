@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (To Phoebe) Well, what’s he like?!",
+  "phoebe_transcript": "He has brown hair.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\102\\merged_before_phoebe_102.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\102\\actual_phoebe.wav"
+}

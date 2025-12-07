@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: So does it really hurt as bad as they say?",
+  "phoebe_transcript": "Yeah. You won't be able to take it.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1838\\merged_before_phoebe_1838.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1838\\actual_phoebe.wav"
+}

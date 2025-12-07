@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: No, no, no, don't say \"listen.\" I know that \"listen.\" I've said that \"listen.\"\njoey: I don't get it. What happened? What about everything you said under the bridge?",
+  "phoebe_transcript": "that night, I was so drunk!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2068\\merged_before_phoebe_2068.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2068\\actual_phoebe.wav"
+}

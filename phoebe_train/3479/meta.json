@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Phoebe we just saw mine, let me see yours.",
+  "phoebe_transcript": "Oh OK. [pulls over her shirt and shows a bare shoulder] Oh no, oh it's gone, that's so weird, I don't know how-where it went.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3479\\merged_before_phoebe_3479.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3479\\actual_phoebe.wav"
+}

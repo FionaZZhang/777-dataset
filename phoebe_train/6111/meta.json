@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Phoebe! Rachel! It’s Monica! I wonder what you could possibly need me for on such short notice! (She bursts into the apartment to find only Phoebe and Rachel sitting on the couch.) Oh.\nrachel: Oh Monica, we are so sorry.\nrachel: Well first, for forgetting to throw you a bridal shower.",
+  "phoebe_transcript": "And then for forgetting to invite you to it.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6111\\merged_before_phoebe_6111.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6111\\actual_phoebe.wav"
+}

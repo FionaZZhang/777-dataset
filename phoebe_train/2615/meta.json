@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: The first date we've had in months, and they were both such disasters.\nrachel: Oh. Huh. You know, it is weird that Phoebe would       set me up on a date that was awful on the same night that Joey set you       up on a date that didn't even show.\nross: Wait a minute; you don't think it was intentional? I mean, that's       just stupid.\njoey: We're geniuses! Yeah, look at them, look at them, they're really       bonding.",
+  "phoebe_transcript": "Oh, yeah, they're falling in love all over again.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2615\\merged_before_phoebe_2615.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2615\\actual_phoebe.wav"
+}

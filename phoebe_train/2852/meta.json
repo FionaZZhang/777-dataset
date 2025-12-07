@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Oh, uh.. I want her to think I might be in a restaurant.. y'know? I might have some kind of life, like I haven't been sitting around here honing for the past few hours.\nmonica: (looking out the window) Look look! He's doing it again, the guy with the telescope!",
+  "phoebe_transcript": "Oh my God! (Walks to the window) Go away! (Gesturing.) Stop looking in here!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2852\\merged_before_phoebe_2852.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2852\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Why? Honey, what is the big deal?\nmonica: I’m the hostess! Not those guys! I’m always the hostess! I mean, I was always the hostess, I mean even when I was little, I mean the girls brought their dollies to my tea party, I-I served the best air.",
+  "phoebe_transcript": "Well, why did you make like a whole big thing out of y'know, everyone has to hang out in the big apartment?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3773\\merged_before_phoebe_3773.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3773\\actual_phoebe.wav"
+}

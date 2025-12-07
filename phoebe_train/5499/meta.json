@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: This is terrible. What am I going to do?",
+  "phoebe_transcript": "Look, she only suspects something okay? She doesn’t know for sure, so just throw her off the track.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5499\\merged_before_phoebe_5499.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5499\\actual_phoebe.wav"
+}

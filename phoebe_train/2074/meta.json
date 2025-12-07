@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Why? Is it because I'm friends with Phoebe?",
+  "phoebe_transcript": "(as Ursula) If it was, would you stop hanging out with her?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2074\\merged_before_phoebe_2074.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2074\\actual_phoebe.wav"
+}

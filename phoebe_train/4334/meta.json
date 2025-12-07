@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: What is wrong with raising a kid in the city? I'm doing it, Ross is doing it, Sarah Jessica Parker is doing it!\nmonica: And that's great for you guys, but we want a lawn and a swingset...\nchandler: ...and a street where our kids can ride their bikes and maybe an ice-cream truck can go by.\nross: (sarcastic) So you wanna buy a house in the 50's?",
+  "phoebe_transcript": "Have you thought about what you would be giving up? You can't move out of the city, what if you want Chinese food at 5am? Or a fake Rolex that breaks as soon as it rains or an Asian hooker sent right to your door?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4334\\merged_before_phoebe_4334.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4334\\actual_phoebe.wav"
+}

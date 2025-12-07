@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: No, no-no-no. Phoebe, this was my fault and besides y’know what? I’m fine here.",
+  "phoebe_transcript": "Yeah she said something about crumbies.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3609\\merged_before_phoebe_3609.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3609\\actual_phoebe.wav"
+}

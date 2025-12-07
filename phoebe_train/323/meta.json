@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (using calculator) Plus tip, divided by six. Ok, everyone owes 28 bucks.\nross: Oh, you're right, I'm sorry.\nross: Monica's big night, she shouldn't pay.\nross: So five of us is, $33.50 apiece.",
+  "phoebe_transcript": "No, huh uh, no way, I'm sorry, not gonna happen.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\323\\merged_before_phoebe_323.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\323\\actual_phoebe.wav"
+}

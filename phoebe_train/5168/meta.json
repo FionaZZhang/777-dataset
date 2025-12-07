@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Oh, you like it? You wanna know where I got it?\nrachel: He got it a flea market!",
+  "phoebe_transcript": "You bought your sheets at a flea market? Ross come on, you gotta loosen the purse strings a little.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5168\\merged_before_phoebe_5168.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5168\\actual_phoebe.wav"
+}

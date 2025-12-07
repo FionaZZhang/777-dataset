@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Oh my God, your mother!\nrachel: What?! My mom’s not gonna be here?!\nmonica: Well, given that we forgot to invite her it would be an awfully big coincidence if she was.\nmonica: Well it wasn’t my fault, Phoebe was in charge of the invitations!",
+  "phoebe_transcript": "Well I don’t, I don’t have a mother so often I forget that other people…",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\446\\merged_before_phoebe_446.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\446\\actual_phoebe.wav"
+}

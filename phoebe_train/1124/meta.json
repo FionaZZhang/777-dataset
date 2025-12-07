@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: So, nobody's here? Monica's gonna kill us!\njoey: Yeah, where were you!\nross: Yeah, yeah, what's with the trophy!",
+  "phoebe_transcript": "Uh, we were at the Spelling Bee!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1124\\merged_before_phoebe_1124.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1124\\actual_phoebe.wav"
+}

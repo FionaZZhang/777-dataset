@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I always win.\nmonica: Hey! How’d your date go with Jake?",
+  "phoebe_transcript": "Oh, great! We couldn’t keep our eyes off each other all night and then every once and a while y’know, he’d kinda lean over and stroke my hair and touch my neck. (Does that to Monica.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2467\\merged_before_phoebe_2467.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2467\\actual_phoebe.wav"
+}

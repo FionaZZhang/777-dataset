@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: You’re on the phone!\nrachel: (on phone) Oh my God! Oh my God! Thank you! (Hangs up) That was the fire department, there was a fire at our place!",
+  "phoebe_transcript": "Oh my God! How bad was it?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3564\\merged_before_phoebe_3564.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3564\\actual_phoebe.wav"
+}

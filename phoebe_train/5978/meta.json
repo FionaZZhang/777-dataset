@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Is it something you’d be interested in?",
+  "phoebe_transcript": "I don’t know, I don’t know, I don’t know. You know, I mean,  on the one hand, Mother may I? But y’know on the other hand… No. No, I  can’t. We’re friends. No, oh, no. I don’t want to risk what we have.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5978\\merged_before_phoebe_5978.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5978\\actual_phoebe.wav"
+}

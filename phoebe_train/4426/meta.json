@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (stunned) I-I’m the head chef. I-I can’t get promoted.\nrachel: Okay, I’m done. Do mine.",
+  "phoebe_transcript": "Okay. (Reads the leaves) Umm, oh! Okay, I see a circle.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4426\\merged_before_phoebe_4426.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4426\\actual_phoebe.wav"
+}

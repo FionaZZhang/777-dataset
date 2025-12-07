@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Honey, there are like 20 tickets on the nightstand!\nmonica: Chandler, sense the tone!!\nrachel: Well, well, well, look what mommy found!!\nmonica: Ok, fine!! I bought 20 extra tickets for me and Chandler.",
+  "phoebe_transcript": "Uh! The psychic also said that I would be betrayed.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1911\\merged_before_phoebe_1911.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1911\\actual_phoebe.wav"
+}

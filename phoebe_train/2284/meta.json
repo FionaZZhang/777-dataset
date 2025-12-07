@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: So honey, what are you gonna do about the little girl?",
+  "phoebe_transcript": "Yeah, okay, listen, umm, Mom, I hope you know you still mean a lot to me. And you’re welcome to come back anytime.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2284\\merged_before_phoebe_2284.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2284\\actual_phoebe.wav"
+}

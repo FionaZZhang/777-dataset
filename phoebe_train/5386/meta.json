@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Yeah, it's-it's tough being single. That's why I'm so glad I found Amanda.\nrachel: , and you didn't even kiss her.\nchandler: I tell people secrets. It makes them like me.\nmonica: Phoebe! You're sick, you shouldn't play. You should just go home, get in bed, and stay there.",
+  "phoebe_transcript": "(in a nasally voice, from her cold) But I'm unemployed, my music is all I really have now. Well music, and making my own shoes. (She puts her shoe on the table, and it's horribly decorated) Pretty, huh? (Sneezes)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5386\\merged_before_phoebe_5386.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5386\\actual_phoebe.wav"
+}

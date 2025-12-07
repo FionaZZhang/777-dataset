@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: They really were pretty, weren’t they? (Rachel and Phoebe both agree)",
+  "phoebe_transcript": "Yeah, I really liked that fighter pilot one.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3255\\merged_before_phoebe_3255.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3255\\actual_phoebe.wav"
+}

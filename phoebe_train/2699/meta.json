@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: It's not here Pheebs, it's not here. Ohh, I went to Joey and Chandler's last night! Okay! (Goes to the door.)",
+  "phoebe_transcript": "Make sure you check Chandler's jewelry box.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2699\\merged_before_phoebe_2699.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2699\\actual_phoebe.wav"
+}

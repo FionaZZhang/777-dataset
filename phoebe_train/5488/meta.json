@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Oh my God, you’re back!",
+  "phoebe_transcript": "Ohh, let me see it! Let me see your hand! (Chandler is frantically trying to wave them off.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5488\\merged_before_phoebe_5488.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5488\\actual_phoebe.wav"
+}

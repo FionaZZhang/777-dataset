@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: My parents spent the money for our wedding!",
+  "phoebe_transcript": "(gasps) My God! What did you order?!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1483\\merged_before_phoebe_1483.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1483\\actual_phoebe.wav"
+}

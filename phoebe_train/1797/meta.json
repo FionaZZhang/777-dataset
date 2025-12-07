@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Yeah, well, Hurricane Gloria didn’t break the porch swing, Monica did!\nmonica: Ross hasn’t worked at the museum for a year!\nross: Monica and Chandler are living together!\nmonica: Ross married Rachel in Vegas! And got divorced! Again!!!!",
+  "phoebe_transcript": "(joining in) I love Jacques Cousteau!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1797\\merged_before_phoebe_1797.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1797\\actual_phoebe.wav"
+}

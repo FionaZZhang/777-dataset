@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Ross I’m so sorry. Okay. I-I will promise I will straighten this out with him tomorrow in person, or via e-mail.\nross: I don’t care about your dad! I care about Mona! She was there and now she’s totally freaked out!\nrachel: All right, I promise. I’ll fix this. I swear. I’ll-I’ll-I’ll-I’ll talk to her.",
+  "phoebe_transcript": "That’s it?! You call that a fight? Come on! \"We were on a break!\" \"No we weren’t!\" What happened to you two?!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4652\\merged_before_phoebe_4652.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4652\\actual_phoebe.wav"
+}

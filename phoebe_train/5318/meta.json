@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: No, it wasn't. It was actually the…\nmonica: (interrupting her) Okay, now Thanksgiving's over, let's get ready for Christmas. Who wants to go get a Christmas tree?!",
+  "phoebe_transcript": "Oh, no, I have the cutest Christmas story!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5318\\merged_before_phoebe_5318.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5318\\actual_phoebe.wav"
+}

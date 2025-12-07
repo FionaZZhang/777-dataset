@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Ok, Phoebe, this is it. In this briefcase I carry actual scientific facts. Abriefcase of facts, if you will. Some of these fossils are over 200 million years old.",
+  "phoebe_transcript": "Ok, look, before you even start, I'm not denying evolution, ok, I'm just sayingthat it's one of the possibilities.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1302\\merged_before_phoebe_1302.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1302\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: That just cost me four bucks. But uh listen, I just called to see how the chick and the duck are doing?",
+  "phoebe_transcript": "time with their Aunt Phoebe! Aunt Rachel hasn’t been helpful at all. So, do you miss me?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2448\\merged_before_phoebe_2448.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2448\\actual_phoebe.wav"
+}

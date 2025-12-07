@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Yeah. Uh-huh, I guess it is pretty big news.",
+  "phoebe_transcript": "Pretty big? It’s huge! God, this guy doesn’t have a clue! He’s just walking down the street thinking, ‘I had sex with Rachel Green. I rock!’ then bam! He’s a father and everything’s different.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\250\\merged_before_phoebe_250.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\250\\actual_phoebe.wav"
+}

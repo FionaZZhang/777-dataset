@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Wow, oh my God, our child will be beaten to death in the schoolyard.\nross: You’re just saying that 'cause I said no to your name!",
+  "phoebe_transcript": "How-how about you each get five vetoes?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5913\\merged_before_phoebe_5913.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5913\\actual_phoebe.wav"
+}

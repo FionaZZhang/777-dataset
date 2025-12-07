@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: What are you reading?",
+  "phoebe_transcript": ". I'm taking a literature class at the New School and I have to finish it for the first session tomorrow.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1980\\merged_before_phoebe_1980.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1980\\actual_phoebe.wav"
+}

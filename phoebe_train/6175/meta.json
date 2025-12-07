@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Are you okay?\nrachel: Uh-hmm. I’m just thinking about Phoebe; poor knocked up Phoebe.\nrachel: Oh yes! Thank you very much! (She grabs a glass, takes a sip, and realizes what she just did. She then tries to spit the champagne back into the glass without Monica noticing. It doesn’t work.) Oh that’s-that’s actually how the French drink it.",
+  "phoebe_transcript": "Well, I just got off the phone with my lover, James Brolin…",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6175\\merged_before_phoebe_6175.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6175\\actual_phoebe.wav"
+}

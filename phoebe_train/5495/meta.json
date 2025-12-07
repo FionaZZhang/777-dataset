@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: I’m gonna do it tomorrow y’know, and-and surprise her, but now you’ve ruined it!\njoey: We didn’t ruin it!\nchandler: Who walks into a room and asks to see a person’s hands?!",
+  "phoebe_transcript": "Well, a palm reader, a manicurist, a hand doctor…",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5495\\merged_before_phoebe_5495.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5495\\actual_phoebe.wav"
+}

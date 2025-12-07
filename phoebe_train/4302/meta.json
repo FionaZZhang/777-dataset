@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: I just can’t see Chandler cheating!\nrachel: I’m telling you guys, we followed them out to a house in Westchester, the went in for like forty-five minutes and then they came out looking pretty happy!\njoey: Chandler? Forty-five minutes? Well, something is not right. I just can’t believe he would do this to Monica!\nross: I know, and with the baby coming?",
+  "phoebe_transcript": "So, should we tell her?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4302\\merged_before_phoebe_4302.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4302\\actual_phoebe.wav"
+}

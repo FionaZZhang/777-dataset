@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Yes that’s the one about the soldiers who fight in World War I!",
+  "phoebe_transcript": "Oh, yeah! Back then y’know, we called the Great War. It really was!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6024\\merged_before_phoebe_6024.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6024\\actual_phoebe.wav"
+}

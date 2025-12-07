@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Or.. we could flip a coin, and then multiply the..\nchandler: I'm begging you stop.\nmonica: Ok, how about this We got wind up toys for Emma for her birthday.    We can make them race, and whoever comes in last, stays!",
+  "phoebe_transcript": "(Visibly excited) Yeah!! Let's do that!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\807\\merged_before_phoebe_807.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\807\\actual_phoebe.wav"
+}

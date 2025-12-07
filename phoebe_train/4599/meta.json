@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: He’s got something plastic lodged in his throat, we’ve got to go to the hospital.",
+  "phoebe_transcript": "But no, because a doctor won’t be able to help him, it’s just gonna y’know naturally pass through his system in like seven years.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4599\\merged_before_phoebe_4599.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4599\\actual_phoebe.wav"
+}

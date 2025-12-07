@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Look, this is my home and I want to be able to come and go whenever I want!",
+  "phoebe_transcript": "Okay, I will find someplace else to do the rest of my appointments. I just don’t know what the big deal is!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1479\\merged_before_phoebe_1479.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1479\\actual_phoebe.wav"
+}

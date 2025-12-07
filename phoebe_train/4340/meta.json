@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Bet you wish I was having an affair now, huh?\nross: You put an offer on a house?\nmonica: sweet. It really is. It has this big yard that leads down to this stream and then there's these old maple trees... (gets cut off)",
+  "phoebe_transcript": "Wha..? Again with the nature, what are you? Beavers?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4340\\merged_before_phoebe_4340.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4340\\actual_phoebe.wav"
+}

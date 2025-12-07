@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: C'mon, you're going out with the guy! There's gotta be something wrong with him!\nchandler: So does he have a hump? A hump and a hairpiece?",
+  "phoebe_transcript": "Wait, does he eat chalk?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\599\\merged_before_phoebe_599.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\599\\actual_phoebe.wav"
+}

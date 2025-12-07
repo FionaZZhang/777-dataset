@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: What? It's still going on.",
+  "phoebe_transcript": "Come on, seriously! When did it end?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4897\\merged_before_phoebe_4897.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4897\\actual_phoebe.wav"
+}

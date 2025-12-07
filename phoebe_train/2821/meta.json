@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (looking out of the window) Oh my God. You guys! You gotta come see this! There's some creep out there with a telescope!\nross: I can't believe it! He's looking right at us!\nrachel: Oh, that is so sick.\nchandler: I feel violated. And not in a good way.",
+  "phoebe_transcript": "How can people do that?... (All but Phoebe walk away from the window in disgust.) Oh, you guys, look! Ugly Naked Guy got gravity boots!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2821\\merged_before_phoebe_2821.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2821\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: I’m sorry, it’s just one of my last nights together before she leaves for camp—to be a counselor!\nmonica: Ross let me ask you a question. All jokes aside, where is this relationship going?\nchandler: Wait a minute, all jokes aside? I didn’t agree to that!\nmonica: Do you really see this as a long-term thing?",
+  "phoebe_transcript": "Y’know, you are 12 years older than her.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5458\\merged_before_phoebe_5458.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5458\\actual_phoebe.wav"
+}

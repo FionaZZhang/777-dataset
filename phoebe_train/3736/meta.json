@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Oh my God, are you out of a job?",
+  "phoebe_transcript": "Personal shopping? What is that? Like where you walk around with snooty rich people and tell them what to buy?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3736\\merged_before_phoebe_3736.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3736\\actual_phoebe.wav"
+}

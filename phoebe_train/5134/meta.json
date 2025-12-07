@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Listen, do you guys think I have a chance with Janine?\nmonica: Honey, we have been through this before!\nrachel: Yeah. Don’t do this to yourself.",
+  "phoebe_transcript": "She’s made it pretty clear, it is not going to happen.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5134\\merged_before_phoebe_5134.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5134\\actual_phoebe.wav"
+}

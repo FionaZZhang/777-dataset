@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: No! Seriously! What’s wrong with you?!\nross: You’re gonna love me so much. I got Sting tickets!! (Holds up two.)",
+  "phoebe_transcript": "Oh my God! I do love you! How did you do it?!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4059\\merged_before_phoebe_4059.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4059\\actual_phoebe.wav"
+}

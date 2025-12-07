@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Y’know who has a great video camera?",
+  "phoebe_transcript": "(nasally) Greg and Jenny?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5531\\merged_before_phoebe_5531.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5531\\actual_phoebe.wav"
+}

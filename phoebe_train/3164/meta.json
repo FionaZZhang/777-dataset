@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Oh, ah, tour guide at the museum. Yeah, Ross got it for me.\nrachel: Well, how can you be a tour guide, don’t you have to be a dinosaur expert or something?\njoey: No, not really. They give you all the information, it’s uh, it’s like memorizing a script. (Making like a tour guide) \"And on your left, you have Tyrannosaurus Rex, a carnivore from the Jurassic period.\njoey: Yeah but, I can pronounce Jurassic.",
+  "phoebe_transcript": "Guess what. Frank Jr., and Alice got married!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3164\\merged_before_phoebe_3164.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3164\\actual_phoebe.wav"
+}

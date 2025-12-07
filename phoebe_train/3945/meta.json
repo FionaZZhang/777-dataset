@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: , really gorgeous! (Joey clears his throat.) I still love Chandler.\njoey: I just want you to say it once in a while.\nmonica: All right okay, just so you know, I’m not gonna make a turkey this year.",
+  "phoebe_transcript": "Turkey’s are beautiful, intelligent animals!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3945\\merged_before_phoebe_3945.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3945\\actual_phoebe.wav"
+}

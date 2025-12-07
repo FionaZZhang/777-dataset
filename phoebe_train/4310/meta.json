@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: If only there were a smaller one to clean this one!\njoey: Hey, is uhm... is Chandler here?\nmonica: No, he’s picking up dinner, why, what’s up?",
+  "phoebe_transcript": "Well, look, whatever happens, we’re here for you and we love you.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4310\\merged_before_phoebe_4310.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4310\\actual_phoebe.wav"
+}

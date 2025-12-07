@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I lent them to Ross.\nross: I gave them to Joey.\njoey: I left them at the park.\nross: (looking at Joey's butt) I'm finding it really hard not to mess with him.",
+  "phoebe_transcript": "I've already stuffed a bunch of Brussel sprouts down his pants.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1181\\merged_before_phoebe_1181.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1181\\actual_phoebe.wav"
+}

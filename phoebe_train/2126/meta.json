@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (on phone) Yeah, you want 55-JUMBO. Yeah, that's right. That's right, JUMBO with a U, sir. (pause) No, belive me, you don't want me. Judging by his number, I'd be a huge disappointment. (pause) All rightie, bye bye.\njoey: Hey, hey. How was the first day?",
+  "phoebe_transcript": "Oh, exellent. Everyone was so, so nice.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2126\\merged_before_phoebe_2126.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2126\\actual_phoebe.wav"
+}

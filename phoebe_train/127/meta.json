@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: I believe in tall, handsome strangers who hit on my wife!",
+  "phoebe_transcript": "They’re just talking, and y’know what? Just because I think they’re soul mates doesn’t mean anything’s gonna happen.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\127\\merged_before_phoebe_127.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\127\\actual_phoebe.wav"
+}

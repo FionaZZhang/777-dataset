@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I-I am serious, I mean, we're, we're all over each other all the time.",
+  "phoebe_transcript": "Okay, you know where you are better than I do. I was just curious.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4899\\merged_before_phoebe_4899.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4899\\actual_phoebe.wav"
+}

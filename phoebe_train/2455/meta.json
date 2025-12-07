@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Ohh. And I don’t even have a date.\nrachel: Do you remember where the duck food is?",
+  "phoebe_transcript": "Yeah, it’s in the guys’ apartment under the sink. Why?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2455\\merged_before_phoebe_2455.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2455\\actual_phoebe.wav"
+}

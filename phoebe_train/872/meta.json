@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Honey, maybe we should take you to a doctor.\nmonica: No, my eye doctor is Richard! I can’t go to him when I don’t have a boyfriend!\nchandler: He’s really picky about his patients.",
+  "phoebe_transcript": "Honey, you’ve got to go. What’s his office number?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\872\\merged_before_phoebe_872.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\872\\actual_phoebe.wav"
+}

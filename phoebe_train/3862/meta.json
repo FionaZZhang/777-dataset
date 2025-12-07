@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Well, we were walking down the street and we saw that van that you guys used for catering and we realised…",
+  "phoebe_transcript": "Okay. You know how people need transportation, but they also need massages to help them relax so I just figured we could combine the two, okay, I give the massages and Frank drives! I can fix up the van, bolt the table in the back, and you know what I’ve got?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3862\\merged_before_phoebe_3862.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3862\\actual_phoebe.wav"
+}

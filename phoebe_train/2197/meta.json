@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Hey, that guy's going home with more than a note!\nross: Come here, Marcel. Sit here. (Marcel wanders off)\nrachel: Pheebs, I can't believe he hasn't kissed you yet. I mean God, by my sixth date with Paolo, I mean he had already named both my breasts! ...Ooh. Did I just share too much?\nross: Just a smidge.",
+  "phoebe_transcript": "David's like, y'know, Scientist Guy. He's very methodical.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2197\\merged_before_phoebe_2197.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2197\\actual_phoebe.wav"
+}

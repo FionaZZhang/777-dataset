@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Is everything ok?",
+  "phoebe_transcript": "Um, no, huh-uh. One of my clients died on the massage table today.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2998\\merged_before_phoebe_2998.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2998\\actual_phoebe.wav"
+}

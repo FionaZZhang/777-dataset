@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I know you did. I'm just gonna deal with it, I'm just gonna deal with it. (Ross comes by, smoching with Julie on the phone.) I gotta get out of here. (Exits)\nchandler: Ok, I don't care what you guys say, something's bothering her.\njoey: (to Chandler) You know, I think I was sixteen.\nmonica: (to Phoebe) Please, just a little bit off the back.",
+  "phoebe_transcript": "I'm still on \"no.\"",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\570\\merged_before_phoebe_570.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\570\\actual_phoebe.wav"
+}

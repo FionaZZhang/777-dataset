@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I’m not vanilla! I’ve done lots of crazy things! I mean I got-I got drunk and married in Vegas!\nrachel: All right, y’know what? If you don’t want to believe me about this, why don’t you just come with me to dinner tonight and she will tell you.",
+  "phoebe_transcript": "Okay! All right! Yeah! ‘Cause I just can’t picture it.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3333\\merged_before_phoebe_3333.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3333\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (looking at the coffee table where his money was) Hey umm, was-was Monica here?\nross: Yeah, I want my money back.\nrachel: (going out the door) Yeah, uh you-you probably need that for stamps, right?\nross: Hey Pheebs, has Gary ever been shot at for real?",
+  "phoebe_transcript": "Yes. Once. Yeah, a little. He kinda did it to himself. It's not really a good story.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\727\\merged_before_phoebe_727.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\727\\actual_phoebe.wav"
+}

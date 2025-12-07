@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Phoebe and I saw Chandler with a blonde woman today outside on the street and then we followed them to a house in Westchester.",
+  "phoebe_transcript": "They went in together. So sorry.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4315\\merged_before_phoebe_4315.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4315\\actual_phoebe.wav"
+}

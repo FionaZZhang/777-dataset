@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (Reading) \"Happy Birthday Peehe.\"\nmonica: Well maybe we can make a, a, a 'B' out of one of those roses.",
+  "phoebe_transcript": "Hey, what's going on?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2055\\merged_before_phoebe_2055.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2055\\actual_phoebe.wav"
+}

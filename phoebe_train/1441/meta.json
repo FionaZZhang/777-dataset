@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Here you go. (Hands Emma to Phoebe)",
+  "phoebe_transcript": "Shh! Nothing works with this child! (Hands her back.)",
+  "merged_wav": null,
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1441\\actual_phoebe.wav"
+}

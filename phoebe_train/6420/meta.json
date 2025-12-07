@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Nice work everybody! So much for the y’know, \"You can drive it, but don’t tell Rachel\" plan!\nrachel: Wow! I can’t believe you lied to me.",
+  "phoebe_transcript": "Okay, I can fix this! Okay Monica, Rachel thinks all you can talk about is the wedding. (Rachel glares at her.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6420\\merged_before_phoebe_6420.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6420\\actual_phoebe.wav"
+}

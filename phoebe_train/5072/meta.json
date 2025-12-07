@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Hmm, care to make it interesting? I’ll bet you that she’ll have it by this time tomorrow.\nmonica: Okay, how much?\nmonica: How about fifty bucks?",
+  "phoebe_transcript": "Fine! I’ll call Zurich and move some money around.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5072\\merged_before_phoebe_5072.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5072\\actual_phoebe.wav"
+}

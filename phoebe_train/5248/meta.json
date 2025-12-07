@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "richard: Uh, the guy was Lou Gehrig. Didn't you kinda see it coming?",
+  "phoebe_transcript": "Phoebe, just watch that, I promise it will resotre all your faith in humanity.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5248\\merged_before_phoebe_5248.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5248\\actual_phoebe.wav"
+}

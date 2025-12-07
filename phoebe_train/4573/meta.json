@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (entering) Check it out! Check it out! When the babies wake up, they can meet Krog! (He holds up this Xena-like warrior action figure.)\nmonica: Chandler, what are you doing? That thing can put someone’s eye out!\nchandler: He can do more than that! He can destroy the universe!",
+  "phoebe_transcript": "No Chandler, they can swallow one of those little parts! And also, look at his smooth area, that’s just gonna mess them up.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4573\\merged_before_phoebe_4573.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4573\\actual_phoebe.wav"
+}

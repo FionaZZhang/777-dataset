@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Now go! ‘Cause you can still catch her! And Merry Christmas from you’re secret Santa! (Chandler runs out and closes the door.)\njoey: All right, who got Chandler? ‘Cause I uh, need to trade.\nrachel: Oh, he sees her!\nmonica: Oh, he’s catching up to her!",
+  "phoebe_transcript": "Oh, she sees him! Oh, they’re hugging!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\911\\merged_before_phoebe_911.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\911\\actual_phoebe.wav"
+}

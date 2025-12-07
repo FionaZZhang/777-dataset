@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Come on, let me see that smile.\njoey: I wanted to go to the strip club!\nchandler: I know, I know, but you’re gonna have plenty of chances. There are literally thousands of women out there just waiting to screw me over.\njoey: Yeah, all right. (Ross enters.)",
+  "phoebe_transcript": "Hey—ooh so, how was Vermont?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3269\\merged_before_phoebe_3269.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3269\\actual_phoebe.wav"
+}

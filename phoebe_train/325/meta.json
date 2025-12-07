@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Monica's big night, she shouldn't pay.\nross: So five of us is, $33.50 apiece.",
+  "phoebe_transcript": "No, huh uh, no way, I'm sorry, not gonna happen.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\325\\merged_before_phoebe_325.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\325\\actual_phoebe.wav"
+}

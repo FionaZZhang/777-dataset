@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: That sounds like my first bike. (They all turn and look at him.) My dad gave me his old one.\nmonica: Did the girl ever let you ride it?",
+  "phoebe_transcript": "No! But she gave me the box that it came in. It had a picture of the bike on the front. (They’re all speechless) So I would sit on it and my step-dad would drag me around the backyard.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\989\\merged_before_phoebe_989.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\989\\actual_phoebe.wav"
+}

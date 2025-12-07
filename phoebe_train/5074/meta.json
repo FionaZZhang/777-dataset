@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: A little tall.\njoey: Do you mind crouching down a little bit, so that I look taller? (Chandler does so) There you go. (And they walk down the red carpet.)\nchandler: It’s just so glamorous.",
+  "phoebe_transcript": "Oh hey Mon? Rach is here! Ohh, you’re still pregnant. Oh, I’m sorry. I know how uncomfortable you are. Y’know what? You look great. Yeah, like fifty bucks.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5074\\merged_before_phoebe_5074.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5074\\actual_phoebe.wav"
+}

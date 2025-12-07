@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: I can't believe you're so uptight about your mom comin'.\nrachel: I know, but it's just it's the first time, and I just don't want her to thinkthat because I didn't marry Barry, that my life is total crap, you know?",
+  "phoebe_transcript": "[Mrs. Adelman's voice] Talk about crap. Try listening to Stella Niedmantell the story of her and Rod Steiger for the hundredth time.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3007\\merged_before_phoebe_3007.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3007\\actual_phoebe.wav"
+}

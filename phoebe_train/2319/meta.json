@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Hey! Babe! Aren’t you excited we’re going on our honeymoon?\nmonica: Yeah I am!\nmonica: That’s right. Get it out of your system while we’re alone.",
+  "phoebe_transcript": "Yeah! Have a great honeymoon!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2319\\merged_before_phoebe_2319.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2319\\actual_phoebe.wav"
+}

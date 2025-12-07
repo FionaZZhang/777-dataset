@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Ok, which one of us do you think is gonna be the first one to get married?\nross: Well, Mon, I was married.",
+  "phoebe_transcript": "Yeah, me, too, technically.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3049\\merged_before_phoebe_3049.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3049\\actual_phoebe.wav"
+}

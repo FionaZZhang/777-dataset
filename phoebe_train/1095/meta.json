@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh Phoebe, listen. Well, I think we gotta go. This place is really freaking me out. I've been watching this guy over there, I don't think he came with a kid!",
+  "phoebe_transcript": "We can't leave now! There was this one baby, Haley, who was favourite to win and she got croup, so she had to stay home! This competition just blew wide open, folks!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1095\\merged_before_phoebe_1095.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1095\\actual_phoebe.wav"
+}

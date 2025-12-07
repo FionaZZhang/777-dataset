@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: The woman that got married a bunch of times and killed herself when you were 13?",
+  "phoebe_transcript": "Oh my God! You’re right! Go! (Monica starts to leave.) Go tell Chandler! Hurry before it’s too late! Wait no! (Monica stops.) Does this also mean putting out doesn’t get you love? (Monica is shocked.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2494\\merged_before_phoebe_2494.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2494\\actual_phoebe.wav"
+}

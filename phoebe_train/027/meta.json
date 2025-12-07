@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Yeah and you better watch the flirting too, cause you know, in such close quarters, it could be trouble.\njoey: Well, that's gonna be tough Mon. I mean it's hard for me to be around an attractive woman and not flirt.\nmonica: (chuckles) Hmm, well you're around me all the time and you don't flirt.\njoey: You a little sad about that sweetheart?",
+  "phoebe_transcript": "I have to tie my shoe, so you go ahead, I'll catch up.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\027\\merged_before_phoebe_027.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\027\\actual_phoebe.wav"
+}

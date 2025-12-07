@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: All right, put your 20 bucks down. First one to find the tasty treat wins. Okay?\njoey: All right. Let's get the contestants out of their isolation booths. (He removes the waste bucket that's over the duck and the laundry basket that's over the chicken.) And they're off! (He puts his foot in front of the chick, stopping it from moving.)",
+  "phoebe_transcript": "Get your foot off my contestant! Judge!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3924\\merged_before_phoebe_3924.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3924\\actual_phoebe.wav"
+}

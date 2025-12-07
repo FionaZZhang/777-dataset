@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: How about Tony's? If you can finish a 32-ounce steak, it's free.\nross: OK, ahem, hey, does anybody know a good place if you're not dating a puma?\nchandler: Who are you going out with?",
+  "phoebe_transcript": "Oh, is this the bug lady?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1204\\merged_before_phoebe_1204.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1204\\actual_phoebe.wav"
+}

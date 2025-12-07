@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Her dancer friends?\njoey: (frustrated) Yes, all right? All of her hot dancer friends are gonna be there and they’re gonna be, be drinkin’ and dancin, and we really wanna go!\nross: (to Joey) Dude, we were good!\nmonica: You’re not gonna go anywhere, you said you were gonna eat here, and you’re gonna eat here!",
+  "phoebe_transcript": "Yeah, and-and leaving us to go see hot dancer girls is not very Thanksgivingy.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1742\\merged_before_phoebe_1742.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1742\\actual_phoebe.wav"
+}

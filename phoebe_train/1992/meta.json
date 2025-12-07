@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: !! I mean, look, I left a note and everything.\nchandler: (reading) Knock-knock. Who's there? Ross Geller's lunch. Ross Geller's lunch, who? Ross Geller's lunch, please don't take me. Okay?\njoey: I'm surprised you didn't go home wearing your lunch.",
+  "phoebe_transcript": "Okay, look you wanna hold onto your food? You gotta scare people off. I learned that living on the street.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1992\\merged_before_phoebe_1992.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1992\\actual_phoebe.wav"
+}

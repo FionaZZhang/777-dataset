@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: He just told me at the counter. He made me promise not to tell, but I couldn't hold it in any longer!",
+  "phoebe_transcript": "I can't believe this!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1520\\merged_before_phoebe_1520.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1520\\actual_phoebe.wav"
+}

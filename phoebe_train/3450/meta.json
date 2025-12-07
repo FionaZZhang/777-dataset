@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Wow, this is wild. What're you gonna get?",
+  "phoebe_transcript": "Um, I'm getting a lily for my Mom. 'Cause her name's Lily.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3450\\merged_before_phoebe_3450.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3450\\actual_phoebe.wav"
+}

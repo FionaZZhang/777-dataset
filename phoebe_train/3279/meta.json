@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Bye. (Finally closes the door on her.) (After it’s closed) I can’t stand the woman! (Phoebe is shocked, Joey is relieved.)",
+  "phoebe_transcript": "What?! I thought you were crazy about her!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3279\\merged_before_phoebe_3279.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3279\\actual_phoebe.wav"
+}

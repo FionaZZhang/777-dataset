@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: All right, I’ll-I’ll take it again when I get home.\nmonica: You-you gotta take it now. Come on, do it as a present to me.\nrachel: Okay. Thank you.",
+  "phoebe_transcript": "I’ll run out and get you one.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6181\\merged_before_phoebe_6181.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6181\\actual_phoebe.wav"
+}

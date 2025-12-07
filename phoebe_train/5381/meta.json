@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Ben, Ben, hey Ben. Nothing. I don't think that's his name.",
+  "phoebe_transcript": "Oh, look, look, he's closing his eyes. (screen goes blank) Look, he's opening his eyes. (picture comes back)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5381\\merged_before_phoebe_5381.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5381\\actual_phoebe.wav"
+}

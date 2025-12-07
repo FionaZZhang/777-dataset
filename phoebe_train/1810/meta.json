@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: That's what it sounded like.\nfrank_jr: (To Phoebe) Hey! Am I late? Am I late? Nobody came out yet, right?",
+  "phoebe_transcript": "No-no-no! We haven't started yet. Where's Alice?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1810\\merged_before_phoebe_1810.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1810\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I don’t know, let me think. I was walking down the street thinking, ‘I’m gonna tell the father today’ and then bam!\nrachel: No, you! Phoebe you freaked me out. You kept saying how huge this all is!",
+  "phoebe_transcript": "Well-well but it is huge.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\282\\merged_before_phoebe_282.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\282\\actual_phoebe.wav"
+}

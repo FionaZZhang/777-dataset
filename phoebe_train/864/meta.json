@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Hey, what time is it? The big game is about to start!",
+  "phoebe_transcript": "You don’t have to do that, Ross and Joey aren’t here, you can watch the parade if you want.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\864\\merged_before_phoebe_864.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\864\\actual_phoebe.wav"
+}

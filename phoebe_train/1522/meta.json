@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (terrified) Right, because it's fast. Because, it's so fast. It's fast!\nmonica: Relax! It's Phoebe! Not you!\nchandler: Oh! Good for you Pheebs, way to go! (Breathes a sigh of relief)",
+  "phoebe_transcript": "fast. Isn't it?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1522\\merged_before_phoebe_1522.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1522\\actual_phoebe.wav"
+}

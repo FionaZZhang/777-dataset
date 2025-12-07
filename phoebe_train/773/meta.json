@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (to everybody) All right, let’s get this party started, huh?    Joey and Phoebe are gonna perform a little something for us.",
+  "phoebe_transcript": "(to Joey) Are you gonna be embarrassed going up there having nothing    prepared?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\773\\merged_before_phoebe_773.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\773\\actual_phoebe.wav"
+}

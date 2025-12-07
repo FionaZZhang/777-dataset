@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Ok, here we go. We need to sort out the tickets as quickly as possible to see if we've won. So does anybody have any ideas how to organize this? (doesn't let them answer) Ok, how about this we divide them into 6 groups of 40, and the remaining 10 can be read by whoever finishes their pile first.\nrachel: Ooh, I have another idea!\nmonica: I'm sorry, idea time is over.",
+  "phoebe_transcript": "Ok, well, are all the tickets in the bowl?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1903\\merged_before_phoebe_1903.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1903\\actual_phoebe.wav"
+}

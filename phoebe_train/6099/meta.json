@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Okay. Okay. All right, you take care of that. And meanwhile, the party is tomorrow and we still don’t have a guest list.",
+  "phoebe_transcript": "Okay. Okay! Well okay, who do we know that’s coming? Me. Are you?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6099\\merged_before_phoebe_6099.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6099\\actual_phoebe.wav"
+}

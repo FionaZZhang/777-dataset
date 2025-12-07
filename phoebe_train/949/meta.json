@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Screw the Knicks!\nchandler: I didn’t mean that. I just meant that the apartment is worth so much more.\nchandler: And the Knicks rule all.",
+  "phoebe_transcript": "Hey, so? Are you gonna do it?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\949\\merged_before_phoebe_949.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\949\\actual_phoebe.wav"
+}

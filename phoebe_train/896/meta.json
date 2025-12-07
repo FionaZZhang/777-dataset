@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Hey, come on, Phoebe, you understand don’t you?",
+  "phoebe_transcript": "Yeah, I can see where I’d be your best shot but, no. I’m sorry, but I think it’s twisted.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\896\\merged_before_phoebe_896.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\896\\actual_phoebe.wav"
+}

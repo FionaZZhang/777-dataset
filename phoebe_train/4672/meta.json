@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (looking at Phoebe eating something) Pheebs, spit that out, that has pork in it.",
+  "phoebe_transcript": "Oh! I though the pot stickers were supposed to be vegetarian!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4672\\merged_before_phoebe_4672.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4672\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Okay, Pheebs, you look in the kitchen, I will look in the back closet.\nchandler: I can save you time ladies, I'm right here.",
+  "phoebe_transcript": "Yeah, Chandler why don't you take a walk? This doesn't concern you.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4462\\merged_before_phoebe_4462.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4462\\actual_phoebe.wav"
+}

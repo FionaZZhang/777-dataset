@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: C'mon, sit. Just sit down, sit.\nmonica: You should feel great about yourself! You're\nrachel: Monica, what is so amazing? I gave up, like,",
+  "phoebe_transcript": "You are just like Jack.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6395\\merged_before_phoebe_6395.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6395\\actual_phoebe.wav"
+}

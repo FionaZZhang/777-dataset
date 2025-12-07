@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: your eyebrows  are...\njoey: Ok! Stop it you guys! Stop staring! You're freaking me out!",
+  "phoebe_transcript": "Your knuckles are kinda hairy too...",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6242\\merged_before_phoebe_6242.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6242\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: What are you reading? The Kidnappers Guide to Manhattan Private Schools?",
+  "phoebe_transcript": "magazine. It’s an article about the best schools in the city. So how well do you know Sting?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4023\\merged_before_phoebe_4023.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4023\\actual_phoebe.wav"
+}

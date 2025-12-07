@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Alright, well the rest of you get comfortable, ok, because we're gonna    be here for a li...(stops and thinks) Wait a minute, there is a window in there!",
+  "phoebe_transcript": "Oh no! He's not getting away that easy! (Phoebe and Joey run towards    the bathroom and enter)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\797\\merged_before_phoebe_797.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\797\\actual_phoebe.wav"
+}

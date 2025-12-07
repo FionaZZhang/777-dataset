@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Yeah. You're not gonna end up alone.",
+  "phoebe_transcript": "Chandler, you called Janice! That's how much you wanted to be with someone!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1321\\merged_before_phoebe_1321.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1321\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Hey-hey-hey-hey, I can help you decide who should do it! Yeah, we could have like uh, like an audition and see how you’d handle maid of honor type situations.\njoey: Like when I want a job, I go to an audition and if I’m the best of the people they see, they give me the part.",
+  "phoebe_transcript": "Okay, so after this audition, who decides who gets it?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4155\\merged_before_phoebe_4155.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4155\\actual_phoebe.wav"
+}

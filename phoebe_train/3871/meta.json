@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: All right. When is, when is the next flight out?\nross: About four hours.\nmonica: Okay, just stay there a couple more hours and if she doesn’t show up by then, then just come on home.",
+  "phoebe_transcript": "Hey, tell him about Relaxi-Taxi, and-and ask him if he thinks that’s better than Relaxi Cab.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3871\\merged_before_phoebe_3871.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3871\\actual_phoebe.wav"
+}

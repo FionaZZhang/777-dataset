@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Is Rachel here? I gotta talk to her.\nmonica: No, she's out shopping.\nchandler: What's going on?\nross: I told Emily to come. And I just need to y'know, talk to Rachel about it.",
+  "phoebe_transcript": "Wait a minute! So when Emily comes you're just, you're not gonna see Rachel anymore?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3622\\merged_before_phoebe_3622.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3622\\actual_phoebe.wav"
+}

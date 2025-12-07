@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Chandler, aren’t you worried about what to get Monica for Christmas?\nchandler: No, I have a great idea for a present for her.",
+  "phoebe_transcript": "Oh, that’s it? (Mimics Chandler) A great idea!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1646\\merged_before_phoebe_1646.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1646\\actual_phoebe.wav"
+}

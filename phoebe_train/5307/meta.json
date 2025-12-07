@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Yeah that's the same.\nmonica: That's it. That's my worse Thanksgiving.",
+  "phoebe_transcript": "Oh wait! That can't be the one Rachel's talking about. She didn't even know that happened. So which one was it?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5307\\merged_before_phoebe_5307.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5307\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Yeah, yeah, what's with the trophy!",
+  "phoebe_transcript": "Uh, we were at the Spelling Bee!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1126\\merged_before_phoebe_1126.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1126\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Guys, we bought the tickets.",
+  "phoebe_transcript": "Oh, well, then you'll have extra seats, you know, for all your tiaras andstuff.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\357\\merged_before_phoebe_357.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\357\\actual_phoebe.wav"
+}

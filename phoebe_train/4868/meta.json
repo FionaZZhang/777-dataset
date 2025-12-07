@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oooooh. (reads letter) (surprised) Oh! I got an interview! I got an interview!\nmonica: You're kidding! Where? Where?",
+  "phoebe_transcript": "Oh, it's like the mother ship is calling you home.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4868\\merged_before_phoebe_4868.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4868\\actual_phoebe.wav"
+}

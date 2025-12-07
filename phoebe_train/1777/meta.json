@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Yeah, I’m not gonna pay for those acting classes anymore.\njoey: Rachel, there you are! Come on, let’s serve that dessert already!\nrachel: Joey, you’re gonna have to stop rushing me, you know what? You don’t get any dessert.\nrachel: No, I’m just kidding I would never do that to you! Okay, everybody, it’s trifle time!",
+  "phoebe_transcript": "So, now, Rach, this is a traditional English trifle, isn’t it?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1777\\merged_before_phoebe_1777.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1777\\actual_phoebe.wav"
+}

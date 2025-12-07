@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: He's not stoned.",
+  "phoebe_transcript": "Did he go out for a cigarette?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2577\\merged_before_phoebe_2577.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2577\\actual_phoebe.wav"
+}

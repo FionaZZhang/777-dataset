@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: What? A dog? No! Rachel gets to choose.\nrachel: (sarcastic) Wow, this is a tough one. I think I'm gonna have to go with the dog.",
+  "phoebe_transcript": "Alright, wait, so what you're saying is that the chef is at the Hamilton Club, but the food is not and the drinks are there, but the bartender is not? Are you, are you FREAKING KIDDING ME!?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4708\\merged_before_phoebe_4708.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4708\\actual_phoebe.wav"
+}

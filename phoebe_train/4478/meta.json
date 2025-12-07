@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh, it's a Macy's bag!",
+  "phoebe_transcript": "Ooh, who's it for?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4478\\merged_before_phoebe_4478.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4478\\actual_phoebe.wav"
+}

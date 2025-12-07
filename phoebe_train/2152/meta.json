@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: That was there when I got here. [Takes a bite of his muffin.]",
+  "phoebe_transcript": "[enters] Hey you guys, you will never guess who's coming to New York.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2152\\merged_before_phoebe_2152.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2152\\actual_phoebe.wav"
+}

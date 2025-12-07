@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Oh my—This is so embarrassing. Oh my God, I’m never gonna get massaged again!",
+  "phoebe_transcript": "No, you can’t let this stop you from getting massages! No look, I have, I have lots of clients that make the same noises you do!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3129\\merged_before_phoebe_3129.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3129\\actual_phoebe.wav"
+}

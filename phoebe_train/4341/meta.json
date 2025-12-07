@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: You put an offer on a house?\nmonica: sweet. It really is. It has this big yard that leads down to this stream and then there's these old maple trees... (gets cut off)",
+  "phoebe_transcript": "Wha..? Again with the nature, what are you? Beavers?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4341\\merged_before_phoebe_4341.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4341\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh! So you're driving up to Connecticut?\nmonica: Hey, maybe I'll drive you up there! I'd like to buy some tickets myself!\nmonica: Yeah with Chandler not getting paid, we could really use 300 million dollars.\nchandler: Yeah, because if I was at my old job we'd say 300 million? No thank you!",
+  "phoebe_transcript": "Hey will you get me tickets too?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1840\\merged_before_phoebe_1840.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1840\\actual_phoebe.wav"
+}

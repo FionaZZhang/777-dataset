@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh thank you! (Wiping her nose.) Oh God! (She throws it out.) Can I have another one?",
+  "phoebe_transcript": "(looking into the trash can) Sure. (Reaching into the trash can.) Do you need some floss? (Grabs a piece of it.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6056\\merged_before_phoebe_6056.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6056\\actual_phoebe.wav"
+}

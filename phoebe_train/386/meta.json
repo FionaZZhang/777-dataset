@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: So did Monica tell you about this great band called the Swing Kings that we’re trying to get to play at the wedding?",
+  "phoebe_transcript": "Since when are you into swing music?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\386\\merged_before_phoebe_386.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\386\\actual_phoebe.wav"
+}

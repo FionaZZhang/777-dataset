@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (changing subject) OK, so at this point, the dealer...\nmonica: Alright, you know, we got it, we got it. Let's play for real. High stakes... big bucks...\nross: Alright, now, you sure? Phoebe just threw away two jacks because they didn't look happy...",
+  "phoebe_transcript": "But... I'm ready, so, just deal.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4852\\merged_before_phoebe_4852.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4852\\actual_phoebe.wav"
+}

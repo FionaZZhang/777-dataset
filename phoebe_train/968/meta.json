@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: You wanna finish this right now? All right, we get a deck of cards, high card wins. What do you say?",
+  "phoebe_transcript": "Oh, I have cards!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\968\\merged_before_phoebe_968.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\968\\actual_phoebe.wav"
+}

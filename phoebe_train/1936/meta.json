@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh, if she jumps, I get her tickets.",
+  "phoebe_transcript": "If we are not doing it together, we're not doing it at all! So, say goodbye to your tickets! (She holds out the bowl, and makes as to drop the tickets on the street).",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1936\\merged_before_phoebe_1936.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1936\\actual_phoebe.wav"
+}

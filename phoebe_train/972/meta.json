@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: That’s a low one!",
+  "phoebe_transcript": "What make you think I can?! (Shields her eyes from it.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\972\\merged_before_phoebe_972.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\972\\actual_phoebe.wav"
+}

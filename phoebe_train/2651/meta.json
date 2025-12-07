@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Wow Pheebs, you speak Italian?",
+  "phoebe_transcript": "I guess so. (See, the brief possession didn't affect her at all, like we could really tell.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2651\\merged_before_phoebe_2651.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2651\\actual_phoebe.wav"
+}

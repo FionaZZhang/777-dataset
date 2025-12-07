@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: ! Hey, so tell me about this Jane Eyre woman.",
+  "phoebe_transcript": "No! You should've read it yourself!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2001\\merged_before_phoebe_2001.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2001\\actual_phoebe.wav"
+}

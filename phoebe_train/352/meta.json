@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: I don't, I don't understand. I mean, you, it's like we can't win with you guys.\nchandler: If you guys feel this big, maybe that's not our fault. Maybe that's just howyou feel.\njoey: Oh, now you're tellin' us how you feel.\nrachel: Ok, we never shoulda talked about this.",
+  "phoebe_transcript": "I'm just gonna pass on the concert, 'cause I'm just not in a very Hootie placeright now.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\352\\merged_before_phoebe_352.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\352\\actual_phoebe.wav"
+}

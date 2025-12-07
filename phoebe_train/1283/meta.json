@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: That's what it says.\nchandler: Wow, Heckles was voted class clown, and so was I. He was right. Would youlisten to that?",
+  "phoebe_transcript": "I'd call that excessive.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1283\\merged_before_phoebe_1283.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1283\\actual_phoebe.wav"
+}

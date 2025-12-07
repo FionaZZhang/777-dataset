@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: ! A shot was fired. And Joey with no regard for his own safety throws himself on me!",
+  "phoebe_transcript": "My God, Joey!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\682\\merged_before_phoebe_682.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\682\\actual_phoebe.wav"
+}

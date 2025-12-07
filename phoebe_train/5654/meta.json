@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: What an interesting approach to guitar instruction. Y'know some might find it amusing, I myself find it regular.",
+  "phoebe_transcript": "Hey everybody, Rachel was so good today. She didn't gossip at all.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5654\\merged_before_phoebe_5654.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5654\\actual_phoebe.wav"
+}

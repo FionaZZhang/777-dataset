@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: AND YOU KNOW!!!\njoey: Yeah, I know!!!!\nrachel: Chandler and Monica?!! Oh, this is unbelievable!! How long have you known?\njoey: Too long! Oh my God, Rach, I've been dying to talk to someone about this for so long! Listen, listen, we can't say anything about this to anybody, they're so weird about that! Listen… (Phoebe returns and interrupts them.)",
+  "phoebe_transcript": "Hey! It's raining. I don't want to fly in the rain. So…",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5698\\merged_before_phoebe_5698.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5698\\actual_phoebe.wav"
+}

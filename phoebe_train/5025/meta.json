@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Hey, don't look at me. This is Ross's thing.",
+  "phoebe_transcript": "This is so typical. I'm always the last one to know everything.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5025\\merged_before_phoebe_5025.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5025\\actual_phoebe.wav"
+}

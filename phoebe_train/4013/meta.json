@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Here are your cakes.\nmonica: We didn't order cake.\nrachel: No, I know, they're from me. Look you guys this is not good. I mean we have enough trouble with guys stealing our wind without taking it from each other.",
+  "phoebe_transcript": "I love you goddesses. I don't ever want to suck your wind again.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4013\\merged_before_phoebe_4013.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4013\\actual_phoebe.wav"
+}

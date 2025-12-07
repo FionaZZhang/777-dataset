@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: (in a manly voice) I’m gonna go shave. (Gets up.)\nchandler: (in a manly voice) Yeah well, I’m gonna go spit. (He goes into the bedroom. On his way out, Joey gives Rachel a wide berth.)\nrachel: Oh, I have to pee. If I don’t come out in five minutes it’s because I’ve choked to death on the potpourri stink. (Goes into the bathroom.)",
+  "phoebe_transcript": "When she comes out, you hold her nose, I’ll blow in her mouth, and the kid will just (makes a popping sound) right out of her.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5066\\merged_before_phoebe_5066.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5066\\actual_phoebe.wav"
+}

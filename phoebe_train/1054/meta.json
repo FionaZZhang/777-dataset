@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: It's not? (whispering to Ross) When was she born?",
+  "phoebe_transcript": "Well, personally I think it's great you're giving yourself a break.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1054\\merged_before_phoebe_1054.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1054\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Hey Joey, what would you do if someone that you slept with told you that she was pregnant?\njoey: (warily) Who called here? Did she sound blond? Huh? Did-did-did she have an accent? I gotta make a call! (Starts to leave) I shoulda never walked into that Sunglass Hut!\nrachel: Oh Joey! Joey! No, it’s not you! You didn’t get anybody pregnant!\njoey: Oh. Why would you scare me like that? What the hell is going on? (Pause.) Is somebody pregnant?",
+  "phoebe_transcript": "Oh yeah. That’s me.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\254\\merged_before_phoebe_254.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\254\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I wish all guys could be like him.\nchandler: Are there no conscious men in the city for you two?\nmonica: He doesn't have anyone.",
+  "phoebe_transcript": "Yeah, we-we feel kinda responsible.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3373\\merged_before_phoebe_3373.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3373\\actual_phoebe.wav"
+}

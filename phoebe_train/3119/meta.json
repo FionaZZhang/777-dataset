@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Oh, I just…I feel terrible.\nchandler: Well, it’s not your fault. What are you gonna do? Not take her to the hospital? Y’know? You’re doing nothing wrong. (Pause) Except for harboring an all consuming love for the woman whose carrying his baby. (He loses his card behind the door.) Richard? If-if you’re in there, could you pass me my credit card?\nmonica: I gotta tell you, yesterday was amazing. That massage felt so good!",
+  "phoebe_transcript": "No-no, I got that.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3119\\merged_before_phoebe_3119.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3119\\actual_phoebe.wav"
+}

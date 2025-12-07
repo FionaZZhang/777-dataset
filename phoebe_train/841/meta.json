@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: What about your massage client?",
+  "phoebe_transcript": "I just felt so bad, missing this. So I just slipped him a little something,    you know. As long as I'm back in five or six hours, it will be alright.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\841\\merged_before_phoebe_841.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\841\\actual_phoebe.wav"
+}

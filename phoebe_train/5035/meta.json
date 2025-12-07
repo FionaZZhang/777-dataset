@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (to Ross) This is just Bactine. It won't hurt.\njoey: Sorry, that was wax.",
+  "phoebe_transcript": "Oh, poor little Tooty is scared to death. We should find his owner.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5035\\merged_before_phoebe_5035.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5035\\actual_phoebe.wav"
+}

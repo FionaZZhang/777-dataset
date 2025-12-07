@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: As a thank you, Rachel and I will kiss for one minute.\njoey: That was one good minute!\nmonica: Men are such idiots.\nrachel: Yeah! Can you believe that something that stupid actually got us our apartment back?",
+  "phoebe_transcript": "That’s so funny to think if you’d just done that right after the last contest, no one would have had to move at all.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\985\\merged_before_phoebe_985.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\985\\actual_phoebe.wav"
+}

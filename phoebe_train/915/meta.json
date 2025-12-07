@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: So—Hey, Pheebs! So, how are the elves?",
+  "phoebe_transcript": "I don’t know! How are the-the-the-the, y’know—You’re clothes aren’t funny.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\915\\merged_before_phoebe_915.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\915\\actual_phoebe.wav"
+}

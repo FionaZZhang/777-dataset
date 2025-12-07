@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Oh, I wish there was a job where I could wear this all the time. (Pause) Maybe someday, there will be.\nmonica: Oh God! He’s gonna come by and borrow some candles for his big date!\nmonica: No-no, Rachel, don’t get it! He can’t see us!",
+  "phoebe_transcript": "No, yeah! The groom cannot see the bride!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1368\\merged_before_phoebe_1368.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1368\\actual_phoebe.wav"
+}

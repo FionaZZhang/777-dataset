@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Have you seen Chandler?!\nmonica: The woman from the museum called and said that there was a cancellation and that we could move up our wedding and Chandler heard! (Phoebe gasps.) I know! How bad is this?!",
+  "phoebe_transcript": "Well for the regular guy, it’s bad, but Chandler, Oh dear God!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4817\\merged_before_phoebe_4817.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4817\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: : The cold weather hurts my hip!",
+  "phoebe_transcript": ") I know you're still mad at me, but can I just talk to you for a second?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1044\\merged_before_phoebe_1044.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1044\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (angrily) Did she call? You-you told her I was sick right? Always tell her I am sick!\nrachel: No, I-I just don’t know how you decide who to hire. I mean I’ve got it narrowed down to two people. One of them has great references and a lot of experience and then there’s this guy…\nchandler: What about him?\nrachel: I love him. He’s so pretty I wanna cry! I don’t know what to do. Tell me what to do.",
+  "phoebe_transcript": "Come on you know what to do! You hire the first one! You don’t hire an assistant because they’re cute, you hire them because they’re qualified.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\172\\merged_before_phoebe_172.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\172\\actual_phoebe.wav"
+}

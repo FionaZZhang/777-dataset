@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (To Monica) You told her?!\nmonica: She pulled it out of me! She’s like a conversational wizard!  How’d it go?",
+  "phoebe_transcript": "Well, you were wrong, he doesn’t like me!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5996\\merged_before_phoebe_5996.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5996\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: How did it go with Erin?\njoey: Oh, unbelievable! We had the best time!",
+  "phoebe_transcript": "Yay!! Oh so, you’re not, you’re not mad at us anymore?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3538\\merged_before_phoebe_3538.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3538\\actual_phoebe.wav"
+}

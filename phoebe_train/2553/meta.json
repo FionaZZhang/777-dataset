@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: She's this really boring woman. She's a teacher!\njoey: Yeah, yeah, she's really into history and foreign movies... And oh,       oh, she loves puzzles. Huh? Come on, who loves puzzles?",
+  "phoebe_transcript": "Well, Ross does. What... You're - you're ruining the plan! Joey,       you've - you've fixed him up with his perfect woman!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2553\\merged_before_phoebe_2553.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2553\\actual_phoebe.wav"
+}

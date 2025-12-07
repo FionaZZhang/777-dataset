@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (following her) Phoebe! I have to have those earrings, we're going to leave as soon as the show is over.",
+  "phoebe_transcript": "But I already gave them back to you!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2695\\merged_before_phoebe_2695.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2695\\actual_phoebe.wav"
+}

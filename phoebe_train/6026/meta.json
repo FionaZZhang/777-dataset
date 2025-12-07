@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh, wait Joey! We fought the Nazis in World War II, not World War I.\njoey: Whoa! Okay. Yeah well, who-who was in World War I? (Rachel pauses as she thinks.)\nrachel: You’re gonna be late! Go! Go! (He runs out.)\nmonica: Who did we fight in World War I?",
+  "phoebe_transcript": "Yes! Very good.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6026\\merged_before_phoebe_6026.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6026\\actual_phoebe.wav"
+}

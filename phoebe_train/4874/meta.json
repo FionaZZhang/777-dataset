@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: So, you gals wanna hand over your money now? That way, we don't have to go through the formality of actually playing.\nrachel: Ooooh, that's fine. We'll see who has the last laugh there, monkey boy.\nmonica: OK, we done with the chit-chat? Are we ready to play some serious poker?",
+  "phoebe_transcript": "(holding a card and waving it in front of her face) Hey you guys, look, the one-eyed jack follows me wherever I go. (they look at her) Right, OK, serious poker.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4874\\merged_before_phoebe_4874.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4874\\actual_phoebe.wav"
+}

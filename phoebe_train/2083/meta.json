@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Tell me what?\nmonica: Look at you, you won't even look at him.\nchandler: (sarcastically) Oh, come on tell me. I could use another reason why women won't look at me.\nrachel: All right, all right, all right. Last night, I had a dream that, uh, you and I, were...",
+  "phoebe_transcript": "Doing it on this table. (points at the table)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2083\\merged_before_phoebe_2083.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2083\\actual_phoebe.wav"
+}

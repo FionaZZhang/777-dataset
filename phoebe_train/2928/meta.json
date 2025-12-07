@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Wow, you seem to be doing so much better. That’s great. So how-how are things going?",
+  "phoebe_transcript": "Good. Y’know—no-no, okay, it’s-it feels like everything’s been about me lately, so what’s happening with you?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2928\\merged_before_phoebe_2928.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2928\\actual_phoebe.wav"
+}

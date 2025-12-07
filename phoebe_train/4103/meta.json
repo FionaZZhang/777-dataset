@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Hi, I'm Chandler, and I have no idea who Dorothy is.",
+  "phoebe_transcript": "Hey, look who's up! How do you feel?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4103\\merged_before_phoebe_4103.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4103\\actual_phoebe.wav"
+}

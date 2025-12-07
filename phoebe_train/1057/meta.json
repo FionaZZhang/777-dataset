@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: You guys, I ordered some chocolate pies from that bakery on Bleecker. Could you pick them up for me?",
+  "phoebe_transcript": "You're not making the pies yourself?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1057\\merged_before_phoebe_1057.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1057\\actual_phoebe.wav"
+}

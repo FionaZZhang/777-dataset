@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Yeah listen so, I thought I was getting better, so on my way home today I stopped by this guitar store and…",
+  "phoebe_transcript": "any of the guitars while you were there? Did you?!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5659\\merged_before_phoebe_5659.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5659\\actual_phoebe.wav"
+}

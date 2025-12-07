@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Well, he's my parents' best friend, he has to be there.\njoey: Oh, is today the day you're gonna tell them about you two?\nmonica: Yeah. It's my dad's birthday, I decided to give him a stroke.",
+  "phoebe_transcript": "No, I think you should tell them.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3461\\merged_before_phoebe_3461.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3461\\actual_phoebe.wav"
+}

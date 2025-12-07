@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (realizing) I have *not* thought this through!\nchandler: I know, I, I should have talked to you first about it.\nmonica: No, I think that this is what you wanna do, I think it's great!",
+  "phoebe_transcript": "Chandler, your being here is the best Christmas present I could have ever imagined.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4534\\merged_before_phoebe_4534.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4534\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: ‘Cause I know he’s gonna flip out and I hate it when he’s angry.\nrachel: What Phoebe? Wait! One time he caught me smoking he said if he ever saw me doing that again he’d make me eat the entire pack.",
+  "phoebe_transcript": "Wow! Oh well, I will be there!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4608\\merged_before_phoebe_4608.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4608\\actual_phoebe.wav"
+}

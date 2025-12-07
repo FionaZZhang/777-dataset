@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: ) Phoebe, that is awful!",
+  "phoebe_transcript": ": Well, ok, I wasn't rich like you guys, ok, I didn't eat gold and have a flying pony… I had a hard life, my mother was killed by a drug dealer…",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1033\\merged_before_phoebe_1033.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1033\\actual_phoebe.wav"
+}

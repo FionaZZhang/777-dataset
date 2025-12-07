@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Come on! What are you doing?! I’m in character! Would you talk to her! (Storms out.)\nchandler: Ahh, I think it just moved. It’s really poking me.\nmonica: All right, that’s it, we’re going to the emergency room.",
+  "phoebe_transcript": "What?! No, you can’t, you can’t leave me here with them! We’re baby-sitting!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4593\\merged_before_phoebe_4593.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4593\\actual_phoebe.wav"
+}

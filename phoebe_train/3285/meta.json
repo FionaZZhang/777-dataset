@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Please, Ross, you-you got hurt playing badminton with my dad.\njoey: (pointing to the TV) Okay, Ross, look-look-look-look, look right here. That’s called a scrum, okay? It’s kinda like a huddle.\nross: And is a hum, kinda like a scruddle?",
+  "phoebe_transcript": "Well, why are you doing this anyway?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3285\\merged_before_phoebe_3285.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3285\\actual_phoebe.wav"
+}

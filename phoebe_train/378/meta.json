@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: You partied with Hootie and the Blowfish?\nchandler: Yes, apparently Stevie and the band are like this.\nrachel: Who gave you that hickey?\nmonica: That would be the work of a Blowfish.",
+  "phoebe_transcript": "Oh! I can't believe it. I can't believe this. We're just like, sitting at home,trying to guess Joey's fingers, and you guys are out like partying and having fun, and youknow, all, \"hey, Blowfish, suck on my neck\".",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\378\\merged_before_phoebe_378.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\378\\actual_phoebe.wav"
+}

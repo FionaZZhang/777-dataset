@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I don't care! This guy is a nightmare!",
+  "phoebe_transcript": "Oh, right, so he gets a little crazy when he's stoned.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2575\\merged_before_phoebe_2575.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2575\\actual_phoebe.wav"
+}

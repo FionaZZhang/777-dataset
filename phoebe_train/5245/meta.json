@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Ok, here, watch this.\nmonica: So you can't lose, it's there in the title. Wonderfullness is baked right in.",
+  "phoebe_transcript": "Please, I almost fell for that with, uh, <i>Pride of the Yankees</i>, I thought I was gonna see a film about Yankee pride and then, boom, the guy gets Lou Gehrig's disease.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5245\\merged_before_phoebe_5245.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5245\\actual_phoebe.wav"
+}

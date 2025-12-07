@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: What's going on?\nchandler: We're flipping Monica's mattress.\njoey: we flip it.",
+  "phoebe_transcript": "Yeah that's better than my way.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3626\\merged_before_phoebe_3626.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3626\\actual_phoebe.wav"
+}

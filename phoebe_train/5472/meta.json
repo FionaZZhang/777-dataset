@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: I figured, take a guess, help a charity, free boat!\nrachel: Why would a charity give away a free boat?!",
+  "phoebe_transcript": "Well, just buy the damn boat! (She’s still working her way through her tray of booze.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5472\\merged_before_phoebe_5472.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5472\\actual_phoebe.wav"
+}

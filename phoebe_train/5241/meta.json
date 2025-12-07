@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: So you watched the movies huh?",
+  "phoebe_transcript": "Uh huh, what is happening to the world? I mean, no no no, 'cause ET leaves, and and Rocky loses, Charlotte dies.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5241\\merged_before_phoebe_5241.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5241\\actual_phoebe.wav"
+}

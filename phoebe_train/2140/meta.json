@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Then, I don't get it.",
+  "phoebe_transcript": "Well, you know what Chandler? I think you've gotta face it. You're like, the guy in the big office, you know. You're the one that hires them, that fires them... They still say you're a great boss.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2140\\merged_before_phoebe_2140.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2140\\actual_phoebe.wav"
+}

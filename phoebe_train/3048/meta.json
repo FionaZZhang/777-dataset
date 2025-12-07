@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Would you look at them?\nross: Yeah, can't help but.\njoey: [to a wedding guest] How's that pig-in-the-blanket workin' out for you? [theguy nods] I wrapped those bad boys.",
+  "phoebe_transcript": "I miss Rose.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3048\\merged_before_phoebe_3048.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3048\\actual_phoebe.wav"
+}

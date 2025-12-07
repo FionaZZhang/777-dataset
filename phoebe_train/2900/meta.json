@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Yeah, there’s one right under the cabinet.\nmonica: Why do you need it?\njoey: Oh, we’re having a big party tomorrow night. Later! (Starts for the door.)\nrachel: Whoa! Hey-hey, you planning on inviting us?",
+  "phoebe_transcript": "Hey!! Get your ass back here, Tribbiani!! (Joey walks back in, scared.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2900\\merged_before_phoebe_2900.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2900\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Well, how could anyone not be in love with Yasmine Blepe?\nchandler: See, this is the brilliance of the show. I say always keep them running. All the time, running. Run. Run Yasmine, run like the wind.\nmonica: But I thought you wanted to live by yourself.\njoey: I did. I thought it'd be great. I figured I'd have like, time alone with my thoughts but, ya know, it turns out I don't have as many thoughts as you'd think.",
+  "phoebe_transcript": "Joey, why don't you talk to Chandler about moving back?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6321\\merged_before_phoebe_6321.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6321\\actual_phoebe.wav"
+}

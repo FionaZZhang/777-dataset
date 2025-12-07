@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Look, if you’d had two failed marriages, you’d understand!\nrachel: Well, y’know what? Thanks to you I’m half way there! Ugh! Oh! I am so mad! Ross, I don’t think I have ever been this angry!\nross: What about the time I said we were on a break?\nmonica: Pheebs, how’s it going?",
+  "phoebe_transcript": "(rapidly) I’m doing okay. I think it’s going well. Do you think they’re having fun? Am I talking to fast?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4553\\merged_before_phoebe_4553.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4553\\actual_phoebe.wav"
+}

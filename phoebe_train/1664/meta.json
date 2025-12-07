@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Oh, the duck seems to think that Monica got me garbage! Hmm, I wonder what I could get Monica that’s as good as garbage?",
+  "phoebe_transcript": "Hmm, how about my azzz?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1664\\merged_before_phoebe_1664.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1664\\actual_phoebe.wav"
+}

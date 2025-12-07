@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (on tape) Ross did I ever tell you about the time that I went backpacking through Western Europe?\nrachel: Okay, get ready to see some beggin’!",
+  "phoebe_transcript": "Oh, you came on to Ross!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5599\\merged_before_phoebe_5599.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5599\\actual_phoebe.wav"
+}

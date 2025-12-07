@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: My parents happened. All they had to do was sit in the same stadium, smile proudly, and not talk about the divorce. But nooo, they got into a huge fight in the middle of the commencement address. Bishop Tutu actually had to stop and shush them. But you know what, you know what the good news is? I get to serve coffee for the next 8 hours.\nmonica: Well, how bout just her mom?\nchandler: Why her mom?\nmonica: Cause I already invited her.",
+  "phoebe_transcript": "Ooh, ooh, did you ask Stacy Roth?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2289\\merged_before_phoebe_2289.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2289\\actual_phoebe.wav"
+}

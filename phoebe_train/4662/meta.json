@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (she enters with a headset on and she's speaking into the microphone) Well, it matters to me!",
+  "phoebe_transcript": "Well, I don't care, so you pick!",
+  "merged_wav": null,
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4662\\actual_phoebe.wav"
+}

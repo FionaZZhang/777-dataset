@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Okay, bla-bla-bla-bla!! Who is it?!\nmonica: Well umm, I was thinking that maybe we could come up with a system where we trade of being maid of honor for each other. Like hypothetically, if Phoebe were mine…\nmonica: Rachel would be Phoebe’s, I would be Rachel’s, that way we all get to do it once and no one would get upset.\nmonica: guys get to decide!",
+  "phoebe_transcript": "Wh-why is that the best part?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4113\\merged_before_phoebe_4113.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4113\\actual_phoebe.wav"
+}

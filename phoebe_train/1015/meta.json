@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Okay, now just remember everything I taught you and you’ll be fine. Okay? Here we go. Ready…Set…",
+  "phoebe_transcript": "(hopping off the bike) Wait! This seat is really uncomfortable! Yeah, maybe before we start we should just get another one. Perhaps, like an airplane seat—or a beanbag chair!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1015\\merged_before_phoebe_1015.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1015\\actual_phoebe.wav"
+}

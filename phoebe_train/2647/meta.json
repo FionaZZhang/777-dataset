@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Hey, why don't you wear those earrings I gave you?\nmonica: That's a great idea! I was saving them for something special.\nmonica: to go home!",
+  "phoebe_transcript": "But I like it here!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2647\\merged_before_phoebe_2647.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2647\\actual_phoebe.wav"
+}

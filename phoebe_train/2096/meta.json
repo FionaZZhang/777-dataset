@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Well, my secretary is gonna be out for a couple of weeks. She is having one of her boobs redused. (Ross looks at her.) It's a whole big boob story.",
+  "phoebe_transcript": "I could be a secretary.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2096\\merged_before_phoebe_2096.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2096\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Hey, being you is finally gonna pay off! (They give each other fives.)\nmonica: (entering) I had to go all the way to the basement because some idiot keeps stuffing the trash chute with pizza boxes!\njoey: That guy’s still doing that?!\nrachel: (entering) Hey! (Sees Monica, gasps, and runs over to her.) Oh my God you’re here, let me see your hand!!",
+  "phoebe_transcript": "No, you’re too late!!! She already took out the trash!!!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5504\\merged_before_phoebe_5504.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5504\\actual_phoebe.wav"
+}

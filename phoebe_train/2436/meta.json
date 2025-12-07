@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Ooh, is this one of those things where you throw it in a bag with some graveyard dirt and hang it from a north-facing tree?",
+  "phoebe_transcript": "Uh, only if you have the hiccups too. Yeah, the pictures are for you, the water and the chocolate is for me. I just didn’t feel like getting up. Okay, I’m gonna show you a picture of Ross. Okay? And you’re going to remember all of the bad things about him. All right? Really focus on his flaws.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2436\\merged_before_phoebe_2436.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2436\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Whoa-whoa-whoa, Phoebe you gotta take her! Y’know, I-I-I said some really bad stuff about her, but y’know Rachel has some good qualities that make her a good roommate. She gets tons of catalogs and umm, she’ll fold down the pages of the things she thinks that I’d like.\nmonica: When I take a shower, she leaves me little notes on the mirror.\nrachel: Yeah, I do. I-I do, do that.",
+  "phoebe_transcript": "That’s nice. I like having things to read in the bathroom.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4382\\merged_before_phoebe_4382.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4382\\actual_phoebe.wav"
+}

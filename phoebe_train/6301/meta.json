@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: OK, here we go. Honey, I'm sorry, they were all out of apple pie, someone just got the last piece.",
+  "phoebe_transcript": "Oh my God, oh my God, oh my God, oh my God. You are not gonna believe this. I have just been discovered.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6301\\merged_before_phoebe_6301.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6301\\actual_phoebe.wav"
+}

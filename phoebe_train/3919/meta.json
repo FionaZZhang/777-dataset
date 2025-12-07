@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: All right, hold on! Hold on. Hold on. This is Ross, okay? He's our friend. He obviously went crazy. He obviously lost his mind.\nross: lose my mind! Okay, Janice and I have a lot in common! We've-we've both been divorced. We-we both have kids.",
+  "phoebe_transcript": "So are you actually gonna see her again?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3919\\merged_before_phoebe_3919.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3919\\actual_phoebe.wav"
+}

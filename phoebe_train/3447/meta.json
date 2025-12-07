@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: [enters from her room] OK, ready when you are.\nmonica: I can't believe you guys are actually getting tattoos.\nrachel: Yes, but you can not tell Ross 'cause I want to surprise him.\njoey: Wow, this is wild. What're you gonna get?",
+  "phoebe_transcript": "Um, I'm getting a lily for my Mom. 'Cause her name's Lily.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3447\\merged_before_phoebe_3447.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3447\\actual_phoebe.wav"
+}

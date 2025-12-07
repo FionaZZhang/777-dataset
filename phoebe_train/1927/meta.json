@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (surprised) OH! Alright, you know what? That's it! I want my share of the tickets (picks up the bowl)!\njoey: Yeah, I want my tickets too (takes the bowl from Rachel)! And I'm buying the Knicks! And Steffi Graff, ah ah!\nross: Than I want mine, too (takes the bowl from Joey)! And if I win I'm gonna put it all into a very low-yield bond.",
+  "phoebe_transcript": "Oh, you guys! We've got to keep all the tickets together (takes the bowl from Ross and puts it on the table)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1927\\merged_before_phoebe_1927.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1927\\actual_phoebe.wav"
+}

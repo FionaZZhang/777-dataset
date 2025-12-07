@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (upset) That was a terrible throw!!\nmonica: Look at me! My big concern is what’s real?! (Finally realises) Oh my God. We’re really sad, aren’t we?",
+  "phoebe_transcript": "Yeah, I think we are.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1358\\merged_before_phoebe_1358.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1358\\actual_phoebe.wav"
+}

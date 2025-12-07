@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Ok, fine!! I bought 20 extra tickets for me and Chandler.",
+  "phoebe_transcript": "Uh! The psychic also said that I would be betrayed.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1914\\merged_before_phoebe_1914.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1914\\actual_phoebe.wav"
+}

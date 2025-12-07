@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Oh, oh, we did say we’d stop by this little thing Joey’s roommate is having.\nmonica: Oh, Janine, the really hot dancer girl?\nross: Some would say she’s attractive, yes.",
+  "phoebe_transcript": "And who else is going to be there?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1737\\merged_before_phoebe_1737.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1737\\actual_phoebe.wav"
+}

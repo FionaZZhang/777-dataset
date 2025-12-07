@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Yeah but, maybe it’s not what we think. Maybe it’s tell Monica I’m sorry I…drank the last of the milk.",
+  "phoebe_transcript": "Or maybe he-he was writing to tell her that-that he’s changed his name, y’know? Tell Monica I’m sorry.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6045\\merged_before_phoebe_6045.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6045\\actual_phoebe.wav"
+}

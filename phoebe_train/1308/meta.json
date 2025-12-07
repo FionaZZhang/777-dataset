@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Neat. I'm gonna die alone.\nmonica: Chandler, you're not gonna die alone.\nchandler: Janice was my safety net, ok? And now I have to get a snake.",
+  "phoebe_transcript": "Uh huh. Why is that?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1308\\merged_before_phoebe_1308.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1308\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Ooh, I just feel bad, I never vacuum. (She goes into Chandler and Joey’s.)\nrachel: So I was with Joshua for an hour today, and he has not asked me out. It’s just so frustrating!",
+  "phoebe_transcript": "Why don’t you ask him out?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3778\\merged_before_phoebe_3778.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3778\\actual_phoebe.wav"
+}

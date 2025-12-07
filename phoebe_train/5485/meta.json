@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: All that stuff you just said? I want that!\nrachel: But Joey you don’t have $20,000!\njoey: Who cares?! I-I’ll make payments, whatever it takes, I want the Mr. Bowmont!!\njoey: Oh my God, you’re back!",
+  "phoebe_transcript": "Ohh, let me see it! Let me see your hand! (Chandler is frantically trying to wave them off.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5485\\merged_before_phoebe_5485.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5485\\actual_phoebe.wav"
+}

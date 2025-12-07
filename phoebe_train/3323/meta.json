@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Hey, come on! I had this friend from college and I made the stupid mistake of telling Joey that one time…she and I y’know…kissed a little bit.",
+  "phoebe_transcript": "(laughs) Yeah, I’m sure that happened.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3323\\merged_before_phoebe_3323.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3323\\actual_phoebe.wav"
+}

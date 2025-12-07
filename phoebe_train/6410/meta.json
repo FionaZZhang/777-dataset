@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh, him, the little guy? Oh, I love him!",
+  "phoebe_transcript": "Ooh, wait.. wait, I see a woman.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6410\\merged_before_phoebe_6410.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6410\\actual_phoebe.wav"
+}

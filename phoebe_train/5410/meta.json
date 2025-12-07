@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (entering) Okay. You were right. I'm in love with Joey's girlfriend.\nross: Are you serious?",
+  "phoebe_transcript": "Well, how-how-how is that possible? You barely know her!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5410\\merged_before_phoebe_5410.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5410\\actual_phoebe.wav"
+}

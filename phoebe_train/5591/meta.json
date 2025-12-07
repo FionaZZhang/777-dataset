@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (on tape) Hello! Can I get you anything?\nrachel: (on tape) Oh, thank God you’re here! You have to help me! Were you just talking to yourself?\nrachel: There I am.",
+  "phoebe_transcript": "You’re gonna get pregnant.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5591\\merged_before_phoebe_5591.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5591\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (enjoying what she's seeing) How's it going?",
+  "phoebe_transcript": "I want you to be Crazy Bitch again.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4711\\merged_before_phoebe_4711.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4711\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: All right! Who is he?",
+  "phoebe_transcript": "Well, it's this guy I used to massage. And by massage, I mean hold       down so he wouldn't turn over and flash me.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2550\\merged_before_phoebe_2550.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2550\\actual_phoebe.wav"
+}

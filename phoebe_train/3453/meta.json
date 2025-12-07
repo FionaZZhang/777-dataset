@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: So where you gettin' it?",
+  "phoebe_transcript": "I think on my shoulder. [Ross enters]",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3453\\merged_before_phoebe_3453.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3453\\actual_phoebe.wav"
+}

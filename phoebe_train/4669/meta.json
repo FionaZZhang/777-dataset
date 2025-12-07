@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (to Rachel) You know what I just realized? We have no idea what we're doing in the wedding tomorrow.\nross: Yeah, I thought we'd be groomsmen, but wouldn't they have asked us by now? When did they ask you to be their bridesmaid?\nross: I wanna say it's not looking good.\nrachel: Uhm... you haven't told these guys what they're doing in the wedding yet.",
+  "phoebe_transcript": "Uhm... well, they're not in the wedding.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4669\\merged_before_phoebe_4669.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4669\\actual_phoebe.wav"
+}

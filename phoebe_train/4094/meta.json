@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Mom already called this morning to remind me not to wear my hair up. Did you know my ears are not my best feature?\nross: Some days it's all I can think about.",
+  "phoebe_transcript": "(entering) Hi, sorry I'm late, I couldn't find my bearings.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4094\\merged_before_phoebe_4094.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4094\\actual_phoebe.wav"
+}

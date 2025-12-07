@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Oh, I’ll-I’ll come hug you.",
+  "phoebe_transcript": "Great! Yeah, could you bring me the newspaper?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2413\\merged_before_phoebe_2413.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2413\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Huh... OH MY GOD IT'S BRUSSELS SPROUTS. (they all look appalled)\nchandler: HA-HA! All you got was Monica's stinky Brussels sprouts!\nchandler: Please let me stay on this side of the door.\nrachel: Oh, I know... I still have my old key! (She goes in to get it and comes back with her keys) We can just unlock the door.",
+  "phoebe_transcript": "Well, I don't know if that's such a good idea. They clearly don't want to be with us.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1153\\merged_before_phoebe_1153.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1153\\actual_phoebe.wav"
+}

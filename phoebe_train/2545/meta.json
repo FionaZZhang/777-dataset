@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: You want a job? Turn off \"Oprah,\" and send out a resume!\nrachel: So I'll bring her by around seven? Is that okay?\nrachel: Oh, you guys are gonna have so much fun! She's at such a cute age.       Oh, a couple things. Now that she's eating solid food, she poops around       the clock. And watch out for your hair, 'cause she likes to grab it. And       oh, she's also in this phase where if you leave the room, she screams bloody       murder, but ah... Thanks, you guys. Have fun!\nchandler: (reading the newspaper) Suddenly I wish I was reading my own name.",
+  "phoebe_transcript": "Hey. I'm so excited; I just set up Rachel with the worst guy tonight.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2545\\merged_before_phoebe_2545.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2545\\actual_phoebe.wav"
+}

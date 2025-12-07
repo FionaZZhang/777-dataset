@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (To All) Was I talking to her about gas?\nchandler: More so than anything else.",
+  "phoebe_transcript": "I-I-I found it interesting.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2736\\merged_before_phoebe_2736.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2736\\actual_phoebe.wav"
+}

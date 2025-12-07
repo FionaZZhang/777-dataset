@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: since then. I think it's okay that we see other people.\nross: Well, I-I was watching her the other day at the pizza place.\nross: And she's just so sexy and funny and has the cutest little…\nrachel: Okay, y'know what? We don't need her measurements.",
+  "phoebe_transcript": "(looking through the pizzas) Okay pepperoni, pepperoni, pepperoni, okay Ross, I know she's pretty and you love her, but is she stupid?! She forgot my vegetarian!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2631\\merged_before_phoebe_2631.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2631\\actual_phoebe.wav"
+}

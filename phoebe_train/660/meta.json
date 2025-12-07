@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I know that. That's why I was getting married.",
+  "phoebe_transcript": "Give her a break, it's hard being on your own for the first time.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\660\\merged_before_phoebe_660.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\660\\actual_phoebe.wav"
+}

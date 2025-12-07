@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: I’m not even getting married! Okay, this is a question for science fiction writers!\njoey: I can’t believe you’re not picking me.\nross: Fine, y’know what, that’s it. From now on, Joey, I want you to be my best man.\njoey: Yes! (to Chandler) Shame about you man.",
+  "phoebe_transcript": "One of the babies is kicking.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2893\\merged_before_phoebe_2893.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2893\\actual_phoebe.wav"
+}

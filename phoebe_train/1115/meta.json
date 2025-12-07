@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Okay. Rachel and Phoebe are already there, okay? So they probably started without us. We could just slip in and no-one needs to know where we were! (he raises his hands and on his right one there's a Rangers foam finger)\nross: want to lose the foam finger!\njoey: Oh, no, no, no, no, no. You just want to put it on your hand!\njoey: You are not at Thanksgiving?",
+  "phoebe_transcript": "No, we're late!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1115\\merged_before_phoebe_1115.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1115\\actual_phoebe.wav"
+}

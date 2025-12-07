@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I can't believe he has a new roommate. Who is this guy?\nross: Uh, Eddie something. He just met him.\nrachel: It'll never last, he's just a rebound roommate.",
+  "phoebe_transcript": "Oh, check it out, oh check it out. It's <i>Smelly Cat</i> the video.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6339\\merged_before_phoebe_6339.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6339\\actual_phoebe.wav"
+}

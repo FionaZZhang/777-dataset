@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Nope, sound like me. Pheebs, it’s going great. Look at Chandler with little baby girl Chandler.\nchandler: Little baby girl Chandler, where I have heard that before? Oh right, Coach Ruben. (Tries to get her to drink a little more from the bottle when he suddenly smells something. It’s times like these I’m glad Smell-O-Vision hasn’t been invented.) Do you know what Pheebs? When you’re done over there, we kinda have a situation over here too. (Phoebe is changing hers.)",
+  "phoebe_transcript": "Na-uh, no, we are all responsible for our own babies.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4558\\merged_before_phoebe_4558.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4558\\actual_phoebe.wav"
+}

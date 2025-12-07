@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Glass, sand, whatever. (Walks out as Monica and Phoebe turn to check on the babies again.)",
+  "phoebe_transcript": "Oh, look at little Leslie stretching in her sleep.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4578\\merged_before_phoebe_4578.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4578\\actual_phoebe.wav"
+}

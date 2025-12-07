@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Hey Pheebs, has Gary ever been shot at for real?",
+  "phoebe_transcript": "Yes. Once. Yeah, a little. He kinda did it to himself. It's not really a good story.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\730\\merged_before_phoebe_730.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\730\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (excited and clapping her hands in front of her face) Goody, what is it!",
+  "phoebe_transcript": "Well, there's a spot open for only one groomsman and you have to choose between Ross and Chandler. So good luck with that.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4687\\merged_before_phoebe_4687.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4687\\actual_phoebe.wav"
+}

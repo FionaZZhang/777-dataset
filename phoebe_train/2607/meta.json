@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Well, he makes t-shirts for a living, and he thought it would be       appropriate to give me this.\nross: Female body inspector? What size is that?",
+  "phoebe_transcript": "Now, wait a minute. So, they're gonna name their first child Joey?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2607\\merged_before_phoebe_2607.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2607\\actual_phoebe.wav"
+}

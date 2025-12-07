@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Myself. Y’know for remembering to pack a thing. Yeah, you do a good thing, you get a check! (pause) My mom does it, I never realized it was weird.",
+  "phoebe_transcript": "Yeah, my mom used to put her head in the oven. Well, actually, she only did it the one time. But it was pretty weird.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2402\\merged_before_phoebe_2402.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2402\\actual_phoebe.wav"
+}

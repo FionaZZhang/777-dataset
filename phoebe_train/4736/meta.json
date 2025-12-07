@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Groomsman, groomsman, why are you just standing there, where is your bridesmaid? (into microphone) We've got a broken arrow. Bridesmaid down! (realizes) Oh, that's me.",
+  "phoebe_transcript": "Oh wait, oh no. Wait.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4736\\merged_before_phoebe_4736.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4736\\actual_phoebe.wav"
+}

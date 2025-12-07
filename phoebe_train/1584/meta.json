@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Yes I did, and I think you should do it.\nchandler: He's a great guy, y'know? And he loves you a lot, you are a very lucky lady.",
+  "phoebe_transcript": "thing! And you can't even do that right! God!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1584\\merged_before_phoebe_1584.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1584\\actual_phoebe.wav"
+}

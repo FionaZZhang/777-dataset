@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Mr. and Mrs. Bing! (Walks away.)\nross: (walks up) Wow Monica! Hey, just so you know I had my uh, older brother chat with Chandler.\nmonica: What is that?\nross: Well I…I told him that if he ever hurt you I would hunt him down and kick his ass! (The girls all laugh.) What?! What?! What is the matter with everybody?! I am serious! I would kick his ass! (The laugh harder.)",
+  "phoebe_transcript": "Ross, please! My make-up! (He walks away angrily.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6036\\merged_before_phoebe_6036.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6036\\actual_phoebe.wav"
+}

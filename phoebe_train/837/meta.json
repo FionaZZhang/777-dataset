@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I wasn't. Let's get going!",
+  "phoebe_transcript": "Hey, are Ross and Rachel back?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\837\\merged_before_phoebe_837.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\837\\actual_phoebe.wav"
+}

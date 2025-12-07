@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Hey, this is hollow.\nrachel: This bench, it’s hollow! I can’t believe I never knew that! (She pushes all the pillows off it and opens it up) Oh, the presents!!!",
+  "phoebe_transcript": "No, don’t look directly at them!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1666\\merged_before_phoebe_1666.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1666\\actual_phoebe.wav"
+}

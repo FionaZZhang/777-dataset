@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: You a little sad about that sweetheart?",
+  "phoebe_transcript": "I have to tie my shoe, so you go ahead, I'll catch up.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\030\\merged_before_phoebe_030.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\030\\actual_phoebe.wav"
+}

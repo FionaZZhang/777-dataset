@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh my God! You got her to stop crying!\nrachel: You are the official baby crier stopper!\nrachel: You’re never leaving the apartment!\nrachel: That’s your new job, day and night, she starts crying I need you here.",
+  "phoebe_transcript": "Thankfully you don’t need me at all (gets up and to leave) so Okay Super aunt see you later! Rachel let’s give it six to eight months (she leaves).",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1447\\merged_before_phoebe_1447.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1447\\actual_phoebe.wav"
+}

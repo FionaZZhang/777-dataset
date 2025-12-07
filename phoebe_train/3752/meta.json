@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Tom Cruise and Nicole Kidman.",
+  "phoebe_transcript": "Hey, Mel Gibson and Clint Eastwood.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3752\\merged_before_phoebe_3752.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3752\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: I don’t have a key, they took mine to give to you.\njoey: Why would they take away our keys?",
+  "phoebe_transcript": "Maybe they don’t trust us.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2338\\merged_before_phoebe_2338.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2338\\actual_phoebe.wav"
+}

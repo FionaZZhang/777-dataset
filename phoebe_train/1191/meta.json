@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Oh, listen. If this is about those prank memos, I had nothing to do with them. Really. Nothing at all. Really. (Chandler tries to hide a rubber chicken from the woman.) Nothing.",
+  "phoebe_transcript": "Hey you guys! Chandler's coming and he says he has, like, this incredible news, so when he gets here, we could all act like, you know...",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1191\\merged_before_phoebe_1191.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1191\\actual_phoebe.wav"
+}

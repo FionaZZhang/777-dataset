@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (entering, singing) \"Baddest man in the whole damn town.\"",
+  "phoebe_transcript": "Oh, fine! Take his side! (Storms out.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5679\\merged_before_phoebe_5679.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5679\\actual_phoebe.wav"
+}

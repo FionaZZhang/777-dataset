@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: : (disbelieving) Wh-What are you talking about? It wasn't a girl. It was this huge dude.",
+  "phoebe_transcript": ": You don't have to lie anymore, Ross, I know that it was a fourteen year-old girl.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1042\\merged_before_phoebe_1042.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1042\\actual_phoebe.wav"
+}

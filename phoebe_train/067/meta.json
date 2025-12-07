@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Man, I'm so lucky I have Monica.\nross: (nonchalantly) I'm never gonna find love again.\nrachel: Hey Phoebe, can I talk to you for a second?\nrachel: Okay, um, I...(Phoebe walks into her room.) All right Phoebe look, I just wanted to say that I'm sorry. OK? I handled the situation horribly and I should not have lied to you.",
+  "phoebe_transcript": "So, what should you have done?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\067\\merged_before_phoebe_067.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\067\\actual_phoebe.wav"
+}

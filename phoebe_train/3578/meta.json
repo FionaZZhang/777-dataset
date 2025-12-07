@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Now, this is last minute so I want to apologize for the mess. Okay?\nrachel: Oh my God! It sure didn’t look this way when I lived here.\nmonica: I know! Now look, there’s only one problem though. There’s only room for one, so I guess one of you will have to stay at Joey’s.",
+  "phoebe_transcript": "Well, since the fire was kinda my fault I guess (To Rachel) you should get to stay here.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3578\\merged_before_phoebe_3578.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3578\\actual_phoebe.wav"
+}

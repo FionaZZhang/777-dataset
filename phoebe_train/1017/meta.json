@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: to learn how to ride a bike!\nross: Well…In-in case of emergency.",
+  "phoebe_transcript": "What kind of an emergency?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1017\\merged_before_phoebe_1017.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1017\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I’m so glad you liked it.\nrachel: What?! She made the tea! (Points to Monica.)",
+  "phoebe_transcript": "Oh! No, I-I think I just had a contraction.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2949\\merged_before_phoebe_2949.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2949\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Really?! (To Rachel) Hey, y’know what? Since you have such a great sense of what I need, uh ooh, here’s-here’s 60 bucks, why don’t you take Phoebe down to that Colonial flea market of yours and get me some stuff.\nrachel: (not sure of what to do) Y’know what? I don’t, I don’t think Phoebe really wants to come.",
+  "phoebe_transcript": "No! I do want to!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5202\\merged_before_phoebe_5202.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5202\\actual_phoebe.wav"
+}

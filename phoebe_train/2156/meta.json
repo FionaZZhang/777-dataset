@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Ha-ha. [Scott leaves] Are all you processors dorks?\nrachel: Oh, this lipstick looks just great on you.\nmonica: You look fabulous honey, you really do.",
+  "phoebe_transcript": "Yeah? Are you sure, really. [She picks up a mirror and sees the white splotches all over her face.]",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2156\\merged_before_phoebe_2156.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2156\\actual_phoebe.wav"
+}

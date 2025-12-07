@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (enters with a bag packed) Because I’m going to London.",
+  "phoebe_transcript": "What?! What do you mean you’re going to London?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2458\\merged_before_phoebe_2458.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2458\\actual_phoebe.wav"
+}

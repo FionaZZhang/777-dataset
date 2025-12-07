@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: (checks the refrigerator) Okay, let's see, we got strained peas,       strained carrots... Ooh! Strained plums. We haven't tried that yet.",
+  "phoebe_transcript": "Goodie! Thanks. So, how is it living with Rachel again? I mean, apart       from the great food.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2523\\merged_before_phoebe_2523.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2523\\actual_phoebe.wav"
+}

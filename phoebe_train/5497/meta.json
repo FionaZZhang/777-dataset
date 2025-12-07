@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Who walks into a room and asks to see a person’s hands?!",
+  "phoebe_transcript": "Well, a palm reader, a manicurist, a hand doctor…",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5497\\merged_before_phoebe_5497.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5497\\actual_phoebe.wav"
+}

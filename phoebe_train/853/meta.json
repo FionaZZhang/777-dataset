@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Okay, here we go! Emma's first birthday cake... Well hey... well, blow    out the candle. Come on Emma.\nchandler: Let's do it, come on!\nross: What's wrong? Are you okay?\nrachel: Oh yeah, nothing! These are happy tears! This is just what I wanted.",
+  "phoebe_transcript": "(pointing at cake) Hey, you made it into a bunny.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\853\\merged_before_phoebe_853.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\853\\actual_phoebe.wav"
+}

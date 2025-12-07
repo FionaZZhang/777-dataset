@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: You, and you, you're supposed to be at my party. And Gunther! What are you doing here?",
+  "phoebe_transcript": "[enters with the three people she got out] Ok, welcome to the fu-oh.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2318\\merged_before_phoebe_2318.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2318\\actual_phoebe.wav"
+}

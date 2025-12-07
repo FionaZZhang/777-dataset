@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: I'm fine, I'm fine, it's just, it's just weird what's happening with       her and Ross. You know, yesterday he asked me to fix him up with somebody.",
+  "phoebe_transcript": "Oh my god, Rachel asked me if I knew anyone for her too.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2525\\merged_before_phoebe_2525.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2525\\actual_phoebe.wav"
+}

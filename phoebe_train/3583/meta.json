@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Does that smell bother you?",
+  "phoebe_transcript": "What the smell from Joey’s? No, I can hardly smell it over here.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3583\\merged_before_phoebe_3583.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3583\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: He’s coming here for Thanksgiving!\nmonica: Why is it sick?\nrachel: Because it’s Richard’s son! It’s like inviting Greek tragedy over for dinner!\nmonica: Hey, come on, Phoebe, you understand don’t you?",
+  "phoebe_transcript": "Yeah, I can see where I’d be your best shot but, no. I’m sorry, but I think it’s twisted.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\893\\merged_before_phoebe_893.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\893\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I'm not really here. Just thought I'd drop these off...on the way.. my way... Do you come here a lot? Without me?",
+  "phoebe_transcript": "No. (Monica brushes Coma Guy's hair in the other direction) No! No! ...So, um, do you think he's doing any better than he was this morning?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3407\\merged_before_phoebe_3407.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3407\\actual_phoebe.wav"
+}

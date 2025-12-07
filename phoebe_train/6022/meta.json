@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I’m making a list of all the things that are most likely to go wrong at the wedding. Now, that way I can be prepared.",
+  "phoebe_transcript": "What are they?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6022\\merged_before_phoebe_6022.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6022\\actual_phoebe.wav"
+}

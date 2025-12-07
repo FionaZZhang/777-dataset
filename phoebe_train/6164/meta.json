@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh my God, who is it?! (Phoebe rolls her eyes.)\nmonica: Phoebe, come on, you have to tell us.",
+  "phoebe_transcript": "Okay, okay. It’s James Brolin. James Brolin is the father of my baby.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6164\\merged_before_phoebe_6164.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6164\\actual_phoebe.wav"
+}

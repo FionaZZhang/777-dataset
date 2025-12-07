@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Yeah, yeah, it’s already generating Oscar buzz.",
+  "phoebe_transcript": "I started that!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5050\\merged_before_phoebe_5050.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5050\\actual_phoebe.wav"
+}

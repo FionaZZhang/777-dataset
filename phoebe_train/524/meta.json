@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: going to be okay! (Mrs. Green glances over her shoulder and glares at Monica while she heads for the bathroom.) It was worth a shot.",
+  "phoebe_transcript": "Hey! Why are you all red and sweaty?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\524\\merged_before_phoebe_524.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\524\\actual_phoebe.wav"
+}

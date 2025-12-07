@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: It’s a car Monica! Not a rocket ship!\nmonica: Whatever Ross! Just replace the bulbs in the brake lights after you’re done.\njoey: Saw the Porsche out there Mon, lookin’ good. When do I get to take that baby out again?\nrachel: (shocked) You let Joey drive it?!",
+  "phoebe_transcript": "I’ve never driven it! Okay? Not once! Okay once. Okay, I drive it all the time.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6415\\merged_before_phoebe_6415.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6415\\actual_phoebe.wav"
+}

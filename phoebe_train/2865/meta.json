@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Y'see, this is where you'd use that 'hello' word we talked about.\nchandler: I'm not gonna talk to her, she obviously got my message and is choosing not to call me. Now I'm needy and snubbed. God, I miss just being needy.",
+  "phoebe_transcript": "How'd he take it?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2865\\merged_before_phoebe_2865.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2865\\actual_phoebe.wav"
+}

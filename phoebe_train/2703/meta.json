@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (To Phoebe) Hey Pheebs! How's that uh, vegetarian pizza working out for ya? You and those vegetables have a real thing going on, huh?",
+  "phoebe_transcript": "(she just looks at him) Why are you being weird?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2703\\merged_before_phoebe_2703.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2703\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: You know, I could like maybe... I could do a dramatic reading of one    of her books!",
+  "phoebe_transcript": "Or you could stick a fork in an apple!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\768\\merged_before_phoebe_768.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\768\\actual_phoebe.wav"
+}

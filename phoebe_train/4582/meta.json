@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: How are you still single?!\nchandler: (entering) All right. (Clears throat) I thought about it and maybe you’re right. Maybe Krog is not a safe toy.\nmonica: Good. What made you change your mind?",
+  "phoebe_transcript": "How did that happen?!!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4582\\merged_before_phoebe_4582.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4582\\actual_phoebe.wav"
+}

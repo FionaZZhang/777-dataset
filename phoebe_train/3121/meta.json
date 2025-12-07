@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I gotta tell you, yesterday was amazing. That massage felt so good!",
+  "phoebe_transcript": "No-no, I got that.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3121\\merged_before_phoebe_3121.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3121\\actual_phoebe.wav"
+}

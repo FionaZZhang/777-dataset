@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: What?! No! I’m not gonna move out!",
+  "phoebe_transcript": "But are you saying that you would move out if I didn’t buy that lamp?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5208\\merged_before_phoebe_5208.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5208\\actual_phoebe.wav"
+}

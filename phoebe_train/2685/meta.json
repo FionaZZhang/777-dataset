@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: (smiling) Okay, everybody just keep smiling. It'll kill my grandmother if she finds out.\nchandler: (smiling) Well, what is it?\njoey: (smiling) Oh, they cut me out of the show.\nross: (smiling) Are you sure?",
+  "phoebe_transcript": "(smiling) Maybe your scene's coming up?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2685\\merged_before_phoebe_2685.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2685\\actual_phoebe.wav"
+}

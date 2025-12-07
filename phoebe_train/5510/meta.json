@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Wait. Before we go in, I just want you to know I love you. I had a great time on our honeymoon, and I can’t wait to go in there and spend the rest of our life together.\nmonica: You’re really sticking with the shell necklace huh? (Points to necklace of shells he’s wearing.)",
+  "phoebe_transcript": "Come on in!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5510\\merged_before_phoebe_5510.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5510\\actual_phoebe.wav"
+}

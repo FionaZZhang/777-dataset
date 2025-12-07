@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: I cannot sleep in a public place.\nmonica: Would you look at her? She is so peaceful.\nross: It's okay, y'know, you just nodded off again.\nmonica: What's going on with you?",
+  "phoebe_transcript": "I got no sleep last night!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6379\\merged_before_phoebe_6379.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6379\\actual_phoebe.wav"
+}

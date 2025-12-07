@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: You didn't get it?\nrachel: Phoebe, how would you do this to me? This was all your idea.",
+  "phoebe_transcript": "I know, I know, and I was gonna get it but then he came in with this needle and uh, di-, did you know they do this with needles?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3481\\merged_before_phoebe_3481.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3481\\actual_phoebe.wav"
+}

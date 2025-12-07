@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Hey! Hey, Pheebs, check it out. Yeah, for my desert, I have chosen to make a traditional English truffle!",
+  "phoebe_transcript": "Wow, that sounds great! And what are you making Monica, in case Rachel’s dessert is...[about to say “bad”] so good that I eat all of it. There’s none left for anybody else!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1728\\merged_before_phoebe_1728.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1728\\actual_phoebe.wav"
+}

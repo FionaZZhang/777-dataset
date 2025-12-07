@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Whew. Although y’know, this is part of a salt and pepper set. I mean… I guess y’know it may just count as a half a present. What do you think?",
+  "phoebe_transcript": "Well I guess it’s okay to open one more if it’s part of a set. Y’know, it’s probably this one. (Grabs another small one.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\236\\merged_before_phoebe_236.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\236\\actual_phoebe.wav"
+}

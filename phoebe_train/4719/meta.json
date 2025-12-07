@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: hot weather girl.\nross: (To Phoebe and Mike) I can't believe you guys aren't going to be able to get married today.\nrachel: beautiful out there. You always wanted to get married outside. Why don't you guys just do it on the street?\nrachel: Well, look, it's hardly snowing anymore. I mean you couldn't ask for a more romantic setting. This could be the simple wedding you've always wanted!",
+  "phoebe_transcript": "(Turning to Mike) What do you think?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4719\\merged_before_phoebe_4719.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4719\\actual_phoebe.wav"
+}

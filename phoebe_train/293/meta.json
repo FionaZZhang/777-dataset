@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: What? Hey wait a minute! Phoebe, how do you even know who the father is?",
+  "phoebe_transcript": "I may play the fool at times, but I’m a little more than a pretty blond girl with an ass that won’t quit. (She takes the sweater out of her purse.) I believe this belongs to the father of your baby.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\293\\merged_before_phoebe_293.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\293\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Hey, hey, Chan. She could work for you.\nchandler: (sarcasticly) Thanks Joey, that's a good idea.",
+  "phoebe_transcript": "What... I could, I could do it. What is it?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2093\\merged_before_phoebe_2093.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2093\\actual_phoebe.wav"
+}

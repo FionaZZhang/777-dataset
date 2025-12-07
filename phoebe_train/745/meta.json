@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: You know Pheebs, when I was little, on my birthday, my daddy would    hide a present in every room of the house, and then he would draw a treasure    map to help me find 'em all.",
+  "phoebe_transcript": "Oooh, I love family traditions like that. When uhm...    when Ursula and I were kids, on our birthday, our stepdad would sell his blood    to buy us food!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\745\\merged_before_phoebe_745.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\745\\actual_phoebe.wav"
+}

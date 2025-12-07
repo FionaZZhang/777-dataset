@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: If it makes anybody feel better, then we can just forget the thing, and we'lljust do the gift.\nross: G-gift? The thing's not the gift?\nchandler: No, the thing was, we were gonna go see Hootie and the Blowfish.\nross: Hootie and the--oh my. I, I can catch them on the radio.",
+  "phoebe_transcript": "No, now I feel bad. You wanna go to the concert.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\334\\merged_before_phoebe_334.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\334\\actual_phoebe.wav"
+}

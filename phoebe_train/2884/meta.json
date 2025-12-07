@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: All right, I'll give you this, Mr. Peanut is a better dresser. I mean he's got the monocle, he's got the top hat...",
+  "phoebe_transcript": "You know he's gay?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2884\\merged_before_phoebe_2884.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2884\\actual_phoebe.wav"
+}

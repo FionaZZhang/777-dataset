@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh, okay see I thought, I thought you meant how much was it when it was new, y’know like back then.\nrachel: Yeah no, I mean it was at a flea market, so it was y’know, it was like a dollar.\nrachel: And fifty. So it was like one and fifty dollars.",
+  "phoebe_transcript": "Ohh, okay, they gave you the old time pricing.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5160\\merged_before_phoebe_5160.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5160\\actual_phoebe.wav"
+}

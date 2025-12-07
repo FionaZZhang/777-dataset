@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: But I thought you wanted to live by yourself.\njoey: I did. I thought it'd be great. I figured I'd have like, time alone with my thoughts but, ya know, it turns out I don't have as many thoughts as you'd think.",
+  "phoebe_transcript": "Joey, why don't you talk to Chandler about moving back?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6323\\merged_before_phoebe_6323.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6323\\actual_phoebe.wav"
+}

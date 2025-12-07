@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Really? Weird. Anyway, see, I planned everything really well. I planned and Iplanned and I planned. It just turns out, I don't think I planned enough time to actuallydo it.\nrachel: Hey, Mon, you want some help?\nmonica: If you want.",
+  "phoebe_transcript": "[enters] Hey. What a day. I took her everywhere. The Museum of ModernArt, Rockefeller Center, Statue of Liberty.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3022\\merged_before_phoebe_3022.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3022\\actual_phoebe.wav"
+}

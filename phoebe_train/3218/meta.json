@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Ohh, it’s Joshua invited me to this fancy club opening tonight. But, I already told Mr. Waltham that I would take his niece to this dumb old opera. So… What are you gonna do?\nmonica: I don’t know sweetie.\nrachel: No! Help me!\nmonica: I can’t! I have to work!",
+  "phoebe_transcript": "I would, but I get my morning sickness in the evening.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3218\\merged_before_phoebe_3218.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3218\\actual_phoebe.wav"
+}

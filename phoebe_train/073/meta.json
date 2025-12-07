@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Well, it's embarrassing. People were looking at us like we were crazy.",
+  "phoebe_transcript": "Why do you care?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\073\\merged_before_phoebe_073.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\073\\actual_phoebe.wav"
+}

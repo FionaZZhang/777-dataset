@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I can’t believe it!  She’s asleep!  I got her to go to sleep!   I have actual magical powers!",
+  "phoebe_transcript": "I can hear traffic and birds!  I can hear the voices in my head again! (Monica looks at her strangely) I’m kidding. (She smiles wickedly.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1445\\merged_before_phoebe_1445.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1445\\actual_phoebe.wav"
+}

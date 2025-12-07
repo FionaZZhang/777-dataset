@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Okay, he's a lawyer, who teaches sculpting on the side. And- he can dance!",
+  "phoebe_transcript": "Oh! And, he's the kinda guy who, when you're talking, he's listening, y'know, and not saying 'Yeah, I understand' but really wondering what you look like naked.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3371\\merged_before_phoebe_3371.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3371\\actual_phoebe.wav"
+}

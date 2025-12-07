@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Whatever dude, you kissed a guy.",
+  "phoebe_transcript": "Hey—Ooh, how’s Hilda? Is she working out?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\195\\merged_before_phoebe_195.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\195\\actual_phoebe.wav"
+}

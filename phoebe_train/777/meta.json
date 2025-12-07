@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (nearly weeping) I was not ready for this today!\nrachel: Oh, Phoebe, I’m sorry! Phoebe has prepared something as well.",
+  "phoebe_transcript": "That’s right, I've prepared a song for Emma. From my heart to    hers. For there’s no greater gift, than the gift of music. (she starts    singing) Emma! Your name poses a dilemma. 'Cause not much else rhymes with Emma!    Maybe the actor Richard Crenna, he played the commanding officer in Rambo. Happy    birthday Emma!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\777\\merged_before_phoebe_777.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\777\\actual_phoebe.wav"
+}

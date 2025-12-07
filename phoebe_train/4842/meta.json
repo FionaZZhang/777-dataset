@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: So I wouldn't need any, right? Cause I have a straight.\nrachel: Oh, good for you!\nchandler: OK Phoebs, how many do you want?",
+  "phoebe_transcript": "OK, I just need two... the, um, ten of spades and the six of clubs.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4842\\merged_before_phoebe_4842.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4842\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: What's the matter?",
+  "phoebe_transcript": "I just think that this was a really bad sign, ya know. I mean, like the beast at the threshold, you know. It's just like, I have no family left, ya know. I mean except for my grandmother, you know, but let's face it, she's not gonna be around forever, despite what she says. And I have a sister who I've barely spoken to since we like shared a womb. I don't know, this is my real father and I just, I want things to be like just right.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4066\\merged_before_phoebe_4066.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4066\\actual_phoebe.wav"
+}

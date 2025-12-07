@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: (To Ross, on the couch) Now, here's a picture of my mother and father on their wedding day. Now you tell me she's not a knockout.\nross: I cannot believe we're having this conversation.\njoey: C'mon! Just try to picture her not pregnant, that's all.\nrachel: (Into microphone) Central Perk is proud to present Miss Phoebe Buffay.",
+  "phoebe_transcript": "Thanks. Hi, um, 'kay. I'd like to start with a song that's about a man that I recently met, who's, um, come to be very important to me. (Monica gives her a look) 'Kay. (Sung)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3429\\merged_before_phoebe_3429.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3429\\actual_phoebe.wav"
+}

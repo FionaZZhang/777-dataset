@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Uh-huh! I know. I’m coming soon to a theater near you! I’m in THX! I’m unsuitable for children!\nross: Now I cannot wait to see this.\njoey: Yeah, yeah, it’s already generating Oscar buzz.",
+  "phoebe_transcript": "I started that!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5048\\merged_before_phoebe_5048.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5048\\actual_phoebe.wav"
+}

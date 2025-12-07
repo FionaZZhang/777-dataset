@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Judge rules, no violation.\nross: Y'know what? It sounds so weird to say this but, I just had a great day with Janice!",
+  "phoebe_transcript": "Are you serious?!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3927\\merged_before_phoebe_3927.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3927\\actual_phoebe.wav"
+}

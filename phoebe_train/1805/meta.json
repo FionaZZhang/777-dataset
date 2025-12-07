@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Honey, listen, y'know what? The nurse said the doctor is wonderful.\nross: Yeah, he's head of the department.",
+  "phoebe_transcript": "All right—Ooh! Oh dead God, save me!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1805\\merged_before_phoebe_1805.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1805\\actual_phoebe.wav"
+}

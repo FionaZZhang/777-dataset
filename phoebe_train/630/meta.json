@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: I'm sorry, I didn't catch your name. Paul, was it?",
+  "phoebe_transcript": "Ooh, I just pulled out four eyelashes. That can't be good.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\630\\merged_before_phoebe_630.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\630\\actual_phoebe.wav"
+}

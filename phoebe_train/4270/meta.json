@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (to Phoebe) It's like a giant hug.",
+  "phoebe_transcript": "Ross, how about you. What would you give up, sex or food?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4270\\merged_before_phoebe_4270.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4270\\actual_phoebe.wav"
+}

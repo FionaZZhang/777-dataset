@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Phoebe, you can’t massage people in my apartment!\nross: And they knew about it?",
+  "phoebe_transcript": "(pause as she considers it) Okay, well Ross, what is this really about?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1476\\merged_before_phoebe_1476.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1476\\actual_phoebe.wav"
+}

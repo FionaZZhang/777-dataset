@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Do you realize I have a classroom full of students?",
+  "phoebe_transcript": "(to the students) Oh, I’m sorry. I’m so rude. Does anyone want to come to the movies?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1461\\merged_before_phoebe_1461.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1461\\actual_phoebe.wav"
+}

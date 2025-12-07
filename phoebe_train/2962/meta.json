@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I mean, you’re the one they’re gonna come to when they wanna run away from home, and the one they talk to about sex.\nrachel: And you just get to be cool Aunt Phoebe!",
+  "phoebe_transcript": "Cool Aunt Phoebe. I am pretty cool!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2962\\merged_before_phoebe_2962.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2962\\actual_phoebe.wav"
+}

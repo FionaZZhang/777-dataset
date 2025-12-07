@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: He's not having an affair!",
+  "phoebe_transcript": "You know, I'm always right about these things.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4278\\merged_before_phoebe_4278.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4278\\actual_phoebe.wav"
+}

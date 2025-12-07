@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: know what guys want!\nrachel: Look Joey, come on she’s so perfect for you! I mean she’s sweet, she-she likes baseball, and she-she had two beers at lunch.\njoey: My beers?! Look you guys, she’s a very nice girl. Okay? We had a good time, but I just—I don’t see it going anywhere.",
+  "phoebe_transcript": "Yeah, but you always say that.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3526\\merged_before_phoebe_3526.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3526\\actual_phoebe.wav"
+}

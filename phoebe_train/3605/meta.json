@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Oh, very funny. I don’t know if you remember, but my audition was supposed to be Thursday. (Chandler doesn’t say anything until Joey figures it out.) You got me the audition?! Let’s hug it up! (They hug.)\nchandler: Okay. Okay. (Joey puts him down.) What are you gonna do to me if you get the part?",
+  "phoebe_transcript": "(To Rachel) Listen umm, yeah okay, I need to talk to you!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3605\\merged_before_phoebe_3605.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3605\\actual_phoebe.wav"
+}

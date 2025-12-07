@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Uh, excuse me. Evolution is not for you to buy, Phoebe. Evolution is scientificfact, like, like, like the air we breathe, like gravity.",
+  "phoebe_transcript": "Ok, don't get me started on gravity.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1253\\merged_before_phoebe_1253.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1253\\actual_phoebe.wav"
+}

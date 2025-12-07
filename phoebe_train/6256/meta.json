@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: So I don't have to sing and I can just sit there and pass  judgments on others?\nrachel: Hi guys! Listen I really need your help. I think I did something  really stupid.",
+  "phoebe_transcript": "Well yes Rachel but you got something so beautiful out  there",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6256\\merged_before_phoebe_6256.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6256\\actual_phoebe.wav"
+}

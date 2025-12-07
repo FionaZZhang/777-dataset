@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Okay, if you need the vacuum, it’s in my closet on the left-hand side. Ah, the garbage bags are next to the refrigerator…",
+  "phoebe_transcript": "Okay, okay, but Rachel’s gonna be here too, can’t I just ask her this stuff?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2407\\merged_before_phoebe_2407.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2407\\actual_phoebe.wav"
+}

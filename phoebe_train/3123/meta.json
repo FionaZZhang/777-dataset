@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: So umm, what do you say we make it a weekly appointment?",
+  "phoebe_transcript": "Okay. Okay but you should know though, I’ve raised my rates to $200 an hour.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3123\\merged_before_phoebe_3123.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3123\\actual_phoebe.wav"
+}

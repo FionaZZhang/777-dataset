@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: What? I didn't say anything.",
+  "phoebe_transcript": "Yeah, but this (makes Monica's face) isn't the face of a person who trusts a person. Ok, this (makes Monica's face) is the face of a person who, you know, doesn't trust a person.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\585\\merged_before_phoebe_585.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\585\\actual_phoebe.wav"
+}

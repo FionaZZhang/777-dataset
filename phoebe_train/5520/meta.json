@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: It was great! It was great! How about you?! I mean you’re having a baby!\nrachel: Oh! Look! I have a sonogram picture!\nchandler: Ross! It’s got your wavy black lines!\nmonica: All right, so now that Ross knows can you tell us y’know how it happened? I mean, when did it happen? How many times did it happen?",
+  "phoebe_transcript": "Monica! That’s not right! Start with where.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5520\\merged_before_phoebe_5520.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5520\\actual_phoebe.wav"
+}

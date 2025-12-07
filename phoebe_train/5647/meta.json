@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Oh really! Where? Somewhere funny I'd bet! (Chandler is straining to keep quiet as Phoebe enters.)\nross: Oh-oh, guess what? I-I have a date with Elizabeth (Talking into Chandler's ear.) Hornswoggle.",
+  "phoebe_transcript": "Hornswoggle? (To Chandler) Ooh, this must be killing you.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5647\\merged_before_phoebe_5647.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5647\\actual_phoebe.wav"
+}

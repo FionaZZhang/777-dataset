@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: I put it on to scare Chandler!",
+  "phoebe_transcript": "Oh my God! Monica's gonna totally freak out!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5294\\merged_before_phoebe_5294.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5294\\actual_phoebe.wav"
+}

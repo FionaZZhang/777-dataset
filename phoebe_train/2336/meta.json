@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Y’know, Monica and Chandler are married. Ross and Rachel are having a baby. Maybe you and I should do something.",
+  "phoebe_transcript": "All in good time my love. All in good time. Oh shoot! I left my guitar in their apartment. Well you can let me in later.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2336\\merged_before_phoebe_2336.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2336\\actual_phoebe.wav"
+}

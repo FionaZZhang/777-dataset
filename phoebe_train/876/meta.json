@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Like I remember his office number! (Pause) Speed dial 7.",
+  "phoebe_transcript": "(on phone) Hi! Yeah, I’m calling on behalf of Monica Geller’s eye, and is um, is Richard Burke in today. (Listens) (to Monica) He’s out of town, but does she want to see the on-call doctor?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\876\\merged_before_phoebe_876.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\876\\actual_phoebe.wav"
+}

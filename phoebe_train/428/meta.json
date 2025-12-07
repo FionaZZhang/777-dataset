@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: for that to work.\nchandler: (returning) What are you guys talking about?\nmonica: Well umm, we were just talking about the y’know, the Swing Kings and just wondering whether y’know, they were the right way to go.\nrachel: Yeah, I went to a wedding once where they had swing music and uh, two months later the couple got divorced. And now I’m not saying that there’s any connection here y’know, but they did tell me that’s why they got divorced.",
+  "phoebe_transcript": "Yeah but the Swing Kings? Y’know they suck so much that people actually die at their concerts—They just stop living.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\428\\merged_before_phoebe_428.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\428\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Rachel you have to read this book. It's called <i>Be Your Own Windkeeper</i>. It's about how women need to become more empowered.",
+  "phoebe_transcript": "Yeah and oh, and but there's, there's wind and the wind can make us Goddesses. But you know who takes out wind? Men, they just take it.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3985\\merged_before_phoebe_3985.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3985\\actual_phoebe.wav"
+}

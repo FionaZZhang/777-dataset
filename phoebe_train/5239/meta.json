@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "richard: Hey Phoebs, what's happening?",
+  "phoebe_transcript": "Oh, ok, murder, cancer, soccer teams eating each other in the Andes.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5239\\merged_before_phoebe_5239.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5239\\actual_phoebe.wav"
+}

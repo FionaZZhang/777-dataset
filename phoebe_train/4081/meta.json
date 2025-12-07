@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Well, this is fascinating. So, uh, what is it about me?",
+  "phoebe_transcript": "I dunno, 'cause you're smart, you're funny...",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4081\\merged_before_phoebe_4081.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4081\\actual_phoebe.wav"
+}

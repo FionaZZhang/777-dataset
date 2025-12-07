@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Man, we gotta do something about that guy. This morning, I caught him looking into our apartment. It creeps me out! I feel like I can't do stuff!\njoey: Will you grow up? I'm not talking about sexy stuff, but, like, when I'm cooking naked.",
+  "phoebe_transcript": "You cook naked?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2856\\merged_before_phoebe_2856.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2856\\actual_phoebe.wav"
+}

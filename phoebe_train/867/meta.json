@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Oh my God, ice just got in my eye!\nrachel: (standing in her doorway) People are trying to sleep in here!\nchandler: Monica got ice in her eye, and it hurts.",
+  "phoebe_transcript": "Open it up, let me see.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\867\\merged_before_phoebe_867.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\867\\actual_phoebe.wav"
+}

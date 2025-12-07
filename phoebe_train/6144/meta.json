@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Pass the cheese, please.\nmonica: My God, you can’t even look at me! Can you?\nchandler: (jumping up) Hey! Phoebe! We can talk to Phoebe!!",
+  "phoebe_transcript": "No. I’m-I’m to depressed to talk.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6144\\merged_before_phoebe_6144.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6144\\actual_phoebe.wav"
+}

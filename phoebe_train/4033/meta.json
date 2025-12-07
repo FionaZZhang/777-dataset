@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Hey I uh just picked up Ben from school…\nchandler: (spinning around looking for him) I don’t think you did a very thorough job!\nross: I dropped him off at Carol’s. (To Phoebe) Anyway, it turns out that I’m not going to be able to get those tickets though.",
+  "phoebe_transcript": "Oh no! Why not?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4033\\merged_before_phoebe_4033.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4033\\actual_phoebe.wav"
+}

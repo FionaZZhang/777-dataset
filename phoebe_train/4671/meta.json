@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: This is like figure skating team all over again. (Phoebe and Ross glare at him astonished) I mean synchronized swimming. (they continue to glare) I mean- I mean the balance beam. (to Ross) Help me!\nmonica: (looking at Phoebe eating something) Pheebs, spit that out, that has pork in it.",
+  "phoebe_transcript": "Oh! I though the pot stickers were supposed to be vegetarian!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4671\\merged_before_phoebe_4671.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4671\\actual_phoebe.wav"
+}

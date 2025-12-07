@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Okay, I’m done. Read mine.",
+  "phoebe_transcript": "Okay. (Looks at the leaves.) Ooh, I see a ladder. (Checks the book) Which can mean either a promotion or a violent death.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4424\\merged_before_phoebe_4424.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4424\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Oh uh, me and Ross can be the judges.\nrachel: Oh, come on! This is crazy! Can’t we just flip a coin?!",
+  "phoebe_transcript": "No! Coins hate me!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4158\\merged_before_phoebe_4158.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4158\\actual_phoebe.wav"
+}

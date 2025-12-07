@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Mom says it's all of Manhattan, parts of Brooklyn and Queens, and they have no idea when it's coming back on.\nrachel: Wow, you guys, this is big.\nmonica: (into phone) Pants and a sweater? Why, mom? Who am I gonna meet in a blackout? Power company guys? Eligible looters? Could we talk about this later? OK. (hangs up)",
+  "phoebe_transcript": "Can I borrow the phone? I want to call my apartment and check on my grandma. (to Monica) What's my number?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4997\\merged_before_phoebe_4997.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4997\\actual_phoebe.wav"
+}

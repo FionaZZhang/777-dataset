@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: A monologue? I don't have.. (sees the book he was reading before for    his \"dramatic reading\") I got it. (hangs up) (announces to the room)    Aah! so... I'm gonna take off!",
+  "phoebe_transcript": "Wh.. what? No wait, you don't get to leave! I've got a massage client    waiting outside my door any minute!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\799\\merged_before_phoebe_799.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\799\\actual_phoebe.wav"
+}

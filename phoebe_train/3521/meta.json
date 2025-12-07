@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh Joey, I’m sorry I just couldn’t tell her all those things you wanted me to tell her. And y’know we got to talking and I…",
+  "phoebe_transcript": "We want you to marry her!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3521\\merged_before_phoebe_3521.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3521\\actual_phoebe.wav"
+}

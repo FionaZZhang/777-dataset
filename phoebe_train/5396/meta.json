@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: No, I don't.",
+  "phoebe_transcript": "Yes, you do. Chandler loves Kathy.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5396\\merged_before_phoebe_5396.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5396\\actual_phoebe.wav"
+}

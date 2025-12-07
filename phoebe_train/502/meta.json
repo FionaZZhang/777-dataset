@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Why did you invite my mother?!\nrachel: She wants to move in with me and Ross to help take care of the baby.",
+  "phoebe_transcript": "For how long?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\502\\merged_before_phoebe_502.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\502\\actual_phoebe.wav"
+}

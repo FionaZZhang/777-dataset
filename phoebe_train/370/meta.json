@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Uh, aside from that, the whole evening was pretty much a bust.\nchandler: Yeah, we really missed you guys.\njoey: Yeah, look, we were just saying, this whole thing is really stupid.",
+  "phoebe_transcript": "We just have to really, really, really, not let stuff like money get--is that ahickey?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\370\\merged_before_phoebe_370.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\370\\actual_phoebe.wav"
+}

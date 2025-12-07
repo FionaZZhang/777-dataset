@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Fine, you can have the bath, but I am taking your boat. Now you’re  just a girl in a tub!",
+  "phoebe_transcript": "Hi, Bubbles. Manly. Well, I just thought I would drop by and let you know  how it went with Joey.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5994\\merged_before_phoebe_5994.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5994\\actual_phoebe.wav"
+}

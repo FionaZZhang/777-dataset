@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: For a minute there I thought you were actually tryin' to smell something.\nross: That is so good! Do it again!\nchandler: That's great. All right, I gotta get to work, I got a big dinosaur bone toinspect.\nross: No no, that's me.",
+  "phoebe_transcript": "Oh, thanks. I couldn't uh...",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2993\\merged_before_phoebe_2993.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2993\\actual_phoebe.wav"
+}

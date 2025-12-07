@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: : Hey, you'll never guess what just happened… Phoebe and I got mugged!\nross: ) Yah, because Phoebe knew the mugger!\nmonica: ) How do you know a mugger?",
+  "phoebe_transcript": ": I'm sorry I have friends outside the six of us.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1027\\merged_before_phoebe_1027.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1027\\actual_phoebe.wav"
+}

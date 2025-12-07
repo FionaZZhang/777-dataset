@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Strike three! You only get one more, Mike!\nross: So, what did you decide?",
+  "phoebe_transcript": "I decided to pee.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4680\\merged_before_phoebe_4680.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4680\\actual_phoebe.wav"
+}

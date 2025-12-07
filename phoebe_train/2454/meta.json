@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Ahh, the babies miss me?\njoey: What? You ordered pizza without me?!",
+  "phoebe_transcript": "Yeah. But y’know we were thinking about you, y’know we ordered the Joey Special.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2454\\merged_before_phoebe_2454.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2454\\actual_phoebe.wav"
+}

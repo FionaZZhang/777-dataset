@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: What did you tell them?",
+  "phoebe_transcript": "Well, they said that I had to think about it first, but what is there to think about? I’m gonna be giving them the greatest gift you can possibly give.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3166\\merged_before_phoebe_3166.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3166\\actual_phoebe.wav"
+}

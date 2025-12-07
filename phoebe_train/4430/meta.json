@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Well, I have been spending a lot of time in the lab.\nchandler: What does yours say Pheebs?",
+  "phoebe_transcript": "Umm… Wow, all right. (Checks the book.) Wow! Yay! Ooh, I’m gonna meet a guy! And really soon! And he’s gonna be the man of my dreams. Probably not the guy I had a dream about last night. (Points at Chandler.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4430\\merged_before_phoebe_4430.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4430\\actual_phoebe.wav"
+}

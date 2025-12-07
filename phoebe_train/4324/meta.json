@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (turns to them) Ok, alright, you guys, you'd better sit down, this is pretty big.\nchandler: Yeah (motions them to sit and they do) I'm not having an affair. Nancy is our realtor.\njoey: I knew he couldn't be with a woman for 45 minutes!!",
+  "phoebe_transcript": "Why do you have a realtor?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4324\\merged_before_phoebe_4324.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4324\\actual_phoebe.wav"
+}

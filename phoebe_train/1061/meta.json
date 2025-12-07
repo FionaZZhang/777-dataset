@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: 2 minutes, 12 pies and a part of one tin! Okay, I see you guys at 4.\nmonica: In your face, last year \"me\"!",
+  "phoebe_transcript": "What's Emma doing today?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1061\\merged_before_phoebe_1061.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1061\\actual_phoebe.wav"
+}

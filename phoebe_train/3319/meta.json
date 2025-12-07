@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: (excitedly) Can I come?! I won’t even talk! You’ll just hear the noise from my video camera.",
+  "phoebe_transcript": "What is this? What’s going on?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3319\\merged_before_phoebe_3319.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3319\\actual_phoebe.wav"
+}

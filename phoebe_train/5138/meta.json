@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Well all right then, I guess I shouldn’t get to excited about the fact (excitedly) that I just kissed her!",
+  "phoebe_transcript": "Yeah well, we’ll see.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5138\\merged_before_phoebe_5138.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5138\\actual_phoebe.wav"
+}

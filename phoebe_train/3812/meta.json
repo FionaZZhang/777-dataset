@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Well at least, I’m going to mute it.\nchandler: We still have porn.\nrachel: Honey, what are you doing? That’s too heavy.",
+  "phoebe_transcript": "Ohh, I’m getting too pregnant for this, lugging around a stupid massage table. Y’know, I have to find a job where I carrying a smaller table. (She goes over and stands in front of the TV.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3812\\merged_before_phoebe_3812.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3812\\actual_phoebe.wav"
+}

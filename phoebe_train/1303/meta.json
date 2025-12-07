@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Ok, all right. It was an accident, I swear, all right. I was putting on myjacket, and the thing, and the lamp, and it broke.\nrachel: Oh, please, Monica. You've always hated my lamp, and then, all of a sudden,it's just magically broken?\nmonica: Phoebe, tell her!",
+  "phoebe_transcript": "Ok, I didn't see it, because I was putting on my jacket, but I uh want tobelieve you.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1303\\merged_before_phoebe_1303.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1303\\actual_phoebe.wav"
+}

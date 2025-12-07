@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I guess you can get back to deciding on what to get me for a present! (Runs out.)\nrachel: (To Phoebe, after Monica’s gone) We have to get her a present?!",
+  "phoebe_transcript": "Okay but look! Look at what I got! It’s her address book! (Holds it up.) We have a guest list!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6103\\merged_before_phoebe_6103.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6103\\actual_phoebe.wav"
+}

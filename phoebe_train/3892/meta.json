@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (entering from the bathroom) Hey Pheebs, what's going on?",
+  "phoebe_transcript": "Nothing! (Picks up and sets the chick down on the floor.) (To the chick.) This is not over!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3892\\merged_before_phoebe_3892.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3892\\actual_phoebe.wav"
+}

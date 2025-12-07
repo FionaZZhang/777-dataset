@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Ooh, let me talk to him!\nmonica: Oh-oh, my God!\nmonica: He’s with Emily at a Bed and Breakfast in Vermont!",
+  "phoebe_transcript": "What? Oh my God!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3233\\merged_before_phoebe_3233.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3233\\actual_phoebe.wav"
+}

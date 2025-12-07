@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: What the hell is going on?!\nrachel: We took our apartment back!! (Slams the door shut.)",
+  "phoebe_transcript": "(opening the door) I had nothing to do with it. (Closes the door.) (Opens the door.) Okay, it was my idea, but I don’t feel good about it.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\975\\merged_before_phoebe_975.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\975\\actual_phoebe.wav"
+}

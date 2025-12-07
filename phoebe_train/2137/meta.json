@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: You know, I don't get this. A month ago, these people were my friends. You know, just because I'm in charge doesn't mean I'm a different person.",
+  "phoebe_transcript": "Well, then you should come tonight. You know, just hang out with them. Let them see what a great guy you still are.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2137\\merged_before_phoebe_2137.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2137\\actual_phoebe.wav"
+}

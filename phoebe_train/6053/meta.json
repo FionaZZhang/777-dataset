@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (re-entering) I’m gonna start getting ready! (Goes back into her room.)\nrachel: God! Don’t—We can’t let her start getting ready! This is too awful! Oh God, but wait she’ll be in the gown and then he won’t show up and then she’s gonna have to take off the gown…",
+  "phoebe_transcript": "Shhh! Stop it! Stop it Rachel! You can’t do this here! (She drags her into the bathroom.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6053\\merged_before_phoebe_6053.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6053\\actual_phoebe.wav"
+}

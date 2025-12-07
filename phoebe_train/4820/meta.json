@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I know! I know! And he totally freaked out and I can’t find him anywhere!",
+  "phoebe_transcript": "What are you gonna do?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4820\\merged_before_phoebe_4820.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4820\\actual_phoebe.wav"
+}

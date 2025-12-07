@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Hey! You guys! You’re not gonna believe this! I just got off the phone with my agent…",
+  "phoebe_transcript": "Oh my God! (Joey looks at her.) I’m sorry, too soon. You go.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2463\\merged_before_phoebe_2463.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2463\\actual_phoebe.wav"
+}

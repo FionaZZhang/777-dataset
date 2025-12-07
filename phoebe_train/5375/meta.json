@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (to Ben) I know, I know. Everybody, there's someone I'd like you to meet. Yeah. This is Ben. Ben, this is everybody.",
+  "phoebe_transcript": "Susan, he looks just like you.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5375\\merged_before_phoebe_5375.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5375\\actual_phoebe.wav"
+}

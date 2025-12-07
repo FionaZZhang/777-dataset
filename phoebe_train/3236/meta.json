@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: A couple of days.\nchandler: Y’know, I knew something like this was going to happen. (He starts to take off his pants, revealing that he is still wearing his sweat pants.)\nmonica: What are you doing?! Chandler! You can’t just go back a phase!\nchandler: Yes you can. You’re thinking about time, you can’t go back in time.",
+  "phoebe_transcript": "Well, look, why don’t you just, why don’t you do your Phase Two strip club thing with us.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3236\\merged_before_phoebe_3236.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3236\\actual_phoebe.wav"
+}

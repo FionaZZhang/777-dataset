@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: (Thinking carefully) no. No, I, I couldn't do that.",
+  "phoebe_transcript": "(as Ursula) Um, then yes, it's 'cause of Phoebe! So, you know, it's either her or me.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2076\\merged_before_phoebe_2076.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2076\\actual_phoebe.wav"
+}

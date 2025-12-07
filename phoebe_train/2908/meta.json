@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Baby shower. Wow! That sounds sooo like something I don’t want to do! Later! (Finally, he makes his exit.)",
+  "phoebe_transcript": "I can’t believe I’m gonna have a party! This is so great! (Really excited) A party! (Really, really excited) Yay!! (Suddenly, she starts crying and Rachel moves to comfort her.) I don’t know why.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2908\\merged_before_phoebe_2908.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2908\\actual_phoebe.wav"
+}

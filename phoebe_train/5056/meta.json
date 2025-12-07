@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: He’s not snoozing, he’s teaching a class.\nmonica: Well then somebody’s snoozing. Joey, not that this uh should affect you at all, but if you were to pick me, I was planning on wearing a sequined dress, cut down to here. (Points to her stomach just above her belly button.)\nchandler: I haven’t seen this dress.\nmonica: Star in a movie.",
+  "phoebe_transcript": "Joey, you pick who ever you want. Okay? You just listen to your heart. What does it tell you? (Mimicking a heartbeat and tapping her chest.) Phoebe, Phoebe.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5056\\merged_before_phoebe_5056.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5056\\actual_phoebe.wav"
+}

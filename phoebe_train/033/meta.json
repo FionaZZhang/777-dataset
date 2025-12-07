@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Why don't you just be straight with her? Tell her the truth.\nrachel: You're right, you're right. I should just tell her the truth.\nrachel: Pheebs, Monica tripped me, I don't think I can ever run again, ever!",
+  "phoebe_transcript": "Why? Why would you do that?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\033\\merged_before_phoebe_033.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\033\\actual_phoebe.wav"
+}

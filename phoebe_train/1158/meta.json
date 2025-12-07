@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: (smiling) Now let's not ruin this day. You worked so hard. Let's move past this and try to have a nice meal all together, huh?\nchandler: make a good point.\nmonica: Yeah, they do seem to feel pretty bad.\nmonica: (Gets up) Okay, okay. You two (to Phoebe and Rachel) go get the dessert. And I'll let you in.",
+  "phoebe_transcript": "Pies, oh, we thought you said priiiize (goes to the hall and comes back with Emma's trophy in her hand). Here! (gives it to Monica).",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1158\\merged_before_phoebe_1158.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1158\\actual_phoebe.wav"
+}

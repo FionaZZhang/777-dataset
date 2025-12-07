@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Oh, no-no-no-no. Last time I left a spontaneous message I ended up using the phrase \"Yes indeedy-o.\"\nmonica: Look look! It's Rachel and Barry. No, don't everybody look at once!\nross: Okay, okay, what's going on?",
+  "phoebe_transcript": "Okay, they're just talking...",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2827\\merged_before_phoebe_2827.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2827\\actual_phoebe.wav"
+}

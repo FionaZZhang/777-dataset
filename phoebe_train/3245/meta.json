@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (to the waitress) When you get a sec, another round of daiquiris.",
+  "phoebe_transcript": "Remember, a virgin for me please.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3245\\merged_before_phoebe_3245.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3245\\actual_phoebe.wav"
+}

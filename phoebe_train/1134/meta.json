@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Wait a second, wait a second, where have I seen that cowgirl outfit before...\nross: I can't believe this, she's our daughter! That you would treat her like some kind of showdog is inexcusable!\nrachel: She won a thousand dollars!\njoey: (realizing) Oh! That's Alicia Mae Emory's outfit!",
+  "phoebe_transcript": "You guys, there are people in there who are not getting any happier!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1134\\merged_before_phoebe_1134.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1134\\actual_phoebe.wav"
+}

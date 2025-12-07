@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: All right, okay, look, what if you could keep the apartment and get the tickets?\nrachel: Let me finish.\nrachel: I’m talking about a bet, winner takes all.\njoey: Ooh, we could end up with nothing.",
+  "phoebe_transcript": "Or you could end up with everything.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\953\\merged_before_phoebe_953.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\953\\actual_phoebe.wav"
+}

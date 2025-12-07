@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Multi-colored robes! Ooh, and maybe a hat.\nrachel: Huh. Does Monica know about this?\njoey: I don’t think so.\nrachel: Can I please be there when you tell her? (Joey nods yes.)",
+  "phoebe_transcript": "Hey oh, Rach wait! Do you want to go to a movie tonight?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3314\\merged_before_phoebe_3314.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3314\\actual_phoebe.wav"
+}

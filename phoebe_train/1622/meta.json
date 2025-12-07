@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Phoebe! It's 6 o'clock in the morning! Why aren't you at Gary's?",
+  "phoebe_transcript": "Oh yeah, that's over.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1622\\merged_before_phoebe_1622.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1622\\actual_phoebe.wav"
+}

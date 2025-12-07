@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Well, let's see... uh... I know that she has a meeting with her lawyer and then she has to make a very big poop. Why?",
+  "phoebe_transcript": "Well, I wanna enter her in a baby beauty pageant.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1064\\merged_before_phoebe_1064.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1064\\actual_phoebe.wav"
+}

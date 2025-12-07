@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Why?! Why? Why, why would anybody do something like that?\nross: I assume we're looking for an answer more sophisticated than 'to get you into bed'.\nmonica: Is it me? Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?",
+  "phoebe_transcript": "All right, c'mere, gimme your feet. (She starts massaging them.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\646\\merged_before_phoebe_646.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\646\\actual_phoebe.wav"
+}

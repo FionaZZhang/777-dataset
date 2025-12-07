@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Well, you’re not suggesting that we spend all of the money on the wedding?\nchandler: Well, come on, I’ve been saving this money for six years and I kinda had some of it earmarked for the future, not just for a party.",
+  "phoebe_transcript": "(reading the slip of paper) Wow! (In a sultry voice) Hello, Mr. Chandler.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1495\\merged_before_phoebe_1495.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1495\\actual_phoebe.wav"
+}

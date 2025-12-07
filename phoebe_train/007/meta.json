@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Phoebe, come on can we finish this later? Cause I wanna go running before it gets dark. Oh! Why don't you come with me?!\nrachel: Yeah, it'll be fun. We'll run in the park. It'll be like our first y’know roommate bonding thing.",
+  "phoebe_transcript": "Okay, let's go running!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\007\\merged_before_phoebe_007.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\007\\actual_phoebe.wav"
+}

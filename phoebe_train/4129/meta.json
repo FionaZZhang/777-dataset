@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: What-what if I marry Ross—Or Joey?",
+  "phoebe_transcript": "(gasps) You wouldn’t! Okay look, Rachel I know you really want to do this, but I-I’ve never been maid of honor to anyone before! And I know you’ve done it at least twice!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4129\\merged_before_phoebe_4129.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4129\\actual_phoebe.wav"
+}

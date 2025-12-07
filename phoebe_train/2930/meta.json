@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh, well, actually we were just talking about me not going to Ross’s wedding.\nrachel: It just might be too hard, given the history and all that…",
+  "phoebe_transcript": "Wow! This reminds me of the time when I was umm, living on the street and this guy offered to buy me food if I slept with him.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2930\\merged_before_phoebe_2930.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2930\\actual_phoebe.wav"
+}

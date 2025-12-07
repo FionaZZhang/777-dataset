@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Oh I think we do.\nmonica: They gave us a fake number? Why? Why would they do that?\nchandler: I don’t know! You were a delight to talk to. You asked all those insightful, great questions.\njoey: Y’know what? Don’t worry about it, you still got me and Phoebe.",
+  "phoebe_transcript": "Excuse me, I don’t want Greg and Jenny’s rejects.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5538\\merged_before_phoebe_5538.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5538\\actual_phoebe.wav"
+}

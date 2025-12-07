@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Who are you? Ansel Adams?! Get outta here!",
+  "phoebe_transcript": "Look, I feel really bad about how I freaked you out before, so I called the father and asked him to meet you here so you can tell him. Go!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\291\\merged_before_phoebe_291.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\291\\actual_phoebe.wav"
+}

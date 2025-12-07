@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: You don't have birds.\nmonica: Ok, Mr. Heckles, we'll try to keep it down.\nrachel: All right, bye-bye.\nchandler: Ok, Janice. Janice. You gotta give me Janice. That wasn't about being picky.",
+  "phoebe_transcript": "I miss Janice though. \"Hello, Chandler Bing.\"",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1243\\merged_before_phoebe_1243.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1243\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Phoebe, I think... It's just too weird, I just saw a one year old running around with pantyhose on!",
+  "phoebe_transcript": "Oh, I know, we should have been more prepared. (she looks around) It's okay. Now, the way I see it, our real competition now is Cameron. Oh my God, they just took her sweater off. Look at those arms! Hello Michelin Man.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1097\\merged_before_phoebe_1097.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1097\\actual_phoebe.wav"
+}

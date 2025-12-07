@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Looks good, uh?\nchandler: (reading the ad) Stunning entertainment center. Fine, (pause) fine Italian craftsmanship. (Joey is very proud of himself)",
+  "phoebe_transcript": "Oh my God, you guys are selling the entertainment center?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2247\\merged_before_phoebe_2247.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2247\\actual_phoebe.wav"
+}

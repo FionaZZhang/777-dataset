@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Uh-huh, first you tell us where you got the prettiest lace in all the land.\nross: I’m reading your ad.\njoey: Looks good, uh?\nchandler: (reading the ad) Stunning entertainment center. Fine, (pause) fine Italian craftsmanship. (Joey is very proud of himself)",
+  "phoebe_transcript": "Oh my God, you guys are selling the entertainment center?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2245\\merged_before_phoebe_2245.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2245\\actual_phoebe.wav"
+}

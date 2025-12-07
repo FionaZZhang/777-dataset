@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: The earring? No. But look, I found my sunglasses under the couch! I've been looking for these since like last summer. (Puts 'em on.)",
+  "phoebe_transcript": "Okay, those are my sunglasses, you borrowed them from me.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2721\\merged_before_phoebe_2721.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\2721\\actual_phoebe.wav"
+}

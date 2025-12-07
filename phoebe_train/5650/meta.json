@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: All right, see you later.\njoey: See ya! All right Pheebs, I am ready for my first lesson.",
+  "phoebe_transcript": "Okay. (Joey tries to take the guitar.) Oh no-no-no, you don't touch the guitar! First you learn here, (Points to her head.) then you learn here. (Points to the guitar.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5650\\merged_before_phoebe_5650.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5650\\actual_phoebe.wav"
+}

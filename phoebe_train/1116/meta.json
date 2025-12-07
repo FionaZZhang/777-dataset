@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: want to lose the foam finger!\njoey: Oh, no, no, no, no, no. You just want to put it on your hand!\njoey: You are not at Thanksgiving?",
+  "phoebe_transcript": "No, we're late!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1116\\merged_before_phoebe_1116.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1116\\actual_phoebe.wav"
+}

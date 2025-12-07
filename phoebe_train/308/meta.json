@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (on phone) Yeah, yeah, everybody's here. Hey, everybody, say hi to Julie in NewMexico.\nchandler: Ok, while Ross is on the phone, everybody owes me 62 bucks for his birthday.",
+  "phoebe_transcript": "Um, is, is there any chance that you're rounding up? You know, like from, like20?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\308\\merged_before_phoebe_308.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\308\\actual_phoebe.wav"
+}

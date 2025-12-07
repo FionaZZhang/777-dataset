@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Oh, now you're tellin' us how you feel.\nrachel: Ok, we never shoulda talked about this.",
+  "phoebe_transcript": "I'm just gonna pass on the concert, 'cause I'm just not in a very Hootie placeright now.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\354\\merged_before_phoebe_354.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\354\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: When I take a shower, she leaves me little notes on the mirror.\nrachel: Yeah, I do. I-I do, do that.",
+  "phoebe_transcript": "That’s nice. I like having things to read in the bathroom.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4383\\merged_before_phoebe_4383.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\4383\\actual_phoebe.wav"
+}

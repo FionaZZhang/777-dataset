@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: She won a thousand dollars!\njoey: (realizing) Oh! That's Alicia Mae Emory's outfit!",
+  "phoebe_transcript": "You guys, there are people in there who are not getting any happier!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1136\\merged_before_phoebe_1136.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\1136\\actual_phoebe.wav"
+}

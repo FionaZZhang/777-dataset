@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh, you guys are so great.\nmonica: Oh, wait a minute! Who’s is the father?!",
+  "phoebe_transcript": "Oh no, she won’t tell us.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6185\\merged_before_phoebe_6185.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\6185\\actual_phoebe.wav"
+}

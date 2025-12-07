@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Yeah but, I’ve never asked a guy out before.\nrachel: No. Have you?",
+  "phoebe_transcript": "Thousands of times!! That doesn’t make me sound too good does it?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3786\\merged_before_phoebe_3786.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\3786\\actual_phoebe.wav"
+}

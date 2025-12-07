@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Rain? Hi. Hi, my name is Rain. I have my own kiln, and my dress is made out  of wheat.",
+  "phoebe_transcript": "I know her! I bought homemade soap from her at a Dead show!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5918\\merged_before_phoebe_5918.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\mmc_cleaned_5_turns_train_cleaned\\phoebe\\5918\\actual_phoebe.wav"
+}
