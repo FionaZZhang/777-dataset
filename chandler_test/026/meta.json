@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (looks at him) That was (pause) surreal. Okay, what do think? Are you interested at all?",
+  "chandler_transcript": "Yeah, she seemed cool, attractive. I’ll do it.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\026\\merged_before_chandler_026.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\026\\actual_chandler.wav"
+}

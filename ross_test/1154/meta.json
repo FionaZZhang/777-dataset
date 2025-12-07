@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Do I look fat?\nchandler: Okay, I accept that. When Janice asked me and I said no, she took that to mean that I was calling her a cow.\nrachel: Okay, walk us through it, honey, walk us through it.\nchandler: Okay, well. Janice said 'Hi, do I look fat today?' And I, I looked at her....",
+  "ross_transcript": "Whoa, whoa, whoa. You looked at her. You never look. You just answer, it's just a reflex. Do I look fat? Nooo! Is she prettier than I am? Noo! Does size matter?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1154\\merged_before_ross_1154.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1154\\actual_ross.wav"
+}

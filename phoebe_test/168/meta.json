@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "frank_jr: No, I wanna melt it.",
+  "phoebe_transcript": "Oh, well um, not right now. Y'know I’m just gonna go to bed, I think the fumes are giving me a headache.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\168\\merged_before_phoebe_168.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\168\\actual_phoebe.wav"
+}

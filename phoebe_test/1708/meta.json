@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Well, I think we all learned something.",
+  "phoebe_transcript": "(entering, hurridly) Hey, you guys! Look what I found! Look at this! (She hands Chandler a picture) That’s my Mom’s writing! Look.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1708\\merged_before_phoebe_1708.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1708\\actual_phoebe.wav"
+}

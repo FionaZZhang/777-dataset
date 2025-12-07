@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Yeah, I did. I think it sounds y'know big sistery, y'know, ‘Frank’s always late.’\nrachel: Well relax, he’ll be here.\nphoebe: No, I know, I’m just nervous. Y'know it’s just y'know Mom’s dead, don’t talk to my sister, Grandma’s been sleeping a lot lately. It’s like the last desperate chance to have a family, y'know, kinda thing. You’re so sweet to wait with me.\nrachel: Well, actually Gunther sent me. You’re not allowed to have cups out here, it’s a thing. (takes her cup and goes back inside)",
+  "chandler_transcript": "Does anyone else think David Copperfield is cute?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\137\\merged_before_chandler_137.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\137\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: You think you’re gonna get out of this on a technicality?",
+  "ross_transcript": "Look, I’m not trying to get out of anything, okay. I thought our relationship was dead!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1306\\merged_before_ross_1306.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1306\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: I’d really prefer a mountain bike.",
+  "chandler_transcript": "Janice’s birthday is coming up, I want to get her something speacial. Come in here with me.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\085\\merged_before_chandler_085.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\085\\actual_chandler.wav"
+}

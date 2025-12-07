@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: So, come on, what was the big news Pete wanted to tell you Mon?! Or should I say Mrs. Monica Becker?",
+  "phoebe_transcript": "No-no-no oh, keep your name, don’t take his name.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\271\\merged_before_phoebe_271.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\271\\actual_phoebe.wav"
+}

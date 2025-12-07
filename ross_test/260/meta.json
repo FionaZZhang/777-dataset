@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: It came up.\njoey: Listen, I ah, I know it’s a longshot. But, by any chance did she find that funny?",
+  "ross_transcript": "(entering) So I nodded off a little.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\260\\merged_before_ross_260.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\260\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Well now you have two. Hey, I am good at math.\njoey: All right, that’s it. Y'know I was still gonna let you have her. But now, forget about it. Prepare to feel very bad about yourself.\nchandler: Hey! Well, I’ve been preparing for that my entire life! Or something about you that’s mean!\nmonica: All right, come on guys, let’s go! Tie score, and we’re runnin’ out of time. Forty-two!! Thirty-eight!! Hike! (the timer sounds as Monica throws the ball to Phoebe.)",
+  "phoebe_transcript": "Oh I got it!! (catches the ball) Oh! Ew! Broken boob! Ow!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1486\\merged_before_phoebe_1486.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1486\\actual_phoebe.wav"
+}

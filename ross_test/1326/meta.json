@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: No Ross!! (stands up and moves away from him) Don’t! You can’t just kiss me and think you’re gonna make it all go away, okay? It doesn’t work that way. It doesn’t just make it better. Okay?\nrachel: (softly) I think you should go.\nrachel: (softly) I really think you need to go now.",
+  "ross_transcript": "(moving over to stand in front of her) Okay, okay. This morning you said there was nothing so big that we couldn’t work past it together...",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1326\\merged_before_ross_1326.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1326\\actual_ross.wav"
+}

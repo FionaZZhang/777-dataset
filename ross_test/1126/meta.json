@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "gunther: Sorry. She thought you were somebody else.\nrachel: What time is it?\nrachel: Tommy’s supposed to be here soon, we’re going to lunch.",
+  "ross_transcript": "Look. Look, I wasn’t going to say anything to you, but... All right, I don’t think you should be seeing Tommy anymore.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1126\\merged_before_ross_1126.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1126\\actual_ross.wav"
+}

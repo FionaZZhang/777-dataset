@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Oh, but wait I do have a globe.\njoey: So Pheebs what’s this guy like?",
+  "phoebe_transcript": "Umm, well he’s very dashing, y'know, and umm, very, very sophisticated, and he doesn’t speak any English, but according to his translator, he totally gets me.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\521\\merged_before_phoebe_521.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\521\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: To score the winning touchdown, by the way.",
+  "ross_transcript": "Whoa, whoa, whoa, ho, ho, ho, you did not win the game, the touchdown didn’t count, because of the spectacularly illegal, oh and by the way savage nose breaking.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1442\\merged_before_ross_1442.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1442\\actual_ross.wav"
+}

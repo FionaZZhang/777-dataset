@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (on phone) Yeah, oh my God, tomorrow! That, no, it’s perfect. Oh God, thank you soo much. Great! Bye! (hangs up phone) I got the interview!",
+  "ross_transcript": "There you go.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1053\\merged_before_ross_1053.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1053\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: No ah, hold on a second Joe, where do Dutch people come from?\njoey: Ah well, the ah, Pennsylvania Dutch, come from Pennsylvania.\nchandler: And the other ah, Dutch people, they come on from somewhere near the Netherlands, right?\njoey: Nice try. (to Margha) See the Netherlands is this make believe place where Peter Pan and Tinker Bell come from.",
+  "ross_transcript": "Enough with geography for the insane, okay? Let’s play some ball, guys.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1517\\merged_before_ross_1517.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1517\\actual_ross.wav"
+}

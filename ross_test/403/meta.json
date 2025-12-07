@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (entering from bathroom) Hey-hey! Oh, look at you, all sexy.\nrachel: How come you didn't come over earlier?",
+  "ross_transcript": "'Cause, I'm a stupid, stupid man.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\403\\merged_before_ross_403.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\403\\actual_ross.wav"
+}

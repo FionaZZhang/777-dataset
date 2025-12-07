@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: You know, when you start get screwed over all the time, you gotta switch to low-fat.\nrachel: Yeah, you do.",
+  "chandler_transcript": "So, you don't think I'm terminal?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1382\\merged_before_chandler_1382.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1382\\actual_chandler.wav"
+}

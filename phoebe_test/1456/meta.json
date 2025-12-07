@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: All right, we have to pick captains.",
+  "phoebe_transcript": "Okay, so how do we decide that?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1456\\merged_before_phoebe_1456.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1456\\actual_phoebe.wav"
+}

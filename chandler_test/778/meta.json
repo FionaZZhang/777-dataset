@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (hanging up the phone) I got the job!\nphoebe: Oh, God bless us, everyone.\nrachel: Here we go. I’m serving my last cup of coffee. (the gang starts humming the graduation theme) There you go. (hands it to Chandler) Enjoy. (they all cheer)",
+  "chandler_transcript": "(to Ross) Should I tell her I ordered tea?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\778\\merged_before_chandler_778.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\778\\actual_chandler.wav"
+}

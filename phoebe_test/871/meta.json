@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "pete: Listen, can you promise me that you won’t tell her though?",
+  "phoebe_transcript": "Absolutely, oh I promise. Tell her what?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\871\\merged_before_phoebe_871.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\871\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Oh my God, is she going back to him?",
+  "chandler_transcript": "She doesn’t know. Says she loves us both. Y'know I woke up this morning and I was in love, well I was happy. Y'know it serves me right for buying that twelve pack of condoms. And now I can’t even return them, because she choked on the reciept!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\110\\merged_before_chandler_110.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\110\\actual_chandler.wav"
+}

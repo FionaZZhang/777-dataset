@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Look. Look, I wasn’t going to say anything to you, but... All right, I don’t think you should be seeing Tommy anymore.\nross: No! The guy is mean. I mean really mean. I think you should stay away from him.\nrachel: , maybe, I should stay away from all men.\nross: No, it’s not just ‘cause I’m jealous. (Both Monica and Chandler give him a ‘Come on’ look) I mean I’m not, I’m not, I’m not jealous, okay? It’s… Look, the guy, he screamed, he actually screamed at this couple sitting in our seats.",
+  "chandler_transcript": "Yeah, and at the end of the play, he, he got up y'know, and he just started like, (claps his hands) banging his hands together!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1129\\merged_before_chandler_1129.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1129\\actual_chandler.wav"
+}

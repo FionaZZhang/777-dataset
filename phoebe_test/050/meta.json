@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Well, we believe it originated here. (He uses a pointer and points to the point of origin.) In the Aroma Room.",
+  "phoebe_transcript": "All right. Did everyone get out okay?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\050\\merged_before_phoebe_050.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\050\\actual_phoebe.wav"
+}

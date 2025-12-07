@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Dark, big hair, with the airplane earrings.\nchandler: (to Monica) You see you can’t tell which one is which either, dwha!!",
+  "phoebe_transcript": "We didn’t fool around with any of them. Dwha! Dwha!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1032\\merged_before_phoebe_1032.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1032\\actual_phoebe.wav"
+}

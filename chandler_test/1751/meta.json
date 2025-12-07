@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Well I assume the ah, happy couple isn’t up yet. Did you guys hear them last night?",
+  "chandler_transcript": "Oh, yeah, I don’t know what they were doing, but at one point sea turtles actually came up to the house.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1751\\merged_before_chandler_1751.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1751\\actual_chandler.wav"
+}

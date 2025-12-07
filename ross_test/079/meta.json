@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Whoa! Wait! Hello! What about me?",
+  "ross_transcript": "You? You! Want to watch Ben? (in the background Monica mouths ‘Don’t worry, I’ll be here the whole time.’ to Ross.) Yes! That’d be great, no, I just wanted to ask Monica, because I know how empty her life is. (Monica sarcastically mouths ‘Yeah!’ and holds up her thumb.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\079\\merged_before_ross_079.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\079\\actual_ross.wav"
+}

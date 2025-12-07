@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh, please, Ross it was so obvious! It was like you were marking your territory. I mean you might have well have just come in and peed all around my desk!",
+  "ross_transcript": "I would never do that!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1675\\merged_before_ross_1675.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1675\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: All right they got water, orange juice, and what looks like cider. (takes a glass from the fridge.)\njoey: (drinks from the glass and puts it back in the fridge) Yep, it's fat. I drank fat!",
+  "chandler_transcript": "Yeah, I know, I did that two minutes ago.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\396\\merged_before_chandler_396.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\396\\actual_chandler.wav"
+}

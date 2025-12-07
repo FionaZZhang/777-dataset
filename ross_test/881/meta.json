@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: That’s not what I said. Okay, I just meant...\nchandler: I know what you meant!! (pause) You notice that ever since we got this chick, we’ve been fighting a lot more than we used too?\njoey: I don’t know, maybe we weren’t ready to have a chick.\nchandler: I’ll take her back tomorrow.",
+  "ross_transcript": "(sees the chick) Ohhh, hey! All right, listen, I-I have that TV thing in like two hours, and I need your help, okay? What do you think? (takes out two suits) This blue suit, or this brown one?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\881\\merged_before_ross_881.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\881\\actual_ross.wav"
+}

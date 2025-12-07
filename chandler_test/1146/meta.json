@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: What is this? Fruit?\nrachel: Monica's making jam.\njoey: Whoa, jam! I love jam! (to Chandler) Hey, how come we never have jam at our place?",
+  "chandler_transcript": "Because the kids need new shoes.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1146\\merged_before_chandler_1146.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1146\\actual_chandler.wav"
+}

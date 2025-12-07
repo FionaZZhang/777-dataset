@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Yes! Wow, well, that-that was easy. Okay, you-you go.",
+  "chandler_transcript": "Okay, you know, you know when your in bed, with a woman.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\839\\merged_before_chandler_839.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\839\\actual_chandler.wav"
+}

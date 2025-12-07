@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Why?! What is it?\nmonica: Yeah, but without the costumes.\njoey: And it’s not fake, it’s totally brutal.\nmonica: So you can like, bite, and pull people’s hair and stuff?",
+  "ross_transcript": "Yeah, anything goes, except ah, eye gouging and fish hooking.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\275\\merged_before_ross_275.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\275\\actual_ross.wav"
+}

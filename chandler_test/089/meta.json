@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Oh, you want something serious. Y'know what you should do, you should get her one of those um, barium enemas. Those are dead serious.",
+  "chandler_transcript": "All right. Look, I’m gonna go in here, and you don’t buy me anything ever. (starts to go into the store)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\089\\merged_before_chandler_089.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\089\\actual_chandler.wav"
+}

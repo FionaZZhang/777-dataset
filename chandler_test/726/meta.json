@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: ...and these come in the shapes of your favourite Christmas characters, Santa, Rudolph, and Baby Jesus.\njoey: All right, I’ll take a box of the cream filled Jesus’s.\nross: Wait a minute, one box! Come on, I’m trying to send a little girl to Spacecamp, I’m putting you down for five boxes. Chandler, what about you?",
+  "chandler_transcript": "Ahh, do you have any coconut flavoured deities?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\726\\merged_before_chandler_726.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\726\\actual_chandler.wav"
+}

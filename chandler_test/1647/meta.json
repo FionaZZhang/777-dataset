@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Yeah, it's kinda like a 'good luck on your first day' sort of thing. (to Phoebe) Is this actually a lunchbox?\nphoebe: Umm, no, it's a purse. And there's a thermos in it.",
+  "chandler_transcript": "(to Ross) Hey, so can you make it on Friday?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1647\\merged_before_chandler_1647.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1647\\actual_chandler.wav"
+}

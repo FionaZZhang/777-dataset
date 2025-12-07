@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Oh, I am having the best karma this week. First, I find this woman who knew my parents, and then my client with the fuzzy back gives me his beach house.",
+  "ross_transcript": "Yeah? What about ah, that bike messenger you hit?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1718\\merged_before_ross_1718.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1718\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: All right, we still have a minute and a half to go, and we’re down by two points. Two points.... (she gets interrupted by the guys, who are doing a slow-motion high five.) Phoebe you do a button-hook again. Rachel, you go long.\nrachel: No! Come on! Don’t make me go long. Use me. They never cover me.\nmonica: Honey, there’s a reason.\nrachel: God, I’m not lame, okay. I can do something. I can throw, would you let me throw, come on this is my game too.",
+  "phoebe_transcript": "Come on Mon, let her throw the ball.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1527\\merged_before_phoebe_1527.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1527\\actual_phoebe.wav"
+}

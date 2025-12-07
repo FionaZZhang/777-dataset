@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: So you had fun, huh?",
+  "phoebe_transcript": "Yeah. Except for, y'know when you’re on a date and you’re getting along really great but the guy’s translator keeps getting in the way.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\532\\merged_before_phoebe_532.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\532\\actual_phoebe.wav"
+}

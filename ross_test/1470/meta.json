@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Great! Now, the score is 7 to almost 7.",
+  "ross_transcript": "Okay, (to Chandler) this play, I want you to do a down and out to the right. Okay. Break!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1470\\merged_before_ross_1470.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1470\\actual_ross.wav"
+}

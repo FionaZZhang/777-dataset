@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Hey, it’s been like three weeks!",
+  "chandler_transcript": "You slept with somebody three hours after you thought you broke up. I mean bullets have left guns slower!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\632\\merged_before_chandler_632.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\632\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (on answering machine) Hi, it’s me. I’ve been trying to reach you all night. I feel awful. Please, Ross, you gotta know there is nothing between me and Mark. This whole break-up thing is just stupid.\nrachel: Eh, I’m just so sorry I put you through it. And, I y'know, I don’t want to get back together over a machine.\nrachel: So, I love you.\nrachel: And y'know what, I’m gonna, I’m gonna go to bed now, but ah, on my way to work tomorrow morning, I’m gonna stop by around 830.",
+  "ross_transcript": "Chloe, Chloe how’s it coming?!!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1228\\merged_before_ross_1228.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1228\\actual_ross.wav"
+}

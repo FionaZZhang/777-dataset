@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Okay, well if I stop playing with Joey and Chandler, can I play with Mark?",
+  "ross_transcript": "Is that funny? Am I supposed to be laughing?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\243\\merged_before_ross_243.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\243\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Hey I was crying because, because nobody believed Quincy’s theory. Okay?\nross: (triumphantly) I’m gonna be on TV!!",
+  "chandler_transcript": "Oh my God! Who’s gonna watch that?!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\851\\merged_before_chandler_851.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\851\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (to Monica) You like it right?\nmonica: Oh absolutely. I like it even more on you than I did on Colonel Sanders. (Ross starts to leave) Ross! Ross! I’m kidding!\nmonica: What-what was it you were gonna tell us?\nrachel: Yeah. Oh! Was how you invented the cotton gin?!",
+  "chandler_transcript": "So um, after you put the suggestion in the box, how long did it take for the roller skating thing to happen.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\861\\merged_before_chandler_861.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\861\\actual_chandler.wav"
+}

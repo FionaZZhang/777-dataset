@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: What, what are you doing? What are you doing?",
+  "phoebe_transcript": "No, no, no, I know, I know, ooh. (on the phone in a different voice) 'Hi, this is Katelynn, from Phoebe Buffay's office. Um, is um, Ann there for Phoebe, she'll know what it's about.'",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1339\\merged_before_phoebe_1339.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1339\\actual_phoebe.wav"
+}

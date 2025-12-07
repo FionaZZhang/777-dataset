@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: That is so weird, because every time I go to the dentist, I look down the hygienist’s blouse.\nphoebe: Yeah, yeah, first there was my aunt Mary, and then there was umm, John, my mailman, and then my, my cowboy friend ‘Albino Bob’.\nrachel: And all these people actually died?\nphoebe: Yes, while I was in the chair! That’s why I take such good care of my teeth now, y'know, it’s not about oral hygiene, I floss to save lives!",
+  "ross_transcript": "Pheebs, come on, you didn’t kill anybody, these people just happened to die when you went to the dentist. It’s, it’s, it’s just ah, a coincidence.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\060\\merged_before_ross_060.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\060\\actual_ross.wav"
+}

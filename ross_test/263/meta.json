@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Nodded off!! Ross you were snoring. My father’s boat didn’t make that much noise when it hit rocks!",
+  "ross_transcript": "Come on! Forty-five minutes! Forty-five minutes the man talked about strappy backed dresses.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\263\\merged_before_ross_263.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\263\\actual_ross.wav"
+}

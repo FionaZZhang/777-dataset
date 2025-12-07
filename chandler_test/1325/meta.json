@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: What if they don’t?\njoey: You think I need a new walk?\njoey: Well y'know, I’ve been walking the same way since high school. Y'know, y'know how some guys they walk into a room and everybody takes notice. I think I need a ‘take notice’ walk.",
+  "chandler_transcript": "Are you actually saying these words?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1325\\merged_before_chandler_1325.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1325\\actual_chandler.wav"
+}

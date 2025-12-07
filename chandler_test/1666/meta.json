@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Oh, how was last night with Julio, senorita?\nmonica: It was soo amazing, he is so sexy, and smart, which makes him even sexier. Oh gosh, I gotta so you this. Last night, we were fooling around and he stops to write a poem.\njoey: Get out! I couldn't stop if a meteor hit me.",
+  "chandler_transcript": "Okay, we have our stripper. A miss Crystal Chandelier.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1666\\merged_before_chandler_1666.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1666\\actual_chandler.wav"
+}

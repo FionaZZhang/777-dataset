@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Ready, Set, Cook!",
+  "ross_transcript": "Save the breakthroughs for therapy, okay. The clock is ticking. We have no time, and we are losing, we are losing to girls.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1522\\merged_before_ross_1522.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1522\\actual_ross.wav"
+}

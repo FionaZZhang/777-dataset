@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: All right, I'll try not to.",
+  "phoebe_transcript": "Okay, all right, so, your in a meadow, millions of stars in the sky....",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\827\\merged_before_phoebe_827.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\827\\actual_phoebe.wav"
+}

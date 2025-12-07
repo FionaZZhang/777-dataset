@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Honey, you did call him back. 'Cause, it's, it's really old.\nross: Yeah, see Mon, listen, listen. When Carol and I broke up, I went through the same thing. And you know what I did?\nross: I.....got.....dressed. Really, really quickly. Okay, okay. (Rachel starts to follow Monica into her room, but Ross stops her and sends her back to her room.) There we go, there we go.\nchandler: You know what, okay, fine. Don't get up, you just sit right there. I just hope, you don't mind, you know, my hand right here. (holds his hand a couple of inches in front of Joey's face) Op, not touching, can't get mad! Not touching can't get mad! Not touching can't get mad! (Joey flings some dip onto Phoebe's dress)",
+  "phoebe_transcript": "Ah! Oh my God! You r-r-rotten boys!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\433\\merged_before_phoebe_433.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\433\\actual_phoebe.wav"
+}

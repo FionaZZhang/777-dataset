@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Ross, that was a Halloween costume, unless you would like me to go to this thing as Little Bo Peep.",
+  "ross_transcript": "Look, I didn't recognize it without that inflatable sheep.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\469\\merged_before_ross_469.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\469\\actual_ross.wav"
+}

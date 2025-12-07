@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: When did I sign for it?",
+  "phoebe_transcript": "When I was you! Y'know what, it’s all Joey’s fault, ‘cause he left his nose open!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1099\\merged_before_phoebe_1099.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1099\\actual_phoebe.wav"
+}

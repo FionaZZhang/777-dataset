@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Come on, it’s a hypnosis tape. This woman at work used it for two weeks straight and she hasn’t smoked since.",
+  "ross_transcript": "Nothing, it’s just that hypnosis is beyond crap.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\323\\merged_before_ross_323.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\323\\actual_ross.wav"
+}

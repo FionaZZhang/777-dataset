@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Well, I’m really sick of your smoking, so I brought something that is going to help you quit. (hands him an audio cassette)",
+  "chandler_transcript": "Oh. (takes the cassette and puts it on his arm like the stop smoking patch, and it falls off.) Nope, that patch is no good. (Joey and Monica both do their fake laughs.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\321\\merged_before_chandler_321.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\321\\actual_chandler.wav"
+}

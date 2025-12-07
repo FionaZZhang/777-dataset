@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Wow, he's cute, Pheebs! But I thought you just started dating that Kindergarten teacher.",
+  "phoebe_transcript": "Oh, Jason? Yeah, uh-huh, we're seeing each other tonight.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\949\\merged_before_phoebe_949.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\949\\actual_phoebe.wav"
+}

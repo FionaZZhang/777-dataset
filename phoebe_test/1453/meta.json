@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: But wait a minute though, how are we gonna get there, though, because my Mom won’t let me cross the street.\nross: Here you go. (throws her the ball)\nrachel: (knocking it down instead of catching it) That almost hit me in the face.\njoey: All right, we have to pick captains.",
+  "phoebe_transcript": "Okay, so how do we decide that?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1453\\merged_before_phoebe_1453.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1453\\actual_phoebe.wav"
+}

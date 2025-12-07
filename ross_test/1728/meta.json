@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: And this time, they’ve ganged up to form one giant, super hat.\nrachel: Oh yeah, now everybody wants to be under this hat!\nmonica: What’s with all this sand? (picking a handful of sand off of the floor, which is covered in sand)\nphoebe: Oh, yeah, Bob said there might be flood damage.",
+  "ross_transcript": "Yeah, either that, or he has a really big cat.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1728\\merged_before_ross_1728.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1728\\actual_ross.wav"
+}

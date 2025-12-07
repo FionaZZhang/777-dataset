@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Phoebe, it’s been two days.",
+  "phoebe_transcript": "Yeah, I know. Oh, good thing it’s one of those 801 numbers. Right?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1135\\merged_before_phoebe_1135.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1135\\actual_phoebe.wav"
+}

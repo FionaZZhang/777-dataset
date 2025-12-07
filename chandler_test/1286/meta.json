@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Oh!! (hits Chandler and Joey in the head) You guys knew about this and you didn’t tell us?!",
+  "chandler_transcript": "(to Joey) He has sex, and we get hit in our heads.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1286\\merged_before_chandler_1286.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1286\\actual_chandler.wav"
+}

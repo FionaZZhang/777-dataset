@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "gunther: Oh, like you don’t already have everything.\nrachel: Phoebe, your in pain, would you just go to the dentist, just go.",
+  "phoebe_transcript": "All right, fine, fine, but if you’re my next victim, don’t come back as a poltergeist and like suck me into the TV set.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\063\\merged_before_phoebe_063.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\063\\actual_phoebe.wav"
+}

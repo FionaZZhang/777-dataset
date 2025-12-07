@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I need two. I’m bringing Pete. My boyfriend. I have a boyfriend now!\njoey: Two it is. Ross, how about you?",
+  "ross_transcript": "Uh, yeah, I ah, I also need two.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1106\\merged_before_ross_1106.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1106\\actual_ross.wav"
+}

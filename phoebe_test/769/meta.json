@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Tell us what happened, Brown Bird Ross.\nross: Well, I lost. Some little girl loaned her uniform to her nineteen year old sister, who went down to the U.S.S. Nimitz, and sold over 2,000 boxes.\nrachel: Oh, I blew it. I wouldn’t of even hired me.\nross: Oh, come here sweetie, listen, you’re gonna go on like a thousand interviews before you get a job. (she glares at him) That’s not how that was supposed to come out.",
+  "phoebe_transcript": "This is the worst Christmas ever.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\769\\merged_before_phoebe_769.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\769\\actual_phoebe.wav"
+}

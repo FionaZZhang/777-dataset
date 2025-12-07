@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: As a joke, this customer at work who has a crush on me gave me a $20,000 tip. His number is on the check, he just did so I’d call him.\nmonica: Oh my God! That’s Pete! But why is Bill huggin’ Pete?",
+  "chandler_transcript": "This guy invented Moss 865! Every office in the world uses that program!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\359\\merged_before_chandler_359.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\359\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Yeahh, but, but those really go better with pants. Maybe I should wear pants?\nross: Yeah, pants, what, what an idea. Or better yet, um, how 'bout you go without any pants. Look, I don't know what you're trying to do to me, but just get your butt in there and pick out any shoes that fit your feet, okay. No, no I don't care if they match. I don't care if they make your ankles or your knees or your earlobes look fat. Okay.\nross: No, no, no just do it. Go in there and pick something out so we can go.\nmonica: (entering from her room) Okay. I gotta call Michelle. I gotta see if that was her voice or not. I'm sorry, I just have to.",
+  "chandler_transcript": "Monica, I think you've gone over to the bad place.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\490\\merged_before_chandler_490.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\490\\actual_chandler.wav"
+}

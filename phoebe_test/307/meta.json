@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: What? Oh! I gotta tell you, I-I wasn’t expecting to like her at all, I mean I actually wasn’t expecting to like anyone right now, but she’s really terrific.\nross: No, I-I’m saying I liked her.",
+  "phoebe_transcript": "Yeah, y'know what, there are other fish in the sea.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\307\\merged_before_phoebe_307.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\307\\actual_phoebe.wav"
+}

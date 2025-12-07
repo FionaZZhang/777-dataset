@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: You said I had to give you the chair, you didn't say anything about the cushions.",
+  "chandler_transcript": "The cushions are the essence of the chair!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\464\\merged_before_chandler_464.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\464\\actual_chandler.wav"
+}

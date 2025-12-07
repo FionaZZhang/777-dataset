@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I’m sorry, I just can’t go to the hospital lookin’ like this.\nmonica: Does it involve travel?",
+  "phoebe_transcript": "Oh, wait, wait. Clogs, or claws?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\923\\merged_before_phoebe_923.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\923\\actual_phoebe.wav"
+}

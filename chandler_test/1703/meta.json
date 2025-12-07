@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "bonnie: All right, I was 15, it was my best friend, Ruth, and we got drunk on that hard cider, and then suddenly, I don’t know, we were, we were making out.",
+  "chandler_transcript": "Tell it again. (pause, we see Rachel is not amused.) Seriously.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1703\\merged_before_chandler_1703.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1703\\actual_chandler.wav"
+}

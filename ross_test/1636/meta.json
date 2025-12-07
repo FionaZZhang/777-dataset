@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: I need you to come to this bachelor party for my weird cousin Albert, y'know he's the botanist.",
+  "ross_transcript": "Oh God. Y'know, botanists are such geeks.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1636\\merged_before_ross_1636.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1636\\actual_ross.wav"
+}

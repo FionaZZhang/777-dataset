@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (joining them) Okay, how'd it go at the doctor's?",
+  "ross_transcript": "Well, he said there's definitely nothing to worry about, it's totally benign.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\951\\merged_before_ross_951.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\951\\actual_ross.wav"
+}

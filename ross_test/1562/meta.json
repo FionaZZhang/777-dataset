@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (standing up) I’m up! I’m up, I’ve gotten up now! Anybody ah, want anything?",
+  "ross_transcript": "Yeah, make that three.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1562\\merged_before_ross_1562.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1562\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Really? Who’s number two?\nchandler: Who’s number two? One of the more difficult games sewer workers play.\nross: Uh, no, it’s-it’s just this person.",
+  "phoebe_transcript": "Like a date type (looks at Rachel) person?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1109\\merged_before_phoebe_1109.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1109\\actual_phoebe.wav"
+}

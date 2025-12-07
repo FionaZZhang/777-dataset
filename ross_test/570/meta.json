@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Ross do you realise this is the first time in my life I’m doing something I actually care about. This is the first time in my life I’m doing something that I’m actually good at. I mean. if you don’t get that...",
+  "ross_transcript": "No, hey, I get that, okay, I get that big time. And I’m happy for ya, but I’m tired of having a relationship with your answering machine! Okay, I don’t know what to do anymore.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\570\\merged_before_ross_570.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\570\\actual_ross.wav"
+}

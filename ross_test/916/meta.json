@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Stop it! Cut it out! Cut it out!",
+  "ross_transcript": "Okay, okay, I’m sorry, it will never happen... (closes eyes) Uh-oh! Wait a minute! Wait-wait, now there are a hundred of you and I’m the king.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\916\\merged_before_ross_916.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\916\\actual_ross.wav"
+}

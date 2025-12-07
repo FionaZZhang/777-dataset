@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "frank_jr: (hiding under a pile of clothes) Hi. (She jumps up screaming.) Wait, no! Just put the mail down. It’s-it’s me!",
+  "phoebe_transcript": "Okay. Whoa, sorry. Why were you just like all in the dark?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\381\\merged_before_phoebe_381.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\381\\actual_phoebe.wav"
+}

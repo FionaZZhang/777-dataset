@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Three of your five, what?\nross: Celebrities I’m allowed to sleep with.\nrachel: Oh my God! You are giving this a lot of thought.\nross: Yeah, it’s hard okay, I only have two spots left.",
+  "chandler_transcript": "All right, so who do you got it narrowed down to?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\163\\merged_before_chandler_163.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\163\\actual_chandler.wav"
+}

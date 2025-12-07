@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (forcing the door open) Come on, Rachel, come on! Talk to me! Please!!\nrachel: I can’t talk to you. I can’t even look at you right now!",
+  "phoebe_transcript": "(to Joey) What, what are they talking about?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1275\\merged_before_phoebe_1275.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1275\\actual_phoebe.wav"
+}

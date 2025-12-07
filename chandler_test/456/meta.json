@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Monica, you don't know that.\nmonica: Well, who's voice was that?",
+  "chandler_transcript": "Maybe it was his sister's. You know, maybe it was his daughter's.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\456\\merged_before_chandler_456.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\456\\actual_chandler.wav"
+}

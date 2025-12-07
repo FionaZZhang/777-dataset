@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (to Ross and Monica) What if Joey were president?",
+  "phoebe_transcript": "Umm, hey Rach, can I ask you something?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\293\\merged_before_phoebe_293.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\293\\actual_phoebe.wav"
+}

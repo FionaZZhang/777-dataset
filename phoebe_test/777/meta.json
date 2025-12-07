@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Sure, everybody loves a kidder.\nrachel: (hanging up the phone) I got the job!",
+  "phoebe_transcript": "Oh, God bless us, everyone.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\777\\merged_before_phoebe_777.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\777\\actual_phoebe.wav"
+}

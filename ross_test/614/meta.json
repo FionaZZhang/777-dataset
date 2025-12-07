@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (in a deep voice) If I broke up with you, I’d miss you.",
+  "ross_transcript": "You ah, wanted to see me?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\614\\merged_before_ross_614.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\614\\actual_ross.wav"
+}

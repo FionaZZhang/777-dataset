@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Do you remember the scene with, um, Jabba the Hut? Well Jabba had as, as his prisoner, um, Princess Leia.\nross: Princess Leia, was wearing this, um, gold bikini thing. It was pretty cool.",
+  "phoebe_transcript": "Yeah, oh, Princess Leia and the gold bikini, every guy our age loved that.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\790\\merged_before_phoebe_790.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\790\\actual_phoebe.wav"
+}

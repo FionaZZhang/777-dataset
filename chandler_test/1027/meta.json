@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (to Rachel) You see what men do! Don’t tell me men are not nice! (points to Chandler) This is men!!\nmonica: Are you insane? I mean Joey, is going to kill you, he’s actually going to kill you dead.",
+  "chandler_transcript": "Okay! You don’t think I thought of that?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1027\\merged_before_chandler_1027.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1027\\actual_chandler.wav"
+}

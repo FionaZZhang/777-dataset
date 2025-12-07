@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Perhaps, you would like me to turn like this, (turns sideways on the couch) so that you can bunny bump against my back.\nchandler: Hey, man. What's up?\njoey: Maybe you can tell me. My agent would like to know why I didn't show up at the audition I didn't know I had today. The first good thing she gets me in weeks. How could you not give me the message?!\nchandler: Well, I'll tell ya I do enjoy guilt, but, ah, it wasn't me.",
+  "phoebe_transcript": "Yes, it was! It was him! Uh huh! (they all stare at her) Okay, it was me!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1329\\merged_before_phoebe_1329.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1329\\actual_phoebe.wav"
+}

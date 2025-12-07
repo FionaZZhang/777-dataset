@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: No! No, no you can't quit! You're the best agent I ever had! Look Pheebs, rejection is part being an actor, you can't take it personally.",
+  "phoebe_transcript": "Not personal, really, well they said that they never met an Italian actor with a worse Italian accent.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1402\\merged_before_phoebe_1402.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1402\\actual_phoebe.wav"
+}

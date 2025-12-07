@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Yeah? What about ah, that bike messenger you hit?",
+  "phoebe_transcript": "Oh, I wasn’t talking about his karma.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1719\\merged_before_phoebe_1719.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1719\\actual_phoebe.wav"
+}

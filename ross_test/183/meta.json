@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: It’s beautiful! It’s like the first bathroom floor there ever was. (Chandler tries to go to the bathroom) Whoa! Are you going in there for?\nchandler: What, like a number?",
+  "ross_transcript": "Okay, I’m done with my choices, these are final. (holds up a little card)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\183\\merged_before_ross_183.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\183\\actual_ross.wav"
+}

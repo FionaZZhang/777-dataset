@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Oh, hey. Come on man, don't look at me like that, she used to drive you nuts before too, remember?",
+  "chandler_transcript": "Well, I'm crazy about her now. I think this could be the real thing. Capital 'R'! Capital 'T'! (Joey stares at him) Don't worry, those are the right letters.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\801\\merged_before_chandler_801.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\801\\actual_chandler.wav"
+}

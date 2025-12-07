@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: I like her.",
+  "phoebe_transcript": "(to Chandler) Why? Because she can sing and play guitar and do both at the same time?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\211\\merged_before_phoebe_211.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\211\\actual_phoebe.wav"
+}

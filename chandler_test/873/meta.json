@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Well, anyway, I got to go change, I’m ah, meeting some of the cast for drinks.",
+  "chandler_transcript": "I stayed home from work today while you were at rehearsal so somebody could be here with our chick!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\873\\merged_before_chandler_873.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\873\\actual_chandler.wav"
+}

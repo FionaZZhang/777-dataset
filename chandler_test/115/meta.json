@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: All right, you’re probably not gonna want to hear this but ah, if it was me, and this is just me, (Chandler gets ready to throw another dart) I would ah, I would bow out.",
+  "chandler_transcript": "What? (turns around quickly still ready to throw the dart and Joey quickly ducks and hides behind the chair) What are you, what are you talking about?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\115\\merged_before_chandler_115.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\115\\actual_chandler.wav"
+}

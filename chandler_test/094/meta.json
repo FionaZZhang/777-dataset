@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Okay. I went down to the ‘Mattress King’ showroom and, and I saw Janice, kissing her ex-husband.\njoey: They were in his office.",
+  "chandler_transcript": "Well she, she wouldn’t do that, she’s with, she’s with me.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\094\\merged_before_chandler_094.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\094\\actual_chandler.wav"
+}

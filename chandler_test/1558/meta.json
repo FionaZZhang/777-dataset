@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Monica, what are you doing?",
+  "chandler_transcript": "Well, she spent the last six months getting over him, and now she’s celebrating that by going on a date with him.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1558\\merged_before_chandler_1558.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1558\\actual_chandler.wav"
+}

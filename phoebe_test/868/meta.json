@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "pete: Why would you say that?",
+  "phoebe_transcript": "‘Cause you’re still into Monica. So you told her there was somebody else so she would agree to work with you, so ‘cause you figure oh if you spent a lot of time together, maybe something might happen, and...",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\868\\merged_before_phoebe_868.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\868\\actual_phoebe.wav"
+}

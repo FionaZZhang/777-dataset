@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Well, I will go to the hospital tomorrow, it’ll still be broken then.\nrachel: But y'know, I could use a hand getting ready.\nrachel: Look, either help me or go.\nrachel: (with a hurt expression on her face) Okay, but before you go, could you help me first?",
+  "ross_transcript": "(He checks his watch) Sure. I’ll help you.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\889\\merged_before_ross_889.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\889\\actual_ross.wav"
+}

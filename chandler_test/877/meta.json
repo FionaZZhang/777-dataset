@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Ohhh, here it comes.",
+  "chandler_transcript": "Yes, here it comes! I’m stuck here all day, and then you come in and spend two seconds with us and then expect to go off gallivanting with your friends? Well I don’t think so mister!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\877\\merged_before_chandler_877.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\877\\actual_chandler.wav"
+}

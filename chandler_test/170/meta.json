@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: I just asked you.\nphoebe: I don’t have time for this.\nmonica: No, that is what the game is.\nphoebe: Which you just gave up really quickly.",
+  "chandler_transcript": "(entering) Have you seen Joey?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\170\\merged_before_chandler_170.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\170\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: What did they do?",
+  "ross_transcript": "Well, they painted over the word ‘Sapien’ for one thing, then they rearranged the figures, let’s just leave it at that.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\075\\merged_before_ross_075.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\075\\actual_ross.wav"
+}

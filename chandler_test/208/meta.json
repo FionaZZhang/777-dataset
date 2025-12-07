@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: I bet ‘ya ya I could fit in there. (points to a hole in the center)",
+  "chandler_transcript": "I’ve got five bucks says you can’t.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\208\\merged_before_chandler_208.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\208\\actual_chandler.wav"
+}

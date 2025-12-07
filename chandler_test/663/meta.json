@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh, well okay. Well, there you go.\nphoebe: No, it’s just that he got this new like home theater dealie, and he wants y'know, us to check it out.",
+  "chandler_transcript": "Yeah, he’s really excited about it too, he even recorded show times on his answering machine.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\663\\merged_before_chandler_663.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\663\\actual_chandler.wav"
+}

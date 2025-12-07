@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Oh my God, he just said your name, that’s great! Good job Ben.\nmonica: Oh that’s right, that’s what I’d sound like if I exploded.",
+  "phoebe_transcript": "Woo-Hoo! The curse is broken! I called everybody I know, and everyone is alive.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\101\\merged_before_phoebe_101.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\101\\actual_phoebe.wav"
+}

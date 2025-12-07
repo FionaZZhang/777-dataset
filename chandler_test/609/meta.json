@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: So Rachel called. Wants to see me. Going over in a minute.\njoey: Wow, what-what do you think she wants?\nross: Well, maybe the crazy fog has lifted and she realises that life without me.... a-sucks.",
+  "chandler_transcript": "It’s possible. You are very loveable, I’d miss you if I broke up with you. (Ross glares at him) I was just trying to be supportive.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\609\\merged_before_chandler_609.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\609\\actual_chandler.wav"
+}

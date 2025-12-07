@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Hey, what you do on your own time...\njoey: (entering) Where's my underwear?!\nross: Whoa, whoa, whoa. Come on, come on, what. You took his underwear?",
+  "chandler_transcript": "He took my essence!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\478\\merged_before_chandler_478.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\478\\actual_chandler.wav"
+}

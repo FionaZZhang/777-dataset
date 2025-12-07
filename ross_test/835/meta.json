@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Yeah! All right! You go first.",
+  "ross_transcript": "Okay, okay, I'll go first.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\835\\merged_before_ross_835.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\835\\actual_ross.wav"
+}

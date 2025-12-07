@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Well, every, every Thanksgiving um, we used to have a touch football game called the ‘Geller Bowl.’",
+  "chandler_transcript": "No, no, no, you say that proudly.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1438\\merged_before_chandler_1438.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1438\\actual_chandler.wav"
+}

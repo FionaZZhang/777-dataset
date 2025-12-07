@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: So, how many have you sold so far?",
+  "ross_transcript": "Check this out. Five hundred and seventeen boxes!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\754\\merged_before_ross_754.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\754\\actual_ross.wav"
+}

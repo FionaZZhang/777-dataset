@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: To be nice.",
+  "ross_transcript": "Hey, Joey. Are men ever nice to strange women for no reason?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1017\\merged_before_ross_1017.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1017\\actual_ross.wav"
+}

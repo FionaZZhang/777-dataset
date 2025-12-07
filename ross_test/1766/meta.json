@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: I’m telling ya, you guys are totally getting back together!",
+  "ross_transcript": "That’s not true! Her, she doesn’t even know what she wants! Rachel’s still mad about the whole thing.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1766\\merged_before_ross_1766.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1766\\actual_ross.wav"
+}

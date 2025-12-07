@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: We were just waxing our legs.",
+  "phoebe_transcript": "For your information, this happens to be a pain like no man will ever experience.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1273\\merged_before_phoebe_1273.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1273\\actual_phoebe.wav"
+}

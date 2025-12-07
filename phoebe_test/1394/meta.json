@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: But Phoebe, wait! Wait! Phoebe. Phoebe! (catches her in the hallway)",
+  "phoebe_transcript": "Oh, Joey! Oh, okay, see I didn't recognize you wearing, in those....pants.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1394\\merged_before_phoebe_1394.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1394\\actual_phoebe.wav"
+}

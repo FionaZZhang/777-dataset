@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: (stopping him) No, no, you can’t, you can’t, okay, you can’t, you can’t buy her pearls, you just can’t, you can’t, you can’t.\njoey: Oh God. Uh, okay, here’s the thing, this is the thing, okay, the thing is...",
+  "chandler_transcript": "What is the thing?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\091\\merged_before_chandler_091.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\091\\actual_chandler.wav"
+}

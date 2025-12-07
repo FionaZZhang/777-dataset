@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: So, Chandler, who’s on your list?",
+  "chandler_transcript": "Ah, Kim Basinger, Cindy Crawford, Halle Berry, Yasmine Bleeth, and ah, Jessica Rabbit.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\146\\merged_before_chandler_146.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\146\\actual_chandler.wav"
+}

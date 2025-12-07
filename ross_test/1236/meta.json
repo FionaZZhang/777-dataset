@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chloe: Wait! Where’s my shoes?",
+  "ross_transcript": "You, you sure you need shoes? (Chloe nods her head) Okay. (reaches down and picks up a shoe)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1236\\merged_before_ross_1236.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1236\\actual_ross.wav"
+}

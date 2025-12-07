@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: And yet, we’re still poking him.\njoey: Okay, retract the device, retract the device.",
+  "ross_transcript": "He does not look happy.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\130\\merged_before_ross_130.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\130\\actual_ross.wav"
+}

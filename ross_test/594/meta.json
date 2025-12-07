@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Hello, people who do not live here.\nmonica: I gave you a key for emergencies!",
+  "ross_transcript": "Hey, how’d the date go with Mr. Millionaire?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\594\\merged_before_ross_594.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\594\\actual_ross.wav"
+}

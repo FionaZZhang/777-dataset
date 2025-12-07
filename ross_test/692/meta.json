@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: You guys are unbelievable. No! He cannot come.",
+  "ross_transcript": "(sarcastic) Oh please, can’t I come to your special, magical cabin?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\692\\merged_before_ross_692.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\692\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Okay. (goes over to the counter) (to Chandler) What ah, what is the matter with you? What’s going on?\nross: What, what do you mean, what? Is he gay?",
+  "chandler_transcript": "No. He.....he’s coming out of his shorts.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1565\\merged_before_chandler_1565.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1565\\actual_chandler.wav"
+}

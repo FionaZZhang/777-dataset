@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: No, no, no, I wouldn’t do you myself, I mean that would be weird. Yeah, no, I’ll get one of the other girls to do it. Oh, this will be so much fun! Hey! Are you excited?\nfrank_jr: Yeah! Hey, do Monica and Rachel work there?\nmonica: It’s beautiful! It’s like the first bathroom floor there ever was. (Chandler tries to go to the bathroom) Whoa! Are you going in there for?",
+  "chandler_transcript": "What, like a number?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\181\\merged_before_chandler_181.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\181\\actual_chandler.wav"
+}

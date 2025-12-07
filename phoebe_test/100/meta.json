@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: It just makes more sense as an ensemble.\nmonica: Besides, it takes the focus off the hat.\nrachel: See Pheebs, I promised you no one would die, didn’t I?",
+  "phoebe_transcript": "Yeah, well, we’ll see about that. Can I use your phone? I just wanna call everyone I know.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\100\\merged_before_phoebe_100.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\100\\actual_phoebe.wav"
+}

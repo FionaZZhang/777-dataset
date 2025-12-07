@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Would you stop? We’ve only been going out a couple of weeks, I mean we don’t even know if he’s gonna propose.",
+  "chandler_transcript": "Yes, but this is Pete. Okay? He’s not like other people, on your first date he took you to Rome. For most guys that’s like a third or fourth date kinda thing.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\974\\merged_before_chandler_974.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\974\\actual_chandler.wav"
+}

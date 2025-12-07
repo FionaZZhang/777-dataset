@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chloe: Hey, what are you guys doing tomorrow night?\njoey: Both of us? (points to Chandler and himself)\nchloe: Maybe. Does that scare ya?\nchloe: Relax. It’s just Issac’s D.J.-ing at the Philly. You should come.",
+  "chandler_transcript": "All right, rock on. (Does the ‘Hang 10’ sign, then hides his face in shame.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\529\\merged_before_chandler_529.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\529\\actual_chandler.wav"
+}

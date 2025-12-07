@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (stopping him) What, what are you doing? You can’t go out there.\njoey: Why not?! (to Chandler) I’m hungry.\nrachel: God! And to have to hear about it from Gunther!!",
+  "ross_transcript": "Come on! Like I wanted him to tell you, I ran all over the place trying to make sure that didn’t happen!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1309\\merged_before_ross_1309.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1309\\actual_ross.wav"
+}

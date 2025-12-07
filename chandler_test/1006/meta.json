@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (to Chandler) Stick out your tongue.",
+  "chandler_transcript": "(to Monica) Take off your shirt!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1006\\merged_before_chandler_1006.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1006\\actual_chandler.wav"
+}

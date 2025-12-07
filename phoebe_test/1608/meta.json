@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: No real-, honey, really it’s fine, just g-go with Susan. Really, I, no, I think girls night out is a great idea. Okay, okay, bye",
+  "phoebe_transcript": "So what are they doing?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1608\\merged_before_phoebe_1608.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1608\\actual_phoebe.wav"
+}

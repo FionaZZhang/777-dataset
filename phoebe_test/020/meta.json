@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I don’t want a ghost.",
+  "phoebe_transcript": "Well, nobody wants a ghost. But you’ve got one, because the house is sitting on an ancient Indian burial ground.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\020\\merged_before_phoebe_020.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\020\\actual_phoebe.wav"
+}

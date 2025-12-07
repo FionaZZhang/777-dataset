@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Why hasn’t he called Rachel? Why? Why? I don’t understand. Why? He said he’ll call. Why? Why? Chandler I’m telling you she has flipped out, she’s gone crazy!",
+  "chandler_transcript": "(sarcastic) Oh, well give me the phone then.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\040\\merged_before_chandler_040.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\040\\actual_chandler.wav"
+}

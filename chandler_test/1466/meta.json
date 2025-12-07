@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Come on, let’s go!\nross: Yeah, losers talk!",
+  "chandler_transcript": "No, no, no, actually losers rhyme.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1466\\merged_before_chandler_1466.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1466\\actual_chandler.wav"
+}

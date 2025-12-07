@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Look, I know what's going on here, okay, Mark explained it all to me. He said this is what you guys do.",
+  "ross_transcript": "Yeah well if, if, if Mark said that, than Mark's an idiot.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1677\\merged_before_ross_1677.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1677\\actual_ross.wav"
+}

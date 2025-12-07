@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: No, I just I think that it’s too soon.\nrichard: No it’s not too soon, I had lunch at a eleven.\nross: What are you doing?",
+  "chandler_transcript": "Making chocolate milk. Do you want some?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1538\\merged_before_chandler_1538.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1538\\actual_chandler.wav"
+}

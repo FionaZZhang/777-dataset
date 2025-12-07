@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Is-is-is that message old or new? (yelling) Old or new?! Old or new?!",
+  "ross_transcript": "It's old, it's definitely old. Didn't you hear the, the double beep?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\430\\merged_before_ross_430.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\430\\actual_ross.wav"
+}

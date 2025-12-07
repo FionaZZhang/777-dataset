@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Here we go again.\nchandler: Y'know what, I can handle it, handle’s my middle name. Actually it’s the ah, middle part of my first name.\nrachel: Oh, I’m sorry, were you speaking to me or sleeping with someone else?",
+  "ross_transcript": "We were on a break!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\696\\merged_before_ross_696.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\696\\actual_ross.wav"
+}

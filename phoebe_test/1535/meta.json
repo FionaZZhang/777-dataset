@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Hey-hey-hey Rachel, funny thing. Actually, the ah, end zone starts at that pole, so you’re five feet short, so we win!",
+  "phoebe_transcript": "Wait-wait-wait-wait! So, explain something to me though, if, if nobody tagged Rachel, then isn’t the play still going.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1535\\merged_before_phoebe_1535.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1535\\actual_phoebe.wav"
+}

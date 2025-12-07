@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Maybe he’s just jumping on a pogo-stick and really likes it?\njoey: All right, that’s it! He cannot do this to Phoebe. (gets up) This guy is going to get the butt kicking of a lifetime! (stops and turns around and asks Rachel) But, is he a big guy?\nross: Ah, we’ll all go. (motions to Chandler) Come on. (the guys leave)",
+  "phoebe_transcript": "Thanks you guys! Thank you.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1071\\merged_before_phoebe_1071.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1071\\actual_phoebe.wav"
+}

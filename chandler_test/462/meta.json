@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Pheebs, you go with Monica and try on her green dress. If that doesn't work, you can wear my gray silk one. Oh, gosh, what am I wearing?!\nross: You don't, you don't know what your wearing?\nrachel: Well, hon-ey. I'm just trying to look nice for your big night.\nross: Yeah, which, which we have to leave for in exactly twelve minutes. All right, come on, I'll just pick something out for you.",
+  "chandler_transcript": "All right, you will notice that I am fully dressed. I, in turn, have noticed that you are not. So in the words of A. A. Milne, \"Get out of my chair, dillhole!\"",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\462\\merged_before_chandler_462.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\462\\actual_chandler.wav"
+}

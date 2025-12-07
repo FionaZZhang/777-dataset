@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: How is it you?",
+  "phoebe_transcript": "Well, it was just, it was all so crazy, you know. I mean, Chandler was in the closet, counting to 10, and he was up to 7 and I hadn't found a place to hide yet. I-I-I meant to tell you, and I wrote it all down on my hand. See, all of it. (shows him her hand)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1334\\merged_before_phoebe_1334.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1334\\actual_phoebe.wav"
+}

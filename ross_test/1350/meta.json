@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Hey, I only got one good arm, you know. You should be doing stuff for me. Go get me a sweater.\nchandler: Just do it! Okay, it's Janice and if I get it I'm going to have to see her tonight. (phone stops ringing) Oh, that's great I'm gonna have to see her tonight.\nrachel: What's the big deal? Why don't you wanna see Janice?\nchandler: Okay, last night at dinner, when the meals came, she put half her chicken piccata on my plate and took my tomatoes.",
+  "ross_transcript": "And that's bad because..., you hate chicken piccata?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1350\\merged_before_ross_1350.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1350\\actual_ross.wav"
+}

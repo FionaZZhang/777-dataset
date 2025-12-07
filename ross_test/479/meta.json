@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: (entering) Where's my underwear?!",
+  "ross_transcript": "Whoa, whoa, whoa. Come on, come on, what. You took his underwear?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\479\\merged_before_ross_479.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\479\\actual_ross.wav"
+}

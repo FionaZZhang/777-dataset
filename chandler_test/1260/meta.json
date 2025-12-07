@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Yeah, and there won’t be a relationship left to rebuild.\nross: Yeah, but don’t you think....",
+  "chandler_transcript": "All right look, if you absolutely have to tell her, at least wait until the timing’s right. And that’s what deathbeds are for.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1260\\merged_before_chandler_1260.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1260\\actual_chandler.wav"
+}

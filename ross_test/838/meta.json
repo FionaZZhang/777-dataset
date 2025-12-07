@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Princess Leia in the gold bikini.",
+  "ross_transcript": "Yes! Wow, well, that-that was easy. Okay, you-you go.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\838\\merged_before_ross_838.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\838\\actual_ross.wav"
+}

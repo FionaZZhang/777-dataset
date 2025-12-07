@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Okay, you’d tell me the truth. Right?\nross: Rach, you can’t look fat in an x-ray.",
+  "chandler_transcript": "Okay! Now you stay out here, and you think about what you did!!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\933\\merged_before_chandler_933.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\933\\actual_chandler.wav"
+}

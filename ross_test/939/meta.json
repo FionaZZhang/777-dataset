@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: What thing? What is this thing?\nrachel: Oh my God!\nrachel: Ross, why didn’t you tell me that?",
+  "ross_transcript": "Eh, ‘cause I knew that if I told you, you’d make me go, and I knew you needed someone to be with you tonight. Come on. Come on.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\939\\merged_before_ross_939.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\939\\actual_ross.wav"
+}

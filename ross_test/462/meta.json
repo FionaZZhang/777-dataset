@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Pheebs, you go with Monica and try on her green dress. If that doesn't work, you can wear my gray silk one. Oh, gosh, what am I wearing?!",
+  "ross_transcript": "You don't, you don't know what your wearing?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\462\\merged_before_ross_462.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\462\\actual_ross.wav"
+}

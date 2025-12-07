@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: If you ask me, as long as you got this job, you’ve got nothing pushing you to get another one. You need the fear.",
+  "chandler_transcript": "He’s right, if you quit this job, you then have motivation to go after a job you really want.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\743\\merged_before_chandler_743.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\743\\actual_chandler.wav"
+}

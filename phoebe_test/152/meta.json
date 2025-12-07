@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (coughing) What a geek!",
+  "phoebe_transcript": "(entering) Everbody this is Frank! This is my half-brother Frank.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\152\\merged_before_phoebe_152.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\152\\actual_phoebe.wav"
+}

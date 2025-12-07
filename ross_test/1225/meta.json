@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Then, we had this big, stupid fight, and I said I wanted to take a break, I don’t want to take a break.",
+  "ross_transcript": "(on the phone) I’ve been thinking, this is crazy, I mean don’t, don’t you think we can work on this?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1225\\merged_before_ross_1225.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1225\\actual_ross.wav"
+}

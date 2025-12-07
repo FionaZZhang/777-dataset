@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Okay, Joey’s gonna catch it, and you and I are gonna block.\nphoebe: I thought you meant in life.",
+  "chandler_transcript": "The ball is Janice. The ball is Janice. (goes to kick the ball but kicks Ross’s foot instead.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1465\\merged_before_chandler_1465.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1465\\actual_chandler.wav"
+}

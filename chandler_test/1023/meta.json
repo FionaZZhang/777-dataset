@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Why, what happened?",
+  "chandler_transcript": "Ah, I fooled around with Joey’s sister. (Phoebe gasps) Well, that’s not the worst part.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1023\\merged_before_chandler_1023.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1023\\actual_chandler.wav"
+}

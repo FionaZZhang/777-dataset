@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Does it involve travel?",
+  "phoebe_transcript": "Oh, wait, wait. Clogs, or claws?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\924\\merged_before_phoebe_924.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\924\\actual_phoebe.wav"
+}

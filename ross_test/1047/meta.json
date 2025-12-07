@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (to Ross) Honey, it’s not pushy, he gave her his home number.",
+  "ross_transcript": "(to Rachel, as she gets his number) What, he gave you his home number? As in like, to, to his home?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1047\\merged_before_ross_1047.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1047\\actual_ross.wav"
+}

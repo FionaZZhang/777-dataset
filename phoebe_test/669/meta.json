@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: (to Chandler and Monica) Hey, does anybody else feel bad about Ross?\nmonica: Why? Do you think he’s still mad at us?\nchandler: (to Joey) Well he’s probably mad after you called him this morning to borrow his goggles.",
+  "phoebe_transcript": "What does the sign say?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\669\\merged_before_phoebe_669.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\669\\actual_phoebe.wav"
+}

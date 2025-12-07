@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Thanks, Gunther. (takes the plate Gunther serves him and Rachel comes up and kisses him) (to Rachel) Hey! (to Gunther) Umm, can I get a napkin too?\ngunther: Oh, like you don’t already have everything.\nrachel: Phoebe, your in pain, would you just go to the dentist, just go.",
+  "phoebe_transcript": "All right, fine, fine, but if you’re my next victim, don’t come back as a poltergeist and like suck me into the TV set.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\062\\merged_before_phoebe_062.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\062\\actual_phoebe.wav"
+}

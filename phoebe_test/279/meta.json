@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: All right buddy, way to go! (smacks him on the butt)\nross: (stunned) Dude, what are you doing?\nchandler: Thank you! Today, my boss keep slapping my butt and he was acting like it was no big deal.",
+  "phoebe_transcript": "Yeesh, what’d you do about it?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\279\\merged_before_phoebe_279.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\279\\actual_phoebe.wav"
+}

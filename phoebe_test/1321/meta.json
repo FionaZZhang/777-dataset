@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Oh man, pizza? I like pizza. (makes like he is trying to send a telepathic message to Rachel) Put olives on the pizza.",
+  "phoebe_transcript": "We could eat the wax! It’s organic.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1321\\merged_before_phoebe_1321.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1321\\actual_phoebe.wav"
+}

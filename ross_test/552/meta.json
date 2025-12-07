@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Yeah, I guess, but what’s like heads and what’s tails?\nchandler: Well it you don’t know that, then I don’t want to do this with you.\nrachel: (on the phone) No, no, no, I’m looking at a purchase order right here and it clearly states that we ordered the Rivera bikini in a variety of sizes and colours. And.... (listens) What does it matter, what I’m wearing?! Can I please speak to your supervisor? (listens) Thank you. (to Sophie) We’re holding.\nrachel: (startled) Oh!! My God, what are you doing here?",
+  "ross_transcript": "Well you said you couldn’t go out so.... (pulls the cover off of the basket)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\552\\merged_before_ross_552.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\552\\actual_ross.wav"
+}

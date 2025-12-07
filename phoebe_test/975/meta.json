@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Yes, but this is Pete. Okay? He’s not like other people, on your first date he took you to Rome. For most guys that’s like a third or fourth date kinda thing.\nmonica: Well if-if that’s what it is, then it’s-it’s crazy.\nross: Monica’s right. We’re talking about getting married here. Okay? She-she can’t just rush into this.\nrachel: Oh please, what do you know! You married a lesbian!",
+  "phoebe_transcript": "All right. I gotta go. I have break up with Vince.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\975\\merged_before_phoebe_975.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\975\\actual_phoebe.wav"
+}

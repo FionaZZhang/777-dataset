@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Okay, all right don’t judge me to much. Okay? Um, but I saw this info-mercial, and um, I swear to you I have never-ever bought anything on TV before, except for this mop. But there was this stuff on leg waxing, it just, it looked so amazing....\nmonica: Yes! Have you seen it?",
+  "phoebe_transcript": "Oh, it’s incredible! I so want to be a Waxine girl.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1247\\merged_before_phoebe_1247.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1247\\actual_phoebe.wav"
+}

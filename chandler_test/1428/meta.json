@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh! That would be sooo much fun!\nphoebe: Oh, can I play too? I’ve never played football, like ever.\njoey: Great, you can cover Chandler.\njoey: Come on man! You never want to do anything since you and Janice broke up.",
+  "chandler_transcript": "That’s not true! I wanted to wear my bathrobe and eat peanut clusters all day. I wanted to start drinking in the morning. Don’t say that I don’t have goals!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1428\\merged_before_chandler_1428.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1428\\actual_chandler.wav"
+}

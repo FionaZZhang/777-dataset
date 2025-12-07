@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Pheebs, you can't do that. The casting director doesn't talk to friends, she only talks to agents.",
+  "phoebe_transcript": "What a sad little life she must lead. Okay, ooh (starts dialing).",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1337\\merged_before_phoebe_1337.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1337\\actual_phoebe.wav"
+}

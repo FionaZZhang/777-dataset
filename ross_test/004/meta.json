@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: to see you feeling like this!",
+  "ross_transcript": "Monica, uh Dad called this morning and ah, Aunt Silvia passed away.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\004\\merged_before_ross_004.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\004\\actual_ross.wav"
+}

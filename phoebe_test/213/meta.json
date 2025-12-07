@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "leslie: Yeah, but, I don’t do that anymore. I got kinda sick of it, and then I couldn’t come up with anything good, so they fired me.\nleslie: Well, I y'know, I was just, umm, I was just thinking and hoping, that umm, maybe you’d want to get back together?",
+  "phoebe_transcript": "No. But thanks.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\213\\merged_before_phoebe_213.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\213\\actual_phoebe.wav"
+}

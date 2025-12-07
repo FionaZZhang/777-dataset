@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: What is it with you people! I mean, the minute you start to feel something, you have to run away?",
+  "chandler_transcript": "I know, that, (looks at her fake chest, and loses his train of thought, temporarily) that's why I don't want to go tonight, I'm afraid I'm going to say something stupid.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1358\\merged_before_chandler_1358.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1358\\actual_chandler.wav"
+}

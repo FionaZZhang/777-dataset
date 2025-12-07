@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Because, he’s my friend.",
+  "ross_transcript": "Okay, but do you really need another friend? I mean...",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\241\\merged_before_ross_241.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\241\\actual_ross.wav"
+}

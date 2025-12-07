@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: All right! Fine! I'm going. But when I get back it's chair sitting, and I'm the guy who's....sitting in a chair! (leaves)\nrachel: (entering from her room) Is this a little too... (sees Phoebe) Pheebs, what happened?",
+  "phoebe_transcript": "Hummus. I got the hummus.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\444\\merged_before_phoebe_444.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\444\\actual_phoebe.wav"
+}

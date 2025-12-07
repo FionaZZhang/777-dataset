@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Oh God. Y'know, botanists are such geeks.\nchandler: Yeah. Is that a dinosaur tie?",
+  "phoebe_transcript": "(entering, with about 20 purses hanging around her neck) Morning. Rach, I'm here with the purses!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1637\\merged_before_phoebe_1637.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1637\\actual_phoebe.wav"
+}

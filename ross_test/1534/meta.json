@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (in triumph) I got a touchdown! We did it!!\nchandler: Hey-hey-hey Rachel, funny thing. Actually, the ah, end zone starts at that pole, so you’re five feet short, so we win!\nphoebe: Wait-wait-wait-wait! So, explain something to me though, if, if nobody tagged Rachel, then isn’t the play still going.",
+  "ross_transcript": "No! You let go!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1534\\merged_before_ross_1534.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1534\\actual_ross.wav"
+}

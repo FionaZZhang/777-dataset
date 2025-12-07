@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: My marriage, I think my marriage is um, is kinda over.",
+  "phoebe_transcript": "Oh no! Why?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1627\\merged_before_phoebe_1627.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1627\\actual_phoebe.wav"
+}

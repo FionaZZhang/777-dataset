@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (to Phoebe) It must take you forever to find your keys.\nrachel: (running into the living room) Thank you, thank you, thank you, Pheebs.",
+  "phoebe_transcript": "Your welcome, oh please not the one with the turtles.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1640\\merged_before_phoebe_1640.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1640\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: No. No, just, just, just a couple more boxes. It-it-it’s no big deal, all right, I’m-I’m cool. You gotta help me out with a couple more boxes!\nross: Mon, look at yourself. You have cookie on your neck.",
+  "chandler_transcript": "So, how many have you sold so far?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\752\\merged_before_chandler_752.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\752\\actual_chandler.wav"
+}

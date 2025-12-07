@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I can’t believe Mark didn’t call. It’s Sunday night, and he didn’t call.\nrachel: (to Ross) Yeah, right. Look at you, you’re practically giddy.",
+  "ross_transcript": "No, I’m genuinely sorry the Mark thing didn’t work out. Look, Rach, I want only good things for you.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1043\\merged_before_ross_1043.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1043\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: You’re so pathetic! Why can’t you just accept it, we’re winning because I’m better than you.\nmonica: Oh, what a great argument, exhaling! All right, y'know what, I’ll prove it to you, okay. I’ll trade you Joey for Rachel, and I’ll still win the game.",
+  "ross_transcript": "What?! The guys against the girls? See, that’s ridiculous Monica, because I’m only down by three touchdowns.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1511\\merged_before_ross_1511.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1511\\actual_ross.wav"
+}

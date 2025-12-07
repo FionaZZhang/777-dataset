@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Hey Pheebs, what are you doing?",
+  "phoebe_transcript": "I’m, I’m freaking out! Monica kinda trusted me with something and she shouldn’t have! All right, I haven’t lived here in a while, so I have to ask you something. Does Monica still turn on the lights in her bedroom?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1089\\merged_before_phoebe_1089.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1089\\actual_phoebe.wav"
+}

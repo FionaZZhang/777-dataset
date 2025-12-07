@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (looks at him) That was (pause) surreal. Okay, what do think? Are you interested at all?\nchandler: Yeah, she seemed cool, attractive. I’ll do it.\nrachel: Oh thank you, Chandler, this is so great, she’s gonna love me.",
+  "phoebe_transcript": "(holding a dinosaur) Okay, dinosaur attack!! Quick, everybody into the house!! Ahh-ahh! (the dinosaur starts attacking the house. She starts to bark like a dog.) Roof! Rrroof-roof-roof!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\026\\merged_before_phoebe_026.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\026\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "frank_jr: Yeah, you can melt art. Hey, can I use your phone?",
+  "phoebe_transcript": "Um, yeah sure. Why you wanna call your Mom?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\166\\merged_before_phoebe_166.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\166\\actual_phoebe.wav"
+}

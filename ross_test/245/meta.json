@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I don’t know, you thought ‘See you Saturday’ was funny. Look honey, Mark is in fashion okay, I like having a friend that I can share this stuff with. You guys would never want to go to a lecture with me.",
+  "ross_transcript": "Pa-haa!! I would love to go with you.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\245\\merged_before_ross_245.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\245\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: What's the big deal? Why don't you wanna see Janice?",
+  "chandler_transcript": "Okay, last night at dinner, when the meals came, she put half her chicken piccata on my plate and took my tomatoes.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1352\\merged_before_chandler_1352.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1352\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Oh, yeah, I don’t know what they were doing, but at one point sea turtles actually came up to the house.\nbonnie: Hey! How did everybody sleep?\nmonica: Like a log.\nrachel: I’m going for a walk.",
+  "ross_transcript": "(to Joey) Good morning. Nice breasts by the way.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1752\\merged_before_ross_1752.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1752\\actual_ross.wav"
+}

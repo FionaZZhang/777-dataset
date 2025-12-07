@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "frank_jr: Oh, well y'know, I would’ve called but I lost your phone number and then ah, my Mom locked me out of the house so I couldn’t find it. And then, I tried to find a pay phone, and ah, the receiver was cut off. So...",
+  "phoebe_transcript": "But, also, what happened between you and your Mom?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\328\\merged_before_phoebe_328.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\328\\actual_phoebe.wav"
+}

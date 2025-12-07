@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Well, you-you coulda just turned the cushion over.",
+  "phoebe_transcript": "Yeah, I would’ve except I had a big spaghetti stain on the other side.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1616\\merged_before_phoebe_1616.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1616\\actual_phoebe.wav"
+}

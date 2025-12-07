@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh thank you, Chandler, this is so great, she’s gonna love me.\nphoebe: (holding a dinosaur) Okay, dinosaur attack!! Quick, everybody into the house!! Ahh-ahh! (the dinosaur starts attacking the house. She starts to bark like a dog.) Roof! Rrroof-roof-roof!\nmonica: Okay, Phoebe, y'know what? That-that’s it, that’s it, all right? No dinosaurs, no ghosts, no giant dogs, okay? They’re not the right size, they’re not Victorian, and they just don’t go.\nphoebe: Okay, (starts to pack up her stuff) fine. Come dinosaur, we’re not welcome in the house of no imagination.",
+  "ross_transcript": "Uh, Pheebs, while we’re hovering around the subject. I just have to say dinosaurs, they-they don’t go, rrroof!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\028\\merged_before_ross_028.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\028\\actual_ross.wav"
+}

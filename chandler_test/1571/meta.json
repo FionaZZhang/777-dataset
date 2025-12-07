@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: No wonder Rachel had to read this so many times.\nross: Hey! How’d the ah, basketball go?\nphoebe: Oh, okay, I learned how to shoot a lay-up, a foul shot, and a twenty-three pointer.",
+  "chandler_transcript": "You mean a three pointer?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1571\\merged_before_chandler_1571.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1571\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Okay. That was her right?\nmonica: See there you go. Woo! We're out of the woods. Okay, I'll get dressed now.",
+  "phoebe_transcript": "I'll get it, okay. (answers phone) Hi, Monica and Rachel's. (listens) Yeah, just a second, can I ask who's calling. (to Monica) Oh, ew, it's Michelle! Ew! She, she must have that Caller Id thing. You should get that.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\491\\merged_before_phoebe_491.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\491\\actual_phoebe.wav"
+}

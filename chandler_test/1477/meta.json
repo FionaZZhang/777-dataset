@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: I think so.",
+  "chandler_transcript": "Y'know, I was thinking about ah, asking her for her number.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1477\\merged_before_chandler_1477.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1477\\actual_chandler.wav"
+}

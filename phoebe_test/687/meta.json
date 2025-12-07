@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Oh no, now it’s not gonna make any sense!",
+  "phoebe_transcript": "(to Chandler and Monica) You guys, what, what do we do about Ross who drove all the way up here? What do we do? Just like send him back and we’re then gonna go skiing?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\687\\merged_before_phoebe_687.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\687\\actual_phoebe.wav"
+}

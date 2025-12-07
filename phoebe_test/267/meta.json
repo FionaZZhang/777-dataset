@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "leslie: Come here, come here. (they go to the side of the stage) Okay, don’t get mad, okay.",
+  "phoebe_transcript": "Okay, don’t give me a reason to get mad, okay",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\267\\merged_before_phoebe_267.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\267\\actual_phoebe.wav"
+}

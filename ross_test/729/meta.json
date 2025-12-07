@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Ahh, do you have any coconut flavoured deities?",
+  "ross_transcript": "No, but ah, there’s coconut in the Hanukkah Menoreoes. I tell you what, I’ll put you down for eight boxes, one for each night.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\729\\merged_before_ross_729.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\729\\actual_ross.wav"
+}

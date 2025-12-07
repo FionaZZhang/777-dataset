@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Uh, Pheebs, you had a barrel for a dollhouse?",
+  "phoebe_transcript": "No, just a barrel.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\012\\merged_before_phoebe_012.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\012\\actual_phoebe.wav"
+}

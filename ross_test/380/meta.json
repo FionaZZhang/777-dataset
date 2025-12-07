@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "frank_jr: All right, man!!\njoey: All right, congratulations you lucky bastard! (hugs him)\njoey: I couldn’t help it, there love is so pure.\nphoebe: Well then, (to Ross) what about you?! Huh?!",
+  "ross_transcript": "I’m the ring bearer.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\380\\merged_before_ross_380.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\380\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: (entering) Hey, you guys!\njoey: I got a gig!",
+  "chandler_transcript": "See, that’s why I could never be an actor. Because I can’t say gig.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1075\\merged_before_chandler_1075.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1075\\actual_chandler.wav"
+}

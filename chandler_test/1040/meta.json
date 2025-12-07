@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I don’t remember. Do you wanna take a walk?\nrachel: Yeah, I do. (they both run out)\nross: Dear Mary-Angela. Hi. How’s it going. This is the hardest letter I’ve ever had to write. (to Chandler) What the hell’s a matter with you? How do you think Joey’s going to react when he finds out that you blew off his sister with a letter?",
+  "chandler_transcript": "Well, that’s the part where you tell him that I moved to France. When actually I’ll be in Cuba.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1040\\merged_before_chandler_1040.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1040\\actual_chandler.wav"
+}

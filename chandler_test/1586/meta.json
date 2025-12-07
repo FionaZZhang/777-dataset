@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Hey, y'know while we’re on that, when are you gonna tell my sister that you don’t live here anymore.\nphoebe: I think on some levels she already knows.\nross: Phoebe, she doesn’t know that you sneak out every night, she doesn’t know that you sneak back every morning, and she doesn’t know that you’ve been living with your Grandmother’s for a week now.\nphoebe: Okay, well maybe not on those levels.",
+  "chandler_transcript": "I’m never gonna find a roommate, ever.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1586\\merged_before_chandler_1586.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1586\\actual_chandler.wav"
+}

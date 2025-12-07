@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I don’t know, I don’t know, weren’t you the guy that told me to quit my job when I had absolutely nothing else to do. Ha! Ha! Ha! Ha! Ha!!",
+  "ross_transcript": "Sweetie, calm down, it’s gonna be okay.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\765\\merged_before_ross_765.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\765\\actual_ross.wav"
+}

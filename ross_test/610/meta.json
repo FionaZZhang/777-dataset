@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Wow, what-what do you think she wants?",
+  "ross_transcript": "Well, maybe the crazy fog has lifted and she realises that life without me.... a-sucks.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\610\\merged_before_ross_610.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\610\\actual_ross.wav"
+}

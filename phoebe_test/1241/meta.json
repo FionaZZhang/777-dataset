@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Oh, there’s banana on it.",
+  "phoebe_transcript": "Wow, I have the spirit of an old Indian women living in mine.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1241\\merged_before_phoebe_1241.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1241\\actual_phoebe.wav"
+}

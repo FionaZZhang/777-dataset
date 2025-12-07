@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: No, I just I think that it’s too soon.\nrichard: No it’s not too soon, I had lunch at a eleven.",
+  "ross_transcript": "What are you doing?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1538\\merged_before_ross_1538.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1538\\actual_ross.wav"
+}

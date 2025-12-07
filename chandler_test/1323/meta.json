@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: They’re gonna get through this, aren’t they?",
+  "chandler_transcript": "Yeah, come on, it’s Ross and Rachel, they’ve got too.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1323\\merged_before_chandler_1323.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1323\\actual_chandler.wav"
+}

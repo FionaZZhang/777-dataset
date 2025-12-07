@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Yeah, she was at Rockefeller Center skating with her husband, she looked so happy. I almost feel bad for whipping that kid’s pretzel at them.\njoey: Man, I remember the first time I saw that girl Katherine, after we broke up. She was just walking with her friend Donna, just laughing and talking. God, it killed me.\nchandler: Yes, but you ended up having sex with both of them that afternoon.\njoey: Sorry, I just, any excuse to tell that story y'know....",
+  "ross_transcript": "Hey Chandler, there’s a party tomorrow, you’ll feel better then.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1002\\merged_before_ross_1002.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1002\\actual_ross.wav"
+}

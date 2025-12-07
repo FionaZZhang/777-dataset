@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (entering) Hi! Okay, don’t be mad at me, but I couldn’t resist.\nrachel: Yes, and I know that you’d say no if he asked you, but I’m sorry; how great would you look walking down the aisle in this Donna Carin. (shows her the picture.)",
+  "phoebe_transcript": "(gasps) Oh, you so would! Oh, you should get that anyway. (They both look at her.) Like for clubbing.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\983\\merged_before_phoebe_983.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\983\\actual_phoebe.wav"
+}

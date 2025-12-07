@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Oh. (realises) Ohh. Ohh, you’re out of your mind.",
+  "chandler_transcript": "Hey, you have nothing but talk about her for the last 48 hours! If you were in a school yard you’d be pulling her pigtails and pushing her down now!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\647\\merged_before_chandler_647.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\647\\actual_chandler.wav"
+}

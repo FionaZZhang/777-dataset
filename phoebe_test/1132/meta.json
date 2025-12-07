@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "lauren: So this is it? Victor?\njoey: Yeah, I guess it is. (sees Kate is watching, he turns Lauren so that he can talk directly to Kate, but still look like he is talking to Lauren) Listen, I ah, I gotta say good bye, and-and I gotta say it quick ‘cause this is killing me. One thing you gotta know, is that I will never forget you. But, you’ve got things you have to do now, and so do I. And so… I’m gonna get on this spaceship, (smoke starts pouring in from the ceiling, and a ladder comes down, with flashing, colored lights on the side of it) and I’m gonna go to Blargon 7 in search of alternative fuels. But when I return, 200 years from now, you’ll be long gone. But I won’t have aged at all. (gets on the ladder) So you tell your great-great-granddaughter to look me up, because Adrienne, baby, I’m gonna want to meet her.\nlauren: So long, Vic! (waving good bye as the ladder retracts)\nmonica: Phoebe, it’s been two days.",
+  "phoebe_transcript": "Yeah, I know. Oh, good thing it’s one of those 801 numbers. Right?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1132\\merged_before_phoebe_1132.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1132\\actual_phoebe.wav"
+}

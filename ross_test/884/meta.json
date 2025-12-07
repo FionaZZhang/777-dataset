@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Yes I am!\nrachel: Look, I’m fine. Watch. (She picks up an aspirin between her toes) Look at that. (She lifts her leg to grab the aspirin with her hand and almost falls over.) Whoa-whoa!",
+  "ross_transcript": "(stopping her from falling) Okay, okay. Look, you have got to go to a doctor! Okay?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\884\\merged_before_ross_884.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\884\\actual_ross.wav"
+}

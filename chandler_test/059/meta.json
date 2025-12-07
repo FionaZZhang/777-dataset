@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Because, every time I go to the dentist, somebody dies.",
+  "chandler_transcript": "That is so weird, because every time I go to the dentist, I look down the hygienist’s blouse.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\059\\merged_before_chandler_059.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\059\\actual_chandler.wav"
+}

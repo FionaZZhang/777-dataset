@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Okay, so you both just know this stuff?",
+  "ross_transcript": "Okay, for instance. Let's say, Janice is coming back from a trip and she gives you two options. Option number 1 she'll take a cab home from the airport. Option 2 is you can meet her at baggage claim. Which do you do?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1156\\merged_before_ross_1156.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1156\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: No honey, we're sorry, we didn't mean it. I love you. I love you.\nchandler: We used them as pillows when we went camping.",
+  "ross_transcript": "Hey, what you do on your own time...",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\476\\merged_before_ross_476.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\476\\actual_ross.wav"
+}

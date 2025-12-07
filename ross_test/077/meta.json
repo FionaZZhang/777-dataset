@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: So, do you want me to watch Ben for you?",
+  "ross_transcript": "Yes, that’s what I was going to ask, thank you.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\077\\merged_before_ross_077.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\077\\actual_ross.wav"
+}

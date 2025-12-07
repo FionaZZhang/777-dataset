@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: No, no, don't, don't, rub it! Don't! (clapping) What gets out hummus?! What gets out hummus?!\nphoebe: Monica, Monica, you know what gets out hummus.\nmonica: If it is a new message, what is he calling to say?\nphoebe: Okay, thanks. Yeah, I'll try that.",
+  "chandler_transcript": "Maybe he's calling to say your obsessive and crazy.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\439\\merged_before_chandler_439.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\439\\actual_chandler.wav"
+}

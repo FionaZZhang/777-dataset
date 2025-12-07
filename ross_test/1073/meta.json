@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: ‘Okay. (listens) Okay, daddy we’ll see you tomorrow night. (listens) Okay bye-bye.’ (hangs up)\nrachel: Are ah, having dinner with my Dad tomorrow night, I hope that’s okay.",
+  "ross_transcript": "Oh shoot, tomorrow’s not so good, I’m supposed to um, fall off the Empire State building and land on a bicycle with no seat. Sorry.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1073\\merged_before_ross_1073.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1073\\actual_ross.wav"
+}

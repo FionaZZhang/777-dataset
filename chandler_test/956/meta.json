@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: water his plants.",
+  "chandler_transcript": "Well, if he's gonna break up with you, maybe Joey and I should water his plants. If y'know what I mean.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\956\\merged_before_chandler_956.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\956\\actual_chandler.wav"
+}

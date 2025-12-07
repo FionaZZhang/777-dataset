@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: What is the worse part?",
+  "chandler_transcript": "I can’t remember which sister.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1025\\merged_before_chandler_1025.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1025\\actual_chandler.wav"
+}

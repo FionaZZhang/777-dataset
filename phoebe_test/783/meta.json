@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I need to get some Richard.\nrachel: Monica, you broke up with him for a reason.\nmonica: I know, I know. I'm just so tired of-of missing him. I'm tired of wondering why hasn't he called. Why hasn't he called!",
+  "phoebe_transcript": "Maybe, because you told him not to.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\783\\merged_before_phoebe_783.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\783\\actual_phoebe.wav"
+}

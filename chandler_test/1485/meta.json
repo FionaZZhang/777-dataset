@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: What the hell’s the matter with you?! This is my favourite jersey.",
+  "chandler_transcript": "Well now you have two. Hey, I am good at math.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1485\\merged_before_chandler_1485.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1485\\actual_chandler.wav"
+}

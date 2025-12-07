@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Can’t I just look at the handles on them?\ngunther: You would think.\nrachel: Okay, fine. Gunther, y'know what, I am a terrible waitress, do you know why I’m a terrible waitress? Because, I don’t care. I don’t care. I don’t care which pot is regular and which pot is decaf, I don’t care where the tray spot is, I just don’t care, this is not what I want to do. So I don’t think I should do it anymore. I’m gonna give you my weeks notice.\nrachel: Gunther, I quit.",
+  "chandler_transcript": "(to Joey) Does this mean we’re gonna have to start paying for coffee? (Joey shrugs his shoulders.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\747\\merged_before_chandler_747.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\747\\actual_chandler.wav"
+}

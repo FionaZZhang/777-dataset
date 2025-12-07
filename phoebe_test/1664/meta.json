@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Sure, it looks stupid now, there's no music playing.\nchandler: All right, I have to get that, but no-no. (answering phone) Hello? (listens) (happily) Hi! Yeah listen, I'm, I'm in need of a stripper and I was told that you do that. (listens) Let me ask you this, what, what do you do for the extra hundred? (listens) So would I, would I have to provide the grapes?",
+  "phoebe_transcript": "Oh, how was last night with Julio, senorita?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1664\\merged_before_phoebe_1664.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1664\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: I can’t remember which sister.",
+  "ross_transcript": "(to Rachel) You see what men do! Don’t tell me men are not nice! (points to Chandler) This is men!!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1026\\merged_before_ross_1026.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1026\\actual_ross.wav"
+}

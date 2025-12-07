@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Hey, wouldn't be cool if our duck and chick had a little baby? We could call it Chuck.\nross: Listen, I-I need a favor. Umm, I was in the shower, and as I was cleansing myself, I ah, I-I, well I felt something.",
+  "chandler_transcript": "Was it like a sneeze only better?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\941\\merged_before_chandler_941.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\941\\actual_chandler.wav"
+}

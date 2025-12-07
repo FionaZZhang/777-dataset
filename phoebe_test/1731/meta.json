@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (to Phoebe) So what’s Phoebe like?",
+  "phoebe_transcript": "I’m kind, caring, and sweet. What’s Monica like?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1731\\merged_before_phoebe_1731.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1731\\actual_phoebe.wav"
+}

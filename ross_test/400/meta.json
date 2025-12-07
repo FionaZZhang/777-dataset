@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: We have a half hour.\njoey: Relax Ross, we'll be ready. It only takes us two minutes to get dressed.",
+  "ross_transcript": "Well, you know, I'd feel a whole lot better if you got dressed now.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\400\\merged_before_ross_400.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\400\\actual_ross.wav"
+}

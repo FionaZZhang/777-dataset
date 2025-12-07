@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Umm, you’ve got some on your pants.\nrichard: I’ll just throw them out.\njoey: These little women. Wow!\njoey: Oh yeah! Amy just burned Jo’s manuscript. I don’t see how he could ever forgive her.",
+  "ross_transcript": "Umm, Jo’s a girl, it’s short for Josephine.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1569\\merged_before_ross_1569.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1569\\actual_ross.wav"
+}

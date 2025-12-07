@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Jan-ice. 'Cause I, just, I feel bad for Ross, you know, we-we always go together, we're like the three hocke-teers.",
+  "chandler_transcript": "You know, I may be way out on a limb here, but do you, do you, have a problem with Janice?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\796\\merged_before_chandler_796.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\796\\actual_chandler.wav"
+}

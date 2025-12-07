@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Why aren't you at work?\nmonica: Because I don't work at the Szechwan Dragon.\nrachel: You really, really need to get some sleep, honey.\nmonica: I know I do.",
+  "ross_transcript": "They published my paper.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\792\\merged_before_ross_792.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\792\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I can get a quick bite to eat, but then I have to come back up here.",
+  "ross_transcript": "Come on sweetie! You’ve had to work late every night for the past two weeks, what is it this time?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\218\\merged_before_ross_218.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\218\\actual_ross.wav"
+}

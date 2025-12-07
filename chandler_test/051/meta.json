@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: All right. Did everyone get out okay?\nmonica: Well, the giraffe’s okay. And so is the pirate.\nross: No Phoebe, don’t look! You don’t want to see what’s under there!!\nphoebe: (She pauses to ready herself, and removes the tissue.) Ohh, the-the Foster puppets!",
+  "chandler_transcript": "It’s not a big deal. It’s, just it’s right here, (points to his eye) and it’s all the time.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\051\\merged_before_chandler_051.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\051\\actual_chandler.wav"
+}

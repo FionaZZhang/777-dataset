@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Says who? Your mom?\nmonica: Well, every, every Thanksgiving um, we used to have a touch football game called the ‘Geller Bowl.’\nchandler: No, no, no, you say that proudly.\nmonica: Anyway, Ross and I were always captains, and um, it got kind’ve competitive and one year, Geller Bowl VI, I accidentally broke Ross’s nose.",
+  "ross_transcript": "an accident. She saw I was about to tag her, so she threw her big fat grandma arm elbow right into my face. And just keep running.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1437\\merged_before_ross_1437.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1437\\actual_ross.wav"
+}

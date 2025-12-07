@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Has somebody been drinking my fat? (Joey and Chandler look at each other)\nrachel: (entering from her bedroom) You guys, (holds up an outfit) does this look like something the girlfriend of a paleontologist would wear?\nphoebe: I don't know, you might be the first one.\nrachel: Uh, no. Wait, you know what, this is the outfit that makes my calves look fat. Nevermind.",
+  "chandler_transcript": "Well, Joey, I wrote a little song today. It's called Get Up.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\428\\merged_before_chandler_428.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\428\\actual_chandler.wav"
+}

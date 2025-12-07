@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Wait a minute.\njoey: Wait a minute, did you just make up all that stuff just to get out of being my agent.\nphoebe: (in a coy tone) Oh, you caught me. I am so busted.\njoey: (in a really, really bad Italian accent) That's-ah what I suspected-ah.",
+  "chandler_transcript": "....And then I just, you know, threw the bag of barley at her, and ran out of the store.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1413\\merged_before_chandler_1413.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1413\\actual_chandler.wav"
+}

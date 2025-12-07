@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (on phone) That’s right, Ryder. Wynona Ryder for six. (listens) Thank you. (hangs up) (to the gang) Yeah, we have the reservations.",
+  "chandler_transcript": "All right buddy, way to go! (smacks him on the butt)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\278\\merged_before_chandler_278.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\278\\actual_chandler.wav"
+}

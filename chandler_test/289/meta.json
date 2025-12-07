@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Yeah. What are we getting?\nmonica: (to Chandler) Anything but stew.\nross: All right so, Chandler, from now on, don’t give your boss a chance to get you. Y'know just ah, don’t turn your back to him.\njoey: Yeah, or you can teach him a lesson. Y'know? What you could do is you could rub something that really smells on your butt, all right? Then, when he goes to smack ya, his hand will smell. (thinking aloud) Now what could you rub on your butt that would smell bad?",
+  "chandler_transcript": "(to Ross and Monica) What if Joey were president?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\289\\merged_before_chandler_289.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\289\\actual_chandler.wav"
+}

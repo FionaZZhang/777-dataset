@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Hey-hey-hey that’s funny! Your funny Chandler! Your a funny guy! You wanna know what else is really funny?!\nchandler: Something else I might have said?\nrachel: I don’t know, I don’t know, weren’t you the guy that told me to quit my job when I had absolutely nothing else to do. Ha! Ha! Ha! Ha! Ha!!",
+  "ross_transcript": "Sweetie, calm down, it’s gonna be okay.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\763\\merged_before_ross_763.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\763\\actual_ross.wav"
+}

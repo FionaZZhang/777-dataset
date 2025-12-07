@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "frank_jr: Well, you, wait no, my Mother didn’t want us to be together, but the worst thing she ever did was tie me to the porch.\nfrank_jr: Wait, y'know what, I-I came to you because I thought you’d understand! Oh no!! Y'know, I would storm out of here right now if-if I had some money, or a place to go…\nrachel: Oh my God! The millionaire’s here!\nmonica: Guys, please, I’m just gonna have dinner with him. Okay?",
+  "chandler_transcript": "Okay, okay, just because he buys you dinner, does not mean you owe him anything.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\394\\merged_before_chandler_394.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\394\\actual_chandler.wav"
+}

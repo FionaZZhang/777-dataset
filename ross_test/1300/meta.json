@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Whoa!! Whoa, whoa, wait a minute. What time did your little friend leave? (Ross can’t answer that) Oh my God. She was there? She was still there? She was in there, when I was in there?!",
+  "ross_transcript": "Listen. Oh hey, hey, the important thing was that she meant, she meant nothing to me!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1300\\merged_before_ross_1300.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1300\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Yeah, never cheat on Rachel.",
+  "ross_transcript": "I’m sorry, okay, I’m sorry. I wa-I was disgusted with myself, and this morning I was so, I was so upset and then I got your message and I was so happy, and all I wanted was to get her out of my apartment as fast as possible.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1298\\merged_before_ross_1298.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1298\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: All right, fine, fine, but if you’re my next victim, don’t come back as a poltergeist and like suck me into the TV set.\nphoebe: Although, don’t feel like you can’t visit.\njoey: (entering with Monica) Hey, is, is, is Chandler here?\nmonica: You guys, Joey just saw Janice kissing her ex-husband.",
+  "ross_transcript": "What? (to Joey) So what are you going to do? I mean how, how are you going to tell Chandler?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\065\\merged_before_ross_065.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\065\\actual_ross.wav"
+}

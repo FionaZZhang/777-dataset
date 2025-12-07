@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (to Chandler and Joey) I won the game.",
+  "ross_transcript": "Oh yeah! Then how come you didn’t get the Geller Cup?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1444\\merged_before_ross_1444.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1444\\actual_ross.wav"
+}

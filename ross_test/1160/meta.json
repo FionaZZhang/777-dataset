@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Okay, this is good, this is good. All right listen, I have one. Janice likes to cuddle, at night, which, you know I'm all for. But, uh, you know when you want to go to sleep, you want some space. So, uh, how do I tell her that without, you know, accidentally calling her fat or something.\nrachel: Oh honey, I'm sorry we can't help you there, 'cause we're cuddlily sleepers. (Chandler makes an 'Ewww' face) Okay, I'm late for work.\nrachel: All right are you guys gonna come down?",
+  "ross_transcript": "Uh, yeah, yeah I'll, I'm right behind you.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1160\\merged_before_ross_1160.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1160\\actual_ross.wav"
+}

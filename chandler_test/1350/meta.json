@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Hey, I only got one good arm, you know. You should be doing stuff for me. Go get me a sweater.",
+  "chandler_transcript": "Just do it! Okay, it's Janice and if I get it I'm going to have to see her tonight. (phone stops ringing) Oh, that's great I'm gonna have to see her tonight.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1350\\merged_before_chandler_1350.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1350\\actual_chandler.wav"
+}

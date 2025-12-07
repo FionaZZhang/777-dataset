@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Okay, (reading the card) Fonzy gives you two thumbs up, collect two cool points. Yeah.",
+  "phoebe_transcript": "Monica, if you get five cool points, you get to make somebody take off one item of clothing. It hasn’t happened yet, but we’re all very excited.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1740\\merged_before_phoebe_1740.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1740\\actual_phoebe.wav"
+}

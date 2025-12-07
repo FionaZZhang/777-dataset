@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Does anyone else think David Copperfield is cute?\nmonica: No, but he told me, he thinks your a fox.\nchandler: All right, Janice, likes him. In fact she likes him so much she put him on her freebie list.\nchandler: Well, we have a deal, where we each get to pick five celebrities that we can sleep with, and the other one can’t get mad.",
+  "ross_transcript": "Ah, the heart of every healthy relationship. Honesty, respect, and sex with celebrities.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\141\\merged_before_ross_141.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\141\\actual_ross.wav"
+}

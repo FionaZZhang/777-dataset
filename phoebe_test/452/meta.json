@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I called him.\nmonica: Yes. Well I got his machine and I left a message. But it's okay, it's okay, it's okay, because you know it was like a casual, breezy message. It was breezy! Oh God, what if it wasn't breezy?",
+  "phoebe_transcript": "Well, how could it not be breezy, no, 'cause, you're, you're in such a breezy place.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\452\\merged_before_phoebe_452.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\452\\actual_phoebe.wav"
+}

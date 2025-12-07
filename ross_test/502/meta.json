@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Well, ever since I was humiliated and yelled at in front of my friends, I'm just, I don't know, not in a museum benefitty kind of mood.\nrachel: I'm not mad.",
+  "ross_transcript": "Okay. You know that I-I have to go.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\502\\merged_before_ross_502.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\502\\actual_ross.wav"
+}

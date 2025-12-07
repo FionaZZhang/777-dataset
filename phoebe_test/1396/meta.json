@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Look listen, that TV movie I went in for? Did you hear anything? I think I got a shot at it.",
+  "phoebe_transcript": "Yes! They called and you didn't get it! Okay, I mean you didn't get it, I'm sorry, I'm sorry.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1396\\merged_before_phoebe_1396.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1396\\actual_phoebe.wav"
+}

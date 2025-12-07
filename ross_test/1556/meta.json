@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Oh, um, around 802. We ah, talked for a little while, and then um, we went out for an innocent burger.",
+  "ross_transcript": "So, are you gonna see him again?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1556\\merged_before_ross_1556.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1556\\actual_ross.wav"
+}

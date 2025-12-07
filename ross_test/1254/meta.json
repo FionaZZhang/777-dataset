@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Yeah. We figured when we couldn’t find you, you’d gone home to make up with Rachel. Which is probably what you shoulda done. Huh?",
+  "ross_transcript": "You think?! God, I, ah, I’m in hell. I mean what, what am I gonna do? Rachel’s all like, ‘I love you and, and let’s work on this.’ And all I can think about is, ‘What is she gonna do? What is she gonna say?’ when I tell her what I did.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1254\\merged_before_ross_1254.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1254\\actual_ross.wav"
+}

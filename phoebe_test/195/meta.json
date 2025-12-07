@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "frank_jr: Well y'know about the tongue thing, y'know, and how I told you about my likes and my dislikes...\nfrank_jr: How-how I like to melt stuff, and how I dislike stuff that doesn’t melt.\nfrank_jr: Yeah, y'know I feel like I can really talk to you ‘cause y'know you’re my sister, y'know.",
+  "phoebe_transcript": "Yeah, I guess I do, yeah.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\195\\merged_before_phoebe_195.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\195\\actual_phoebe.wav"
+}

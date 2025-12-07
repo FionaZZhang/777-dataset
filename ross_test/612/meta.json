@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: It’s possible. You are very loveable, I’d miss you if I broke up with you. (Ross glares at him) I was just trying to be supportive.",
+  "ross_transcript": "Then be supportive like a guy.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\612\\merged_before_ross_612.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\612\\actual_ross.wav"
+}

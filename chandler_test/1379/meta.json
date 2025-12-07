@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Welcome to our side of the tunnel.",
+  "chandler_transcript": "This ice cream tastes like crap by the way.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1379\\merged_before_chandler_1379.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1379\\actual_chandler.wav"
+}

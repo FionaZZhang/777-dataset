@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Wow. Okay, I don’t know how to talk to you.",
+  "chandler_transcript": "Oh, I’m taking my ex-girlfriend of my speed dialer.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1018\\merged_before_chandler_1018.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1018\\actual_chandler.wav"
+}

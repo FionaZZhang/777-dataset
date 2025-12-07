@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: I don't know you guys.",
+  "chandler_transcript": "All right fine, don't do anything, just sit here and talk to us, meanwhile she is talking to him about you. And he's being Mr. Joe Sensitive, and she starts thinking 'Maybe this is the guy for me, because he understands me.'",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1684\\merged_before_chandler_1684.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1684\\actual_chandler.wav"
+}

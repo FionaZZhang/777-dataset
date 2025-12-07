@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Oh God, I’m so sorry.",
+  "ross_transcript": "(entering, wearing a white suit with a little red bow tie) Hey, you guys! Guess what?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\855\\merged_before_ross_855.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\855\\actual_ross.wav"
+}

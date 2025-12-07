@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Hey, Monica bought a bed from the Mattress King?",
+  "phoebe_transcript": "Yeah, so please, please, please, don’t say anything to Chandler.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1079\\merged_before_phoebe_1079.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1079\\actual_phoebe.wav"
+}

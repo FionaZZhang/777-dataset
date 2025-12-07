@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "frank_jr: It’s so cool man, it’s so, it’s just ‘cause being with her is so much better than like not being with her.\njoey: (to Ross) Why can’t I find that?",
+  "ross_transcript": "Don’t ask me, I had it and I blew it!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\376\\merged_before_ross_376.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\376\\actual_ross.wav"
+}

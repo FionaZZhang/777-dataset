@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Well, how could it not be breezy, no, 'cause, you're, you're in such a breezy place.\nmonica: Here, I got it. I'll will play my message for you guys, and you can tell me if it's breezy enough.\njoey: Monica, how are you gonna do that?\nmonica: I know the code to his answering machine.",
+  "ross_transcript": "Okay, Mon, I really don't think this is the... Okay, you're dialing, you are dialing.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\454\\merged_before_ross_454.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\454\\actual_ross.wav"
+}

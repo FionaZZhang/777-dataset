@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: I’ve got a science question.\njoey: If the Homo Sapiens, were in fact ‘Homo-sapien’, is that why there extinct?",
+  "ross_transcript": "Joey, Homo Sapiens are people.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\081\\merged_before_ross_081.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\081\\actual_ross.wav"
+}

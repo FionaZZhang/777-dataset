@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Oh come on, we just had this huge fight, all right, don’t I have to wait a while?",
+  "chandler_transcript": "Hey, this isn’t like swimming after you eat, pick up the phone!!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\580\\merged_before_chandler_580.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\580\\actual_chandler.wav"
+}

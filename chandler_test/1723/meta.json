@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Seriously, where did you get the hat?\nrachel: Ross gave it to me.\nross: Yeah, I think she looks good.",
+  "chandler_transcript": "Buy it for ya, or win it for ya?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1723\\merged_before_chandler_1723.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1723\\actual_chandler.wav"
+}

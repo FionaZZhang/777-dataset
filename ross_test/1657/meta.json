@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "mark: Oh hi. It's, it's Mark.\nmark: Hey, hold on a second.",
+  "ross_transcript": "Hi! What's ah, what's Mark doing answering your phone?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1657\\merged_before_ross_1657.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1657\\actual_ross.wav"
+}

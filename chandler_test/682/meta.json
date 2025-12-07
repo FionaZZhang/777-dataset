@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: No! No, I am not getting in a car with Ross, we will just have to live here!\nrachel: No you guys, I am not getting in a car with him, you’ll have to think of something else.\nphoebe: Oh good, oh Joey and Chandler are back.\njoey: Oh yeah, Smokey Joe here got half way to the highway and collapsed.",
+  "chandler_transcript": "I have the lung capacity of a two year old. (starts to light another cigarette.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\682\\merged_before_chandler_682.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\682\\actual_chandler.wav"
+}

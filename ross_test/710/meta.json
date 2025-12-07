@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: doll, the ability to walk...\nrachel: I’m gonna get back to retraining. (gets up)",
+  "ross_transcript": "All right, see you guys. (starts to leave)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\710\\merged_before_ross_710.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\710\\actual_ross.wav"
+}

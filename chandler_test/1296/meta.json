@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Nobody likes change.\nphoebe: Should we do something?",
+  "chandler_transcript": "Yeah, never cheat on Rachel.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1296\\merged_before_chandler_1296.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1296\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Okay. Okay, great! Umm, okay, just turn around.\nrachel: I don’t want you to see me naked!",
+  "ross_transcript": "Rachel, I’ve seen you naked a million times. I ate hot fudge off you naked. Remember, I-I sucked that mini-marshmallow out of your belly button?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\907\\merged_before_ross_907.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\907\\actual_ross.wav"
+}

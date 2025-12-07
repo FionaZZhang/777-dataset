@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: When did I sign for it?\nphoebe: When I was you! Y'know what, it’s all Joey’s fault, ‘cause he left his nose open!\nmonica: Did you make brownies today?\nmonica: (to Phoebe) Quick, take off your dress, he won’t notice the bed.",
+  "chandler_transcript": "Hey, I’m going for sushi does anybody want.. (enters and sees the bed) Whoa-whoa, somebody missed the off ramp.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1099\\merged_before_chandler_1099.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1099\\actual_chandler.wav"
+}

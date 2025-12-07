@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: All right. Did everyone get out okay?\nmonica: Well, the giraffe’s okay. And so is the pirate.",
+  "ross_transcript": "No Phoebe, don’t look! You don’t want to see what’s under there!!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\051\\merged_before_ross_051.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\051\\actual_ross.wav"
+}

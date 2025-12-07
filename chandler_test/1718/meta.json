@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Oh, I am having the best karma this week. First, I find this woman who knew my parents, and then my client with the fuzzy back gives me his beach house.\nross: Yeah? What about ah, that bike messenger you hit?\nphoebe: Oh, I wasn’t talking about his karma.\njoey: Hey-hey, check out the hat!",
+  "chandler_transcript": "What a minute, I know that hat! I was taken aboard that hat! They did experiments on me! I can’t have children!!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1718\\merged_before_chandler_1718.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1718\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (seeing Ross and Bonnie inside Central Perk) Oh my God! Phoebe look, it’s Ross and that girl.",
+  "phoebe_transcript": "No! No! Look at that! (drags her away from the window) It’s a line of ants! They’re working as a team!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\313\\merged_before_phoebe_313.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\313\\actual_phoebe.wav"
+}

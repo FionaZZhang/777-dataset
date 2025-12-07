@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: (yelling from bathroom) Hey, does somebody wanna hand me one of those tiles.\nmonica: He’s retiling my floor. (they both run to the bathroom)\nmonica: Ah-ah-ah, now you started this, you will finish it.\nchandler: He started mine first!",
+  "phoebe_transcript": "Build the unit Cinderelly, lay the tile Cinderelly.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\171\\merged_before_phoebe_171.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\171\\actual_phoebe.wav"
+}

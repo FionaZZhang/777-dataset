@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Hmm, no. I mean how can I accept a restaurant from him? I-I-I-I can’t. I couldn’t even accept a necklace from Stu Vincent in the seventh grade.\nrachel: Yeah, but Mon that’s totally different. He was you’re health teacher.\nrachel: Oh, I am, my side still hurts from when you crashed into me yesterday.\nmonica: Oh God, I’m so sorry.",
+  "ross_transcript": "(entering, wearing a white suit with a little red bow tie) Hey, you guys! Guess what?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\852\\merged_before_ross_852.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\852\\actual_ross.wav"
+}

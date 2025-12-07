@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Ross gave it to me.\nross: Yeah, I think she looks good.\nchandler: Buy it for ya, or win it for ya?\nrachel: Well excuse me, my fashion-impaired friends, I am here to tell you that hats are back.",
+  "phoebe_transcript": "And this time, they’ve ganged up to form one giant, super hat.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1724\\merged_before_phoebe_1724.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1724\\actual_phoebe.wav"
+}

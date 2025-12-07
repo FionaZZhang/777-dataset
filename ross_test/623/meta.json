@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Okay, all right, give me the mug! I’ll keep the mug.",
+  "ross_transcript": "No!! Y'know-y'know don’t do me any favours. In fact, where, where’s the rest of my stuff?! Huh? Like-like my umm, (picks up a book) Hey, this book is mine!! And-and-and, and that T-shirt you sleep in? I’d like that back too. Yes, I do.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\623\\merged_before_ross_623.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\623\\actual_ross.wav"
+}

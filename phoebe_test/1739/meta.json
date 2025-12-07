@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Yeah, well, I couldn’t find any cards, so it was either this or Strip Bag Of Old Knitting Stuff.\nross: Okay, (reading the card) Fonzy gives you two thumbs up, collect two cool points. Yeah.",
+  "phoebe_transcript": "Monica, if you get five cool points, you get to make somebody take off one item of clothing. It hasn’t happened yet, but we’re all very excited.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1739\\merged_before_phoebe_1739.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1739\\actual_phoebe.wav"
+}

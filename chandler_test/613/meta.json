@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Then be supportive like a guy.",
+  "chandler_transcript": "(in a deep voice) If I broke up with you, I’d miss you.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\613\\merged_before_chandler_613.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\613\\actual_chandler.wav"
+}

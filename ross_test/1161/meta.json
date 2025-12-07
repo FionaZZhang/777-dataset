@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh honey, I'm sorry we can't help you there, 'cause we're cuddlily sleepers. (Chandler makes an 'Ewww' face) Okay, I'm late for work.\nrachel: All right are you guys gonna come down?",
+  "ross_transcript": "Uh, yeah, yeah I'll, I'm right behind you.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1161\\merged_before_ross_1161.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1161\\actual_ross.wav"
+}

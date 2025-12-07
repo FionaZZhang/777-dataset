@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Hello, people who do not live here.\nmonica: I gave you a key for emergencies!\nross: Hey, how’d the date go with Mr. Millionaire?",
+  "chandler_transcript": "Mr. Millionaire, new from Snooty Playthings! Third wife sold separately.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\594\\merged_before_chandler_594.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\594\\actual_chandler.wav"
+}

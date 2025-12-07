@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (looking at her watch) Oh my God, I gotta go to work!\nrachel: Oh I don’t know honey. It’s gonna be really late.",
+  "ross_transcript": "Oh come on, not again.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1543\\merged_before_ross_1543.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1543\\actual_ross.wav"
+}

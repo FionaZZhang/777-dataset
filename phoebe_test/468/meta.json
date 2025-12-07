@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Look, I'm sorry, I thought it looked pretty.\nrachel: Ross, that was a Halloween costume, unless you would like me to go to this thing as Little Bo Peep.\nross: Look, I didn't recognize it without that inflatable sheep.\nrachel: Yeah, which, by the way Chandler, I would like back one of these days.",
+  "phoebe_transcript": "Oh Rach, good, listen isn't this perfect for me! (she's wearing another dress on a hanger around her neck)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\468\\merged_before_phoebe_468.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\468\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Well, maybe it’s so big because the house was built on radioactive waste.",
+  "chandler_transcript": "(holding a tissue) And is this in case the house sneezes?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\017\\merged_before_chandler_017.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\017\\actual_chandler.wav"
+}

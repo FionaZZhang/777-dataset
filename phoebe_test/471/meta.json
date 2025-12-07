@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Yeah, which, by the way Chandler, I would like back one of these days.",
+  "phoebe_transcript": "Oh Rach, good, listen isn't this perfect for me! (she's wearing another dress on a hanger around her neck)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\471\\merged_before_phoebe_471.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\471\\actual_phoebe.wav"
+}

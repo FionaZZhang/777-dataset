@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: All right, I’ll take one box of the mint treasures, just one, and that’s it. I-I started gaining weight after I joined the Brown Birds. (to Ross) Remember, how Dad bought all my boxes and I ate them all?",
+  "ross_transcript": "you ate them all. But ah, y'know I’m sure that’s not gonna happen this time, why don’t I put you down for three of the mint treasures and just a couple of the Rudolph’s.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\731\\merged_before_ross_731.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\731\\actual_ross.wav"
+}

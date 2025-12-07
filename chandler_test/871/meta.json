@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "pete: Listen, can you promise me that you won’t tell her though?\nphoebe: Absolutely, oh I promise. Tell her what?\npete: Thanks a lot.\nphoebe: No I’m serious. I mean I’m intuitive, but my memory sucks.",
+  "chandler_transcript": "Okay, but this is the last time. (singing) With a chick-chick here, and a chick-chick there. Here a chick, there a chick, everywhere a chick-chick-(Joey enters)-chickeeeen.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\871\\merged_before_chandler_871.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\871\\actual_chandler.wav"
+}

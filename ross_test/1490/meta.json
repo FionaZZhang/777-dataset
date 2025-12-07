@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Now, does it really matter?\nphoebe: Well, okay, I made a touchdown. It was my first touchdown. So?\nmonica: Does so count!",
+  "ross_transcript": "Cheater, cheater, compulsive eater.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1490\\merged_before_ross_1490.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1490\\actual_ross.wav"
+}

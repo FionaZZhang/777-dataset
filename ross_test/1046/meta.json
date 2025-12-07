@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Wait a minute, why don’t you just call Mark. (they both look up in shock) I mean, who says you have to sit here and wait for him, you’ve got to make stuff happen.\nmonica: (to Ross) Honey, it’s not pushy, he gave her his home number.",
+  "ross_transcript": "(to Rachel, as she gets his number) What, he gave you his home number? As in like, to, to his home?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1046\\merged_before_ross_1046.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1046\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Cute naked guy is really starting to put on weight.\nmonica: (entering from bedroom) Okay, I’ll be back in just a minute. Oh, Phoebe I’m sorry that I left lipstick marks on the phone.\nphoebe: You didn’t leave lipstick marks on the phone.\nmonica: Oh, then it must’ve been you. Bye. (leaves)",
+  "ross_transcript": "Hey, y'know while we’re on that, when are you gonna tell my sister that you don’t live here anymore.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1582\\merged_before_ross_1582.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1582\\actual_ross.wav"
+}

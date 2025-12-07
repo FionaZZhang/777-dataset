@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: What, he's not still following her. Do you think he is still following her?",
+  "chandler_transcript": "Pheebs, wake up and smell the restraining order.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1213\\merged_before_chandler_1213.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1213\\actual_chandler.wav"
+}

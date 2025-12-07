@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Well I don’t like to say it out loud, but, yeah! Don’t feel bad man, we all have our strengths. You’re better with numbers and stuff.",
+  "chandler_transcript": "Math!! You’re giving me math! All right, look y'know what, forget about it, you go for the girl, we’ll see who gets her.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1483\\merged_before_chandler_1483.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1483\\actual_chandler.wav"
+}

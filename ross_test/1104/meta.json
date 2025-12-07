@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: No! Rachel, that’s what they want me to do. My warranty expires tomorrow, if I don’t get through, they’re not gonna fix my crappy, broken phone for free! We cannot let them win! It’s us versus them!\njoey: Uh, listen I gotta double check for tickets tonight. Who-who got what?\nmonica: I need two. I’m bringing Pete. My boyfriend. I have a boyfriend now!\njoey: Two it is. Ross, how about you?",
+  "ross_transcript": "Uh, yeah, I ah, I also need two.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1104\\merged_before_ross_1104.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1104\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Okay, Phoebe you know what you’re doing right?\nmonica: Okay, Joey’s gonna catch it, and you and I are gonna block.\nphoebe: I thought you meant in life.\nchandler: The ball is Janice. The ball is Janice. (goes to kick the ball but kicks Ross’s foot instead.)",
+  "ross_transcript": "Oww!! Son of a...!! Ow! Come on!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1464\\merged_before_ross_1464.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1464\\actual_ross.wav"
+}

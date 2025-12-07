@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: ) Ohhh. (sees he still has the chick) Ahh! What are you doing?! I thought you were gonna take her back to the store today.",
+  "chandler_transcript": "I did! But the store wouldn’t take her back! So then I took her to the shelter, and you know what I found out?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\930\\merged_before_chandler_930.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\930\\actual_chandler.wav"
+}

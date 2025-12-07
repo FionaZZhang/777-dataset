@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Sure, I’ll just sit next to the trans-sexual from purchasing.",
+  "ross_transcript": "Okay, come on! All right, I gotta go! So good luck at the party. Okay?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\904\\merged_before_ross_904.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\904\\actual_ross.wav"
+}

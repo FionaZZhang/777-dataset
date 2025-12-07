@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: I’m telling ya, you guys are totally getting back together!\nross: That’s not true! Her, she doesn’t even know what she wants! Rachel’s still mad about the whole thing.",
+  "chandler_transcript": "Okay, then you gotta back away, all right? You don’t need that kind’ve hurt. Take it from a guy who’s never had a long term relationship......",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1766\\merged_before_chandler_1766.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1766\\actual_chandler.wav"
+}

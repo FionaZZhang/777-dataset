@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: When Mom and Dad drove you to the hospital to get your nose fixed, I swam into the lake and fished it out.",
+  "ross_transcript": "That cup is mine!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1504\\merged_before_ross_1504.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1504\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: That is so sad. Your missing out on so much, Ross. I mean, the bonding and the sharing, you know. And-and knowing that someone else is going through the same thing you are.",
+  "ross_transcript": "Hmph. So what you, you tell each other everything?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\817\\merged_before_ross_817.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\817\\actual_ross.wav"
+}

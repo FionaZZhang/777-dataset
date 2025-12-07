@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: But I told you, I didn’t have the time!",
+  "ross_transcript": "Yeah, well you never have the time. I mean, I don’t feel like I even have a girlfriend anymore, Rachel.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\566\\merged_before_ross_566.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\566\\actual_ross.wav"
+}

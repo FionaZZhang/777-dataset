@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Why don’t we just go on two.\nchandler: Yeah, I coulda counted to three like four times without all this ‘two’ talk.\njoey: All right, but in the future...",
+  "ross_transcript": "Heavy thing, not getting lighter!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\197\\merged_before_ross_197.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\197\\actual_ross.wav"
+}

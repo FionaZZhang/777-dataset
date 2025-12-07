@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: (entering with Monica) Hey, is, is, is Chandler here?\nmonica: You guys, Joey just saw Janice kissing her ex-husband.",
+  "ross_transcript": "What? (to Joey) So what are you going to do? I mean how, how are you going to tell Chandler?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\067\\merged_before_ross_067.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\067\\actual_ross.wav"
+}

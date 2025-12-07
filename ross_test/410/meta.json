@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Am I in it?",
+  "ross_transcript": "Uh, huh. Yeah, right after I thank everyone for giving money to the museum, I sing a song about the wonder that is Joey.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\410\\merged_before_ross_410.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\410\\actual_ross.wav"
+}

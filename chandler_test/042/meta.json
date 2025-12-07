@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Come on, this isn’t funny. She thinks it’s my fault that you haven’t called her. You have to call her!",
+  "chandler_transcript": "Look, you can’t call somebody after this long just to say, ‘In case you didn’t notice, I don’t like you!’",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\042\\merged_before_chandler_042.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\042\\actual_chandler.wav"
+}

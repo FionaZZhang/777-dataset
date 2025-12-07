@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Well, my apartment isn’t there anymore, because I drank it.",
+  "phoebe_transcript": "Where’d you get too? We lost you after you opened up all the presents.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1020\\merged_before_phoebe_1020.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1020\\actual_phoebe.wav"
+}

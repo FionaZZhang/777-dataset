@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I don’t have any issues with my Father.",
+  "phoebe_transcript": "Okay, so it’s probably just the Ross thing then.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\606\\merged_before_phoebe_606.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\606\\actual_phoebe.wav"
+}

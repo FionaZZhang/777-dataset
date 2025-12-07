@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: ? Do you really think he's gonna fall for that?\njoey: ! Cool! Can I play?",
+  "ross_transcript": "Look Ben, it's a toy that protects U.S. oil interests overseas!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1389\\merged_before_ross_1389.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1389\\actual_ross.wav"
+}

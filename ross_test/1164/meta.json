@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Good luck Chandler.\nchandler: Thank you Rachel.",
+  "ross_transcript": "(blows her a kiss) Okay the sleeping thing. Very tricky business, but there is something you can do.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1164\\merged_before_ross_1164.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1164\\actual_ross.wav"
+}

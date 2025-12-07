@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "gunther: And when you have a second later, I wanna show you why we don’t just trap spiders under coffee mugs and leave them there.\nrachel: (sitting down next to Chandler) I’m training to be better at a job that I hate, my life officially sucks.\njoey: Look Rach, wasn’t this supposed to a temporary thing? I thought you wanted to do fashion stuff?\nrachel: Well, yeah! I’m still pursuing that.",
+  "chandler_transcript": "How... exactly are you pursuing that? Y'know other than sending out resumes like what, two years ago?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\737\\merged_before_chandler_737.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\737\\actual_chandler.wav"
+}

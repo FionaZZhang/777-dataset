@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Okay, for instance. Let's say, Janice is coming back from a trip and she gives you two options. Option number 1 she'll take a cab home from the airport. Option 2 is you can meet her at baggage claim. Which do you do?",
+  "chandler_transcript": "That's easy, baggage claim.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1157\\merged_before_chandler_1157.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1157\\actual_chandler.wav"
+}

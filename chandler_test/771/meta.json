@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh, I blew it. I wouldn’t of even hired me.\nross: Oh, come here sweetie, listen, you’re gonna go on like a thousand interviews before you get a job. (she glares at him) That’s not how that was supposed to come out.\nphoebe: This is the worst Christmas ever.",
+  "chandler_transcript": "Y'know what Rach, maybe you should just, y'know stay here at the coffee house.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\771\\merged_before_chandler_771.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\771\\actual_chandler.wav"
+}

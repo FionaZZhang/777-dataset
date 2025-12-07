@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Ooooh! Honey, well we'll find you something. Do you wanna wear my black jacket?",
+  "phoebe_transcript": "That won't go with this dress though.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\447\\merged_before_phoebe_447.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\447\\actual_phoebe.wav"
+}

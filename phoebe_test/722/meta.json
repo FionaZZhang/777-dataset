@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Look now, Phoebe remember, hey, their just fulfilling their Christmas....",
+  "phoebe_transcript": "Okay. (One of Joey’s co-workers, walks by with a dead tree.) Yikes! That one doesn’t look very fulfilled.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\722\\merged_before_phoebe_722.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\722\\actual_phoebe.wav"
+}

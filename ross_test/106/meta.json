@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Well maybe he’s just taking a nap.\nmonica: All right, we should call somebody.",
+  "ross_transcript": "And tell them what? The naked guy we stare at all the time isn’t moving.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\106\\merged_before_ross_106.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\106\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Are you crazy?!",
+  "ross_transcript": "Am I! Am I! Am I out of my mind! Am I losing my senses!! This dreamy guy is taking my girlfriend out for a meal.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1062\\merged_before_ross_1062.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1062\\actual_ross.wav"
+}

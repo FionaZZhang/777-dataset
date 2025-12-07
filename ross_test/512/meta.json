@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: No, no, no, wait! Okay, okay. Don't! I'll go, I'll go!\nrachel: You were really gonna do that, weren't you?\nrachel: You were gonna drink the fat.\njoey: Let's see what else he'll do!",
+  "ross_transcript": "(to Joey) How 'bout instead you, go get changed! (to Chandler) You, give him back his underwear! I'm gonna go get a cab, and I want everyone down stairs in two minutes! Monica!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\512\\merged_before_ross_512.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\512\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Oh, just this woman that I met last night at the party.\nrachel: There was a woman at the... (realizes) The stripper?!\nrachel: You have a play date with a stripper?!",
+  "chandler_transcript": "Man, I gotta get a kid. (looks at the pen and starts laughing)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1695\\merged_before_chandler_1695.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1695\\actual_chandler.wav"
+}

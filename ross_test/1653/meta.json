@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "mark: Here, let me. (answers phone) Rachel Green's line, how may I help you?",
+  "ross_transcript": "(on phone) Hi, is Rachel there?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1653\\merged_before_ross_1653.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1653\\actual_ross.wav"
+}

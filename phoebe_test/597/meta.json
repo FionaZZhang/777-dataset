@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "kate: That info-mercial! For the milk carton spout thing! You’re-you’re-you’re the guy that doesn’t know how to pour milk!!\njoey: pour milk, but I got you believing that I couldn’t. Now, see, that’s acting.\nkate: Right, at the end, you choked on a cookie.\njoey: Yeah, that was real.",
+  "phoebe_transcript": "Wow! I cannot believe Mark asked you out.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\597\\merged_before_phoebe_597.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\597\\actual_phoebe.wav"
+}

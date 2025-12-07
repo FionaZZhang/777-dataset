@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Yeah, tell that to my Uncle Lenny.",
+  "chandler_transcript": "Why? What happened to him?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\583\\merged_before_chandler_583.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\583\\actual_chandler.wav"
+}

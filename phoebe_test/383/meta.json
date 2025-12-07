@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "frank_jr: Oh well, um, your, your laundry just smelled so good, that I thought I’d curl up in it. Is that all right?",
+  "phoebe_transcript": "Oh, yeah, sure. So, how was your day?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\383\\merged_before_phoebe_383.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\383\\actual_phoebe.wav"
+}

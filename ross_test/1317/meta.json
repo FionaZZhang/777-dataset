@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (handing Monica the wax) Wax the door shut, we’re never leaving, ever.\nphoebe: Hi, it’s Phoebe. Listen someone’s gonna have to take my 900 with Mr. Rehack, ‘cause it’s like 915 now, and I’m not there.",
+  "ross_transcript": "Don’t you realise none of this would’ve ever happened if I didn’t think at that same moment you weren’t having sex with Mark?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1317\\merged_before_ross_1317.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1317\\actual_ross.wav"
+}

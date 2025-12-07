@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "gunther: Rachel has those in burgendy.\njoey: All right now remember, something this big and long is going to be difficult to manuver, fortunately I have a lot of experience in that area.\nross: Can we please focus here, a naked man’s life hangs in the balance!",
+  "phoebe_transcript": "I’m telling you he’s dead. What we are about to have here is a dead fat guy on a stick.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\129\\merged_before_phoebe_129.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\129\\actual_phoebe.wav"
+}

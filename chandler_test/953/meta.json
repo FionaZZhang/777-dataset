@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Well what is it?!\nross: He couldn't even tell me! He said it was just some sort of skin... abnormality. And the worst thing is he-he-he said, he said, without being able to identify it, he was reluctant to remove it.",
+  "chandler_transcript": "Y'know what? You should go to my guy, because when I went in there with my third nipple. He just lopped it right off. Y'know? So I guess I'm lucky. I mean not as lucky as people who were born with two nipples.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\953\\merged_before_chandler_953.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\953\\actual_chandler.wav"
+}

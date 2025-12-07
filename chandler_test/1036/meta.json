@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Really? That’s great! You and my sister, sittin’ in a tree.",
+  "chandler_transcript": "Yep, I’m in a tree.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1036\\merged_before_chandler_1036.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1036\\actual_chandler.wav"
+}

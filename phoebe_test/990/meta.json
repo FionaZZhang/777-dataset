@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: You didn’t break up with that fireman?",
+  "phoebe_transcript": "No, that was my way of telling you. Well, it turns out he’s incredibly sensitive, he keeps a journal and he paints. He even showed me charcoal drawings that he drew of me.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\990\\merged_before_phoebe_990.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\990\\actual_phoebe.wav"
+}

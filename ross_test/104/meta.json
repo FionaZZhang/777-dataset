@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Ugly Naked Guy looks awfully still. (Phoebe runs to the window and gasps.)\nphoebe: Oh my God! I killed him! I killed another one! And this curse is getting stronger too, to bring down something that big.\nrachel: Well maybe he’s just taking a nap.\nmonica: All right, we should call somebody.",
+  "ross_transcript": "And tell them what? The naked guy we stare at all the time isn’t moving.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\104\\merged_before_ross_104.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\104\\actual_ross.wav"
+}

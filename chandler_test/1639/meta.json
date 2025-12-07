@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: (entering, with about 20 purses hanging around her neck) Morning. Rach, I'm here with the purses!",
+  "chandler_transcript": "(to Phoebe) It must take you forever to find your keys.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1639\\merged_before_chandler_1639.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1639\\actual_chandler.wav"
+}

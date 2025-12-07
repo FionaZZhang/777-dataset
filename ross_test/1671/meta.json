@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "mark: (reaching through the flowers) Do you have the, the Ralph Lauren file?\nrachel: Oh, yeah, sure, it's umm... (she picks up this bug and it starts to play the theme from Love Story)",
+  "ross_transcript": "It's from Ross, it's a love bug.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1671\\merged_before_ross_1671.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1671\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Don’t you ah, don’t you wanna ask me any questions?\njoey: Well, ah, I’m an actor. I’m fairly neat. I ah, I got my own TV. Oh, and don’t worry I’m totally okay with the gay thing.",
+  "chandler_transcript": "What gay thing?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1594\\merged_before_chandler_1594.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1594\\actual_chandler.wav"
+}

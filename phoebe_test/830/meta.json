@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Yeah, I know, I sleep in the next room.\nmonica: (crying) So, I went down to the post office, and it turns out it was those videos that I ordered for Richard about the Civil War. He loved the Civil War.",
+  "phoebe_transcript": "Monica, do you want us to take you home?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\830\\merged_before_phoebe_830.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\830\\actual_phoebe.wav"
+}

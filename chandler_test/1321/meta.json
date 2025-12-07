@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Oh man, pizza? I like pizza. (makes like he is trying to send a telepathic message to Rachel) Put olives on the pizza.\nphoebe: We could eat the wax! It’s organic.",
+  "chandler_transcript": "Oh great, food with hair on it.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1321\\merged_before_chandler_1321.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1321\\actual_chandler.wav"
+}

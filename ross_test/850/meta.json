@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: have to cheer up! Okay? You should come out with Ross and me, I mean anything is better than sitting around here crying all day about Kate.\njoey: Hey I was crying because, because nobody believed Quincy’s theory. Okay?",
+  "ross_transcript": "(triumphantly) I’m gonna be on TV!!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\850\\merged_before_ross_850.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\850\\actual_ross.wav"
+}

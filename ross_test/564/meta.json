@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: coming down to my office Ross. You do not bring a picnic basket to somebody’s work! Unless maybe they were a park ranger!",
+  "ross_transcript": "Yeah, well excuse me for wanting to be with my girlfriend on our anniversary, boy what an ass am I.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\564\\merged_before_ross_564.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\564\\actual_ross.wav"
+}

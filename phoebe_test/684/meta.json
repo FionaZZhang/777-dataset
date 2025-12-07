@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (looking at the page) 717? (to Carol) Where’s 717? (He gets up to return the page, Carol starts to take the last of the food into the kitchen, but Ross grabs the last piece.) Hey, you’ve have more of these for Susan right?\ncarol: No. But it’s okay, I’ll just put out pickles or something.",
+  "phoebe_transcript": "(answering the phone) (whispering) Ross, thank God.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\684\\merged_before_phoebe_684.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\684\\actual_phoebe.wav"
+}

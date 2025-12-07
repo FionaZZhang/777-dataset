@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: (Voice Over) Previously on Friends.\nrachel: You want me to just quit my job so that you can feel like you’ve got a girlfriend?",
+  "ross_transcript": "Is this about Mark?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1218\\merged_before_ross_1218.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1218\\actual_ross.wav"
+}

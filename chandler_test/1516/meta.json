@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Right. Okay, let’s play. Let’s go.",
+  "chandler_transcript": "No ah, hold on a second Joe, where do Dutch people come from?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1516\\merged_before_chandler_1516.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1516\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Hey Mon, let’s give Pete a chance Come on, he was funny, he seems really nice, and that check thing was adorable.",
+  "chandler_transcript": "What check thing?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\357\\merged_before_chandler_357.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\357\\actual_chandler.wav"
+}

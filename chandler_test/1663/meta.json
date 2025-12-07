@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: (covering her mouth in shock) What, what is that?\njoey: Sure, it looks stupid now, there's no music playing.",
+  "chandler_transcript": "All right, I have to get that, but no-no. (answering phone) Hello? (listens) (happily) Hi! Yeah listen, I'm, I'm in need of a stripper and I was told that you do that. (listens) Let me ask you this, what, what do you do for the extra hundred? (listens) So would I, would I have to provide the grapes?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1663\\merged_before_chandler_1663.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1663\\actual_chandler.wav"
+}

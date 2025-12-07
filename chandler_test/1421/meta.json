@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: You know what, everything's gonna be okay.",
+  "chandler_transcript": "(answering phone) Hello. Hi, Janice! Can you hold on for a second? Okay. (to Monica and Rachel) Okay, what do I do?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1421\\merged_before_chandler_1421.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1421\\actual_chandler.wav"
+}

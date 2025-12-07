@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: No, that's all right. I just had a jar of mustard.\nmonica: (entering from her bedroom) Okay, sperm donor number 03815, come on down! Okay, he's 6'2\", 170 pounds, and he describes himself as a male Geena Davis.\nchandler: You mean there's more than one of us.",
+  "ross_transcript": "Look, you can't do this Mon. All right, if you do this, I'm, I'm gonna, I'm, I'm gonna.....",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1190\\merged_before_ross_1190.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1190\\actual_ross.wav"
+}

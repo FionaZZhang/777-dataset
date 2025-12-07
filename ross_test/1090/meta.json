@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: I’m, I’m freaking out! Monica kinda trusted me with something and she shouldn’t have! All right, I haven’t lived here in a while, so I have to ask you something. Does Monica still turn on the lights in her bedroom?\nrachel: All right, look, here’s the bottom line Ross, this is fixable, if we act fast, okay. So, I’ll invite him to brunch tomorrow and you can make nice.",
+  "ross_transcript": "Look, honey, I have tried to make nice, it doesn’t work.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1090\\merged_before_ross_1090.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1090\\actual_ross.wav"
+}

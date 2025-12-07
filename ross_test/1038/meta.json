@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I am good. I finished my book.\nrachel: Oh yeah, what’s it about?\nmonica: I don’t remember. Do you wanna take a walk?\nrachel: Yeah, I do. (they both run out)",
+  "ross_transcript": "Dear Mary-Angela. Hi. How’s it going. This is the hardest letter I’ve ever had to write. (to Chandler) What the hell’s a matter with you? How do you think Joey’s going to react when he finds out that you blew off his sister with a letter?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1038\\merged_before_ross_1038.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1038\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Is-is-is that message old or new? (yelling) Old or new?! Old or new?!\nross: It's old, it's definitely old. Didn't you hear the, the double beep?\nmonica: What if it's new? I mean, we agreed not to talk again, unless we had something really important to say. Shouldn't I call him back?",
+  "chandler_transcript": "Honey, you did call him back. 'Cause, it's, it's really old.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\430\\merged_before_chandler_430.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\430\\actual_chandler.wav"
+}

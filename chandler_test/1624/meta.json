@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Phoebe moved out.\nmonica: I don’t understand, I mean am I so hard to live, is this why I don’t have a boyfriend?",
+  "chandler_transcript": "Noo!! You don’t have a boyfriend because....I don’t, I don’t know why you don’t have a boyfriend. You should have a boyfriend.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1624\\merged_before_chandler_1624.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1624\\actual_chandler.wav"
+}

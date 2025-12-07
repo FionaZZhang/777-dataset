@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: You know what, okay, fine. Don't get up, you just sit right there. I just hope, you don't mind, you know, my hand right here. (holds his hand a couple of inches in front of Joey's face) Op, not touching, can't get mad! Not touching can't get mad! Not touching can't get mad! (Joey flings some dip onto Phoebe's dress)",
+  "phoebe_transcript": "Ah! Oh my God! You r-r-rotten boys!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\436\\merged_before_phoebe_436.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\436\\actual_phoebe.wav"
+}

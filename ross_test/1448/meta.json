@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: And was the curse lifted?",
+  "ross_transcript": "Anyway. That’s when our Mom said we were not to play football ever again.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1448\\merged_before_ross_1448.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1448\\actual_ross.wav"
+}

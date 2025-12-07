@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: I will have one. (Ross and him both take one.)\nphoebe: No, no, it’s just my tooth.",
+  "ross_transcript": "So what’s a matter, you need a dentist? I’ve got a good one.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\053\\merged_before_ross_053.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\053\\actual_ross.wav"
+}

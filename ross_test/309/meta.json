@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Yeah, y'know what, there are other fish in the sea.\nphoebe: Okay, I hear you! Are you capable of talking about any thing else?\nchandler: (joining them) Hey! Which one’s my turkey burger?",
+  "ross_transcript": "Ahh, the one next to my foot. Sorry.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\309\\merged_before_ross_309.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\309\\actual_ross.wav"
+}

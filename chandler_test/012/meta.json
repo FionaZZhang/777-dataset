@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Uh, Pheebs, you had a barrel for a dollhouse?\nphoebe: No, just a barrel.\nmonica: Y'know what, you can play with my dollhouse.\nmonica: Any time you want. Y'know, when I was younger, all I wanted to do was to play with this dollhouse, but no!! It was to be looked at, but never played with.",
+  "chandler_transcript": "My Grandmother used to say that exact same thing to me.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\012\\merged_before_chandler_012.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\012\\actual_chandler.wav"
+}

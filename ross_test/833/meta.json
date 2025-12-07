@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Uh, huh. (to Ross) Or maybe to a galaxy far, far away. (Rachel, Monica, and Phoebe leave)",
+  "ross_transcript": "Women tell each other everything. Did you know that?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\833\\merged_before_ross_833.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\833\\actual_ross.wav"
+}

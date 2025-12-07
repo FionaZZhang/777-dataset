@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (rolling towards the office) I’m quitting!! Woo-hoo! (She rolls through a doorway and out of sight. We then hear a big crash, and see Monica roll past the door the other way.) I’m okay!! I’m all right!!",
+  "phoebe_transcript": "(to Pete) Wow! That’s exciting, you went to Japan, made up a woman.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\865\\merged_before_phoebe_865.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\865\\actual_phoebe.wav"
+}

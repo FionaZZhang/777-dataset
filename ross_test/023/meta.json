@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Okay, obviously you don’t know much about the U.S. government.\nrachel: I need to talk to you!\nrachel: Oh, sorry. I meant Chandler.",
+  "ross_transcript": "I-I know. Well if something comes up... (walks away)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\023\\merged_before_ross_023.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\023\\actual_ross.wav"
+}

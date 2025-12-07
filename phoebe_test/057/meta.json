@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: See that is the problem with invisible dentists.\nross: Why? Why can’t you go to him?",
+  "phoebe_transcript": "Because, every time I go to the dentist, somebody dies.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\057\\merged_before_phoebe_057.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\057\\actual_phoebe.wav"
+}

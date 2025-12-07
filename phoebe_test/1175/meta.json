@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: (with food in his mouth) You talked to him. Are you crazy?",
+  "phoebe_transcript": "Okay, first I'm not crazy. And second, say it don't spray it. Anyway his name is Malcom, and he wasn't following me, I mean he was, but 'cause he thought I was Ursula, ick. And, that's why, that's why he couldn't just come up and talk to me. 'Cause of the restraining order.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1175\\merged_before_phoebe_1175.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1175\\actual_phoebe.wav"
+}

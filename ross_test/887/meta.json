@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: to get ready and go to a dinner at my bosses house. It’s a very big deal, there’s a lot of people there I have to meet.",
+  "ross_transcript": "And I’m sure you’re gonna make a big impression. Hi! I’m Rachel Green. It’s nice to meet you. (He lifts his leg and imitates shaking hands with it, just like how Rachel was trying to pick up the aspirin with her feet.) Come on, you probably have a broken rib!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\887\\merged_before_ross_887.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\887\\actual_ross.wav"
+}

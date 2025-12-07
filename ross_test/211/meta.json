@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: I like her.\nphoebe: (to Chandler) Why? Because she can sing and play guitar and do both at the same time?\nchandler: Well, that’s pretty much all I’m looking for from these people.\nmonica: (to Phoebe) Look at you. All jealous.",
+  "ross_transcript": "Yeah Pheebs, come on, you two have completely different styles. Y'know, she’s more..(shakes his shoulders, like he’s dancing) y'know, and you’re more (sees the look from Phoebe and stops)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\211\\merged_before_ross_211.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\211\\actual_ross.wav"
+}

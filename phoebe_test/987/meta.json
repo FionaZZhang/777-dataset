@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh my God. (starting to cry)\nmonica: I know. (pause) I need more pie. (goes and gets some)",
+  "phoebe_transcript": "Hey Mon umm, if you do get married, can I bring two guests?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\987\\merged_before_phoebe_987.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\987\\actual_phoebe.wav"
+}

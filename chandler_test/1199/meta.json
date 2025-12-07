@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Let me see. (goes over and looks at the form) Oh, right.\nrachel: When did you go to a sperm bank?\njoey: Well, right after I did that sex study down at NYU. (to Chandler) Hey, Remember that sweater I gave you for your birthday?",
+  "chandler_transcript": "And that's how you bought it?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1199\\merged_before_chandler_1199.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1199\\actual_chandler.wav"
+}

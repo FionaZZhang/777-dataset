@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh, yeah, sure, sure, sure, sure. (points at Chandler, who holds up the cue ball as a ‘Remember me?’ thing) Listen, can we please have lunch the next time I’m in the city?\nross: No real-, honey, really it’s fine, just g-go with Susan. Really, I, no, I think girls night out is a great idea. Okay, okay, bye",
+  "phoebe_transcript": "So what are they doing?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1607\\merged_before_phoebe_1607.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1607\\actual_phoebe.wav"
+}

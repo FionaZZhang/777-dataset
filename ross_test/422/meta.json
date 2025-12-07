@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: What's the big deal, sit somewhere else.\nchandler: The big deal is I was sitting there last, so, that's my seat.\njoey: Well, actually the last place you were sitting was in there (points to the bathroom). Soo...",
+  "ross_transcript": "You guys, you know what, you know what, it doesn't matter, because you both have to go get dressed before the big vain in my head pops. So..",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\422\\merged_before_ross_422.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\422\\actual_ross.wav"
+}

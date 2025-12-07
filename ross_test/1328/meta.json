@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (softly) I really think you need to go now.",
+  "ross_transcript": "(moving over to stand in front of her) Okay, okay. This morning you said there was nothing so big that we couldn’t work past it together...",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1328\\merged_before_ross_1328.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1328\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Yeah. Whew, it's hot with all of this stuff on. I ah, I better not do any, I don't know, lunges. (starts doing lunges)\nross: Okay, okay. Enough, enough with the lunging. No! I'm sick of this. Okay. I've had it up to here with you two! Neither you can come to the party!",
+  "chandler_transcript": "Jeez, what a baby.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\505\\merged_before_chandler_505.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\505\\actual_chandler.wav"
+}

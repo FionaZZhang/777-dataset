@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "frank_jr: Hey, how do you guys get anything done?\nrachel: Well, so, now, do you guys have a lot of big plans?",
+  "phoebe_transcript": "Oh yeah! Yeah, no, we’re gonna connect, y'know bond, and everything.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\159\\merged_before_phoebe_159.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\159\\actual_phoebe.wav"
+}

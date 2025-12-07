@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Ross, you had sex with another woman!\nmonica: Oh my God.\nphoebe: Oh, I knew something had to be wrong, because my fingernails did not grow at all yesterday.",
+  "chandler_transcript": "Yeah, well, I guess they had a fight, and he got drunk....",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1282\\merged_before_chandler_1282.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1282\\actual_chandler.wav"
+}

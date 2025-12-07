@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Come on guys! Let’s go! Come on, it’s second down.",
+  "ross_transcript": "Uh, hello, it’s third down.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1472\\merged_before_ross_1472.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1472\\actual_ross.wav"
+}

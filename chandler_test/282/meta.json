@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Yeesh, what’d you do about it?",
+  "chandler_transcript": "Well, I didn’t do anything. I didn’t want to be the guy who has a problem with his boss slapping his bottom.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\282\\merged_before_chandler_282.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\282\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Well then how come you’re still at a job that you hate, I mean why don’t you quit and get ‘the fear’?",
+  "chandler_transcript": "Because, I’m too afraid.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\745\\merged_before_chandler_745.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\745\\actual_chandler.wav"
+}

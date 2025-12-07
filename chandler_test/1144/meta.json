@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Nooo. I had a story all worked out but then Chandler sold me out.",
+  "chandler_transcript": "Well, I'm sorry Joe. I didn't think the doctor was gonna buy that it just *fell* out of the socket.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1144\\merged_before_chandler_1144.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1144\\actual_chandler.wav"
+}

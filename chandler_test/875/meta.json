@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Hey! Who was up from 2 o’clock this morning until 5 o’clock this morning trying to get her back to sleep?",
+  "chandler_transcript": "You don’t think I get up when you get up?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\875\\merged_before_chandler_875.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\875\\actual_chandler.wav"
+}

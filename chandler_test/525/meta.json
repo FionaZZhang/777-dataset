@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: What is this?\nmonica: It’s a globe and, a pencil sharpener.",
+  "chandler_transcript": "(entering) Hey, does anybody need anything copied? I’m going down to the Xerox place.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\525\\merged_before_chandler_525.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\525\\actual_chandler.wav"
+}

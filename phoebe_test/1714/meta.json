@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Okay, so we’ve established my name, and hit me. But theoretically y'know, I mean say we weren’t friends, say it’s a blind date. I show up at your door, and I’m like (in a fake voice) “Hey, nice to meet, ya. Hey, oh-hey.”\nmonica: Well I’d probably be scared of a guy using a fake voice.\nmonica: Oh, hey! Oh good, you brought food!\njoey: No, it’s just my luggage.",
+  "phoebe_transcript": "Oh, I am having the best karma this week. First, I find this woman who knew my parents, and then my client with the fuzzy back gives me his beach house.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1714\\merged_before_phoebe_1714.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1714\\actual_phoebe.wav"
+}

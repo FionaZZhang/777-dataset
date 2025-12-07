@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Well, let me just check that with what I got here, all right see 038 is not the number for (Ross starts making a lot of noise with a handheld pepper grinder) this store, 038 is Atlanta. And I...(stops and looks at Ross)\nrachel: (angrily) None for me.\nrachel: I’m sorry, as I was saying the store number is wrong, and I’m sorry but that’s... (notices a fire that Ross’s candle has started) Oh my God!!\nrachel: (on phone) Excuse me, I’m sorry, I’m gonna have to call you back, I’ve got a Schemp in my office. (hangs up) (to Ross) What are you doing?",
+  "ross_transcript": "I’m sorry. But ah, hey, oh, somebody’s off the phone, how ‘bout a glass of wine by the fire, I could get it going again.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\553\\merged_before_ross_553.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\553\\actual_ross.wav"
+}

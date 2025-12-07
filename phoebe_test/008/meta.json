@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Well ah, Aunt Silvia was, well not a nice person.\nmonica: Oh, she was a cruel, cranky, old bitch! (Ross gives her a look) (to Ross) And I’m sorry she died. Did Dad say I get the dollhouse?\nross: You get the dollhouse.",
+  "phoebe_transcript": "Wow, a house for dolls, that is so cool! When I was kid, I had a barrel.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\008\\merged_before_phoebe_008.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\008\\actual_phoebe.wav"
+}

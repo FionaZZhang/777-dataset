@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Ah!! Okay! Eyes open at all times! Oh, hey, how do we decide where we... (clears throat) y'know each would, (clears throat again) y'know (pause) be?",
+  "chandler_transcript": "Right. Right. Well ah, y'know we could flip for it.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\550\\merged_before_chandler_550.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\550\\actual_chandler.wav"
+}

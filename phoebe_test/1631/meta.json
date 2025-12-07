@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: My foot is stuck in the pocket.\nross: No, I can’t get it out.",
+  "phoebe_transcript": "Well, that’s not something a girl wants to hear.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1631\\merged_before_phoebe_1631.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1631\\actual_phoebe.wav"
+}

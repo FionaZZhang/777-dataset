@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Monica, Monica, you know what gets out hummus.\nmonica: If it is a new message, what is he calling to say?\nphoebe: Okay, thanks. Yeah, I'll try that.",
+  "chandler_transcript": "Maybe he's calling to say your obsessive and crazy.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\440\\merged_before_chandler_440.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\440\\actual_chandler.wav"
+}

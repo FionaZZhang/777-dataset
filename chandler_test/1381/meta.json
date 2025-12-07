@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Yeah, well that's that lo-cal, non dairy, soy milk junk. We sort of, we save the real stuff for those really terminal cases.\nmonica: You know, when you start get screwed over all the time, you gotta switch to low-fat.\nrachel: Yeah, you do.",
+  "chandler_transcript": "So, you don't think I'm terminal?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1381\\merged_before_chandler_1381.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1381\\actual_chandler.wav"
+}

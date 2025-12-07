@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I mean really, think about it.",
+  "phoebe_transcript": "No, I know, I know, that this is Frank’s life, (walks behind them, they turn around in the leather chairs to face her) y'know. Y'know, I don’t want to be all judgmental, y'know, but this is sick, it’s sick and wrong!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\336\\merged_before_phoebe_336.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\336\\actual_phoebe.wav"
+}

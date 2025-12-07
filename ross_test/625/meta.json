@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: You know how much I love that T-shirt! You never even where that T-shirt!\nrachel: Oh, you are a petty man. You are a petty, petty....\nrachel: You are so just doing this out of spite.",
+  "ross_transcript": "I’m-I’m gonna wear this all the time! I love this shirt!! (he kisses the shirt)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\625\\merged_before_ross_625.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\625\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Honey, you did call him back. 'Cause, it's, it's really old.",
+  "ross_transcript": "Yeah, see Mon, listen, listen. When Carol and I broke up, I went through the same thing. And you know what I did?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\433\\merged_before_ross_433.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\433\\actual_ross.wav"
+}

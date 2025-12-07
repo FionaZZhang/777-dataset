@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Cute! This is Janice! You remember Janice?\nrachel: Yes, Joey, I remember, she's annoying, but you know what she's-she's his girlfriend now. I mean what can we do?\njoey: There you go! That's the spirit I'm looking for! What can we do? Huh? All right who's first? Huh? Ross?",
+  "ross_transcript": "Well I'm thinking that Chandler's our friend and Janice makes him happy, so I say we just all be adult about it and accept her.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\788\\merged_before_ross_788.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\788\\actual_ross.wav"
+}

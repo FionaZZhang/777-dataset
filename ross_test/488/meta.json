@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (entering from her room) Okay, Pheebs, quick, what shoes should I wear? The black or the purple?\nphoebe: Okay, okay, okay, the black. But, oh, do you have black, with the little strappys?\nrachel: Yeahh, but, but those really go better with pants. Maybe I should wear pants?",
+  "ross_transcript": "Yeah, pants, what, what an idea. Or better yet, um, how 'bout you go without any pants. Look, I don't know what you're trying to do to me, but just get your butt in there and pick out any shoes that fit your feet, okay. No, no I don't care if they match. I don't care if they make your ankles or your knees or your earlobes look fat. Okay.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\488\\merged_before_ross_488.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\488\\actual_ross.wav"
+}

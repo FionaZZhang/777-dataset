@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Where have you been?",
+  "ross_transcript": "Is everything okay?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\270\\merged_before_ross_270.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\270\\actual_ross.wav"
+}

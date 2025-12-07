@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: No! Do you wanna hear it?\njoey: Am I in it?\nross: Uh, huh. Yeah, right after I thank everyone for giving money to the museum, I sing a song about the wonder that is Joey.\nross: Wow, hello! You look great!",
+  "phoebe_transcript": "Thank you! I know, though.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\409\\merged_before_phoebe_409.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\409\\actual_phoebe.wav"
+}

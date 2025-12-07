@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Noo! No, not cuddlily, not me, just her. I'm like you, I need the room. Okay, come here. (they sit on the couch and Ross puts his hands on Chandler's shoulder and thigh.) Okay, you're in bed...\nross: I'm gonna use the cushion.\nross: Okay, you're in bed. She's over on your side, cuddling. Now you wait for her to drift off, and then you hug her (demonstrates on the cushion) and roll her back over to her side of the bed. And then you rollll a-way. Hug for her! Roll for you.",
+  "chandler_transcript": "You're pretending the pillow's a girl right?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1168\\merged_before_chandler_1168.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1168\\actual_chandler.wav"
+}

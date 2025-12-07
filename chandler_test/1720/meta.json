@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Oh, I wasn’t talking about his karma.\njoey: Hey-hey, check out the hat!",
+  "chandler_transcript": "What a minute, I know that hat! I was taken aboard that hat! They did experiments on me! I can’t have children!!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1720\\merged_before_chandler_1720.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1720\\actual_chandler.wav"
+}

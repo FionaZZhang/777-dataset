@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: What’s the matter, Pheebs?",
+  "phoebe_transcript": "She cancelled! My namesake cancelled on me!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1753\\merged_before_phoebe_1753.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1753\\actual_phoebe.wav"
+}

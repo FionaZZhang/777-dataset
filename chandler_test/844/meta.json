@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: But, hey, look, you know the good thing is, is that we spent the whole day together and I survived, and what's even more amazing, so did she. It was bat day at Shea Stadium.",
+  "chandler_transcript": "Well, I guess that's something.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\844\\merged_before_chandler_844.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\844\\actual_chandler.wav"
+}

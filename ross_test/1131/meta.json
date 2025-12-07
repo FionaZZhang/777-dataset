@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Ross, would you just stop it! It’s getting really old.",
+  "ross_transcript": "I can’t believe no one believes me!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1131\\merged_before_ross_1131.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1131\\actual_ross.wav"
+}

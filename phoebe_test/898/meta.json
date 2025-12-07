@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (blows it) Sorry. ‘Cause umm, I think this will make you a little more sophisticated.\nrachel: Sophisticated like a hooker?\nmonica: I’m checking out the restaurant with Pete.",
+  "phoebe_transcript": "Ohh, Monica, I am so excited for you.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\898\\merged_before_phoebe_898.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\898\\actual_phoebe.wav"
+}

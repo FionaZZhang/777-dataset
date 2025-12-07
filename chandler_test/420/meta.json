@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: But then you left.",
+  "chandler_transcript": "Well, it's not like I went to Spain. I went to the bathroom, you knew I was coming back.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\420\\merged_before_chandler_420.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\420\\actual_chandler.wav"
+}

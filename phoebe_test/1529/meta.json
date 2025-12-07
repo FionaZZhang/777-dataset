@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Honey, there’s a reason.\nrachel: God, I’m not lame, okay. I can do something. I can throw, would you let me throw, come on this is my game too.",
+  "phoebe_transcript": "Come on Mon, let her throw the ball.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1529\\merged_before_phoebe_1529.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1529\\actual_phoebe.wav"
+}

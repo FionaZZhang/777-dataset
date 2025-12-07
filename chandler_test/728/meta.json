@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Wait a minute, one box! Come on, I’m trying to send a little girl to Spacecamp, I’m putting you down for five boxes. Chandler, what about you?",
+  "chandler_transcript": "Ahh, do you have any coconut flavoured deities?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\728\\merged_before_chandler_728.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\728\\actual_chandler.wav"
+}

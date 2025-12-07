@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Okay, good, so there you go. Go with Vince.\nphoebe: Yeah, but Jason's really sensitive.",
+  "chandler_transcript": "Well sensitive is important, pick him.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\961\\merged_before_chandler_961.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\961\\actual_chandler.wav"
+}

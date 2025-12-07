@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: All right, okay, now, we just have to make sure she doesn’t find out some other way. (spins the chair around so that Ross is facing him) Did you think about the trail?\njoey: (stomps on the footrest which pops Ross up into a sitting position) The trail from the woman you did it with to the woman you hope never finds out who did it! (slapping his hands with each word) You always have to think about the trail!",
+  "chandler_transcript": "Okay, okay-okay, ah, Chloe works with that guy Issac. Issac’s sister is Jasmine. And Jasmine works at that message place with Phoebe. And Phoebe’s friends with Rachel. And that’s the trail, I did it!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1263\\merged_before_chandler_1263.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1263\\actual_chandler.wav"
+}

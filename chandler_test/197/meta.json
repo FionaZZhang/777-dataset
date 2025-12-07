@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Why don’t we just go on two.",
+  "chandler_transcript": "Yeah, I coulda counted to three like four times without all this ‘two’ talk.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\197\\merged_before_chandler_197.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\197\\actual_chandler.wav"
+}

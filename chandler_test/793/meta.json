@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Fortune! This guy is so stupid. (yelling) It's Count Rushmore!!",
+  "chandler_transcript": "You know, you should really go on this show. All right, listen, I got three tickets to the Rangers tonight. What'd ya' say?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\793\\merged_before_chandler_793.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\793\\actual_chandler.wav"
+}

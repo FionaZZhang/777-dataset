@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: All right, see you guys. (starts to leave)\nchandler: Look out kids, he’s coming! (Ross continues to leave with his head down in shame.)\njoey: And I gotta go sell some Christmas trees.",
+  "phoebe_transcript": "Have fun. Oh wait, no, don’t! I forgot I am totally against that now.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\712\\merged_before_phoebe_712.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\712\\actual_phoebe.wav"
+}

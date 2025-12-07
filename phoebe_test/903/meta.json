@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Okay, but wouldn’t it be easier if you had to tell me something that you could tell me.",
+  "phoebe_transcript": "Well, sure in a perfect world. But, no, I promised I wouldn’t tell, and I swore to like all my gods.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\903\\merged_before_phoebe_903.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\903\\actual_phoebe.wav"
+}

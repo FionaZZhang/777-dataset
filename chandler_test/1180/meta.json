@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Joey, take your time with that. That's my last batch.\njoey: No more jam?!\nrachel: Well, what happened to your jam plan?\nmonica: I figured out I need to charge seventeen bucks a jar just to break even. So, I've got a new plan now. Babies.",
+  "chandler_transcript": "Well, your gonna need much bigger jars.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1180\\merged_before_chandler_1180.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1180\\actual_chandler.wav"
+}

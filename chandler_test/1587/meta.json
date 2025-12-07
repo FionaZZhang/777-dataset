@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: So how many more do you have tomorrow?",
+  "chandler_transcript": "Two. This photographer, who seemed really dull. And this actor guy, who I’m not sure about, because when he called and I answered the phone ‘Chandler Bing,’ he said ‘Whoa-whoa, short message.’",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1587\\merged_before_chandler_1587.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1587\\actual_chandler.wav"
+}

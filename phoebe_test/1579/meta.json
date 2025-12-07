@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I’m sorry, I was just thinking you’re day could still pick up.\nmonica: I love this friend thing!",
+  "phoebe_transcript": "Listen, Robert’s gonna be here any second so, will one of you just tell him?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1579\\merged_before_phoebe_1579.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1579\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: When did this happen?\nmonica: Oh, um, around 802. We ah, talked for a little while, and then um, we went out for an innocent burger.\nross: So, are you gonna see him again?\nrachel: Monica, what are you doing?",
+  "chandler_transcript": "Well, she spent the last six months getting over him, and now she’s celebrating that by going on a date with him.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1555\\merged_before_chandler_1555.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1555\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: That’s the same month as Halloween. So, um, what kinda things do you like to do at home?",
+  "ross_transcript": "Okay, I’ve got three of my five.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\161\\merged_before_ross_161.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\161\\actual_ross.wav"
+}

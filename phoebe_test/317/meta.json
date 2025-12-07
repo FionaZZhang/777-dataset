@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Ohh! (walking away from the window) Phoebe, this is all your fault! Now he loves her, he’s gonna marry her, and this is all your fault.",
+  "phoebe_transcript": "You said it was okay!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\317\\merged_before_phoebe_317.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\317\\actual_phoebe.wav"
+}

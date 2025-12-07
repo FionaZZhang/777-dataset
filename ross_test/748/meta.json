@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: I spelled out boobies.\nmonica: (comes up and starts looking through Ross’s cookie supply) Ross, but me down for another box of the mint treasures, okay. Where, where are the mint treasures?",
+  "ross_transcript": "Ah, we’re out. I sold them all.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\748\\merged_before_ross_748.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\748\\actual_ross.wav"
+}

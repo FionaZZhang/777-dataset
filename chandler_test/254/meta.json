@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: So umm, how was your date with Ginger?",
+  "chandler_transcript": "Great. It was great. She’s ah, she’s great, great looking, great personality, she’s greatness.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\254\\merged_before_chandler_254.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\254\\actual_chandler.wav"
+}

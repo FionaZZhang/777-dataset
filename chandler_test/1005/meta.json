@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Sorry, I just, any excuse to tell that story y'know....\nross: Hey Chandler, there’s a party tomorrow, you’ll feel better then.",
+  "chandler_transcript": "Oh, y'know what, I’m gonna be okay, you don’t have to throw a party for me.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1005\\merged_before_chandler_1005.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1005\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: No, actually Laurie’s a boy.\njoey: No wonder Rachel had to read this so many times.",
+  "ross_transcript": "Hey! How’d the ah, basketball go?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1570\\merged_before_ross_1570.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1570\\actual_ross.wav"
+}

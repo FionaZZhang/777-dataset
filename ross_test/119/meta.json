@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Are you, are you, are you sure it’s ah, a new bump? I mean, no offense, I’ve always thought of Ben as a fairly bumpy headed child.",
+  "ross_transcript": "It’s okay if he bumps his head, kids bump their heads all the time, y'know, it was your first time babysitting, I figured you did the best you could.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\119\\merged_before_ross_119.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\119\\actual_ross.wav"
+}

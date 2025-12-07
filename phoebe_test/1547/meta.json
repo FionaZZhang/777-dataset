@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: For every night that you’re asleep before I get home from work...\nrachel: I will wake you up in a way that’s proved very popular in the past.\nross: Now, if you need to stay late, I want to be supportive of that.\njoey: (to Phoebe) Look at you. Since when do you roller blade?",
+  "phoebe_transcript": "Oh! Since tomorrow. I met this really cute guy in the park and he like y'know, jogs, and blades, and swims, and so y'know we made a deal that’s he’s going to teach me all sorts of jock stuff.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1547\\merged_before_phoebe_1547.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1547\\actual_phoebe.wav"
+}

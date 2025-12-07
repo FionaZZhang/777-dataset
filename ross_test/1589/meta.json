@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (entering) Ross (who has his foot on the coffee table), foot on the floor or come over no more!",
+  "ross_transcript": "(to Phoebe) Sure, your dresser is missing but this she notices.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1589\\merged_before_ross_1589.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1589\\actual_ross.wav"
+}

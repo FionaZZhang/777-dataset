@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: All right, you got it.\njoey: Ah, now Rach, these ah, these little women.\njoey: How little are they? I mean, are they like scary little?",
+  "phoebe_transcript": "Um, Chandler, Ross, this is Robert.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1560\\merged_before_phoebe_1560.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1560\\actual_phoebe.wav"
+}

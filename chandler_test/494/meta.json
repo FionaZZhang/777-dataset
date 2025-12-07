@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (on phone) Uh, Michelle. Yeah, that was me, I-I dialed your number by mistake. (listens) Oh, you're so sweet. Yeah, we were a great couple. I know I really miss him. Well, you know how it is, it's that....",
+  "chandler_transcript": "(to Phoebe) You know what's weird. Donald Duck never wore pants. But whenever he's getting out of the shower, he always put a towel around his waist. I mean, what is that about?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\494\\merged_before_chandler_494.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\494\\actual_chandler.wav"
+}

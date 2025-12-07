@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Well honey, then why don't you break up with one of them?\njoey: Whoa-whoa-whoa. What ah, what happened to playing the field?",
+  "phoebe_transcript": "Well, it just, it doesn't feel like playing anymore, it feels like work. It's like I'm working in the field.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\960\\merged_before_phoebe_960.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\960\\actual_phoebe.wav"
+}

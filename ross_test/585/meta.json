@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: No. (grabs an eggroll) And then I called him, and he wasn’t there.\nmark: Well, then he’s, he’s probably just, out.\nrachel: Oh, thank you that’s very helpful, I’m glad you came over.\nrachel: Hi! Oh, I’m so glad you called.",
+  "ross_transcript": "Really? I’ve been thinking, this is crazy, I mean don’t, don’t you think we can work on this?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\585\\merged_before_ross_585.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\585\\actual_ross.wav"
+}

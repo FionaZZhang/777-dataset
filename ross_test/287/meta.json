@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Yeah, I know, for a really great stew you just y'know, stick your head in between ‘em.\nmonica: Okay, can we please go eat?\njoey: Yeah. What are we getting?\nmonica: (to Chandler) Anything but stew.",
+  "ross_transcript": "All right so, Chandler, from now on, don’t give your boss a chance to get you. Y'know just ah, don’t turn your back to him.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\287\\merged_before_ross_287.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\287\\actual_ross.wav"
+}

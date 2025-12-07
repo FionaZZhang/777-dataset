@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: That's easy, baggage claim.",
+  "ross_transcript": "(buzzes) Wrong! Now you're single. It's actually secret option number three, you meet her at the gate. That way she knows you love her.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1158\\merged_before_ross_1158.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1158\\actual_ross.wav"
+}

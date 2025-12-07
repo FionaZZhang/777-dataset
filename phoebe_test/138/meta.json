@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Well relax, he’ll be here.",
+  "phoebe_transcript": "No, I know, I’m just nervous. Y'know it’s just y'know Mom’s dead, don’t talk to my sister, Grandma’s been sleeping a lot lately. It’s like the last desperate chance to have a family, y'know, kinda thing. You’re so sweet to wait with me.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\138\\merged_before_phoebe_138.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\138\\actual_phoebe.wav"
+}

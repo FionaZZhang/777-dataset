@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I hope it’s still funny when you’re in hell.\nmonica: (coming out of the bedroom) You jerk! You know how much I love that kid! (starts to chase Ross around the living room)\nrachel: I’ll get the hat.",
+  "chandler_transcript": "Janice, I have something I need to tell you, and I want you to let me get through it, because it’s, it’s, it’s not gonna be easy.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\128\\merged_before_chandler_128.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\128\\actual_chandler.wav"
+}

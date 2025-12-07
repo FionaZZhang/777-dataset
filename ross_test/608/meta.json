@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: I hate this woman!! I hate her! She told everyone in the company about that info-mercial, and now they all keep asking me to open their drinks. Okay, and whenever I can’t do it, they’re all like-like laughing at me.",
+  "ross_transcript": "So Rachel called. Wants to see me. Going over in a minute.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\608\\merged_before_ross_608.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\608\\actual_ross.wav"
+}

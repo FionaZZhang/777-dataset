@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (to Chandler and Joey) I won the game.\nross: Oh yeah! Then how come you didn’t get the Geller Cup?\nrachel: Um, there was a Geller Cup?\nross: Yes, it was the trophy you got if you won the game. But our Dad said, ‘nobody won that game, ‘ and he was sick of our fighting, so he took the trophy and.... (pauses to collect himself, as he is on the verge of tears saying this) threw it in the lake.",
+  "chandler_transcript": "And was the curse lifted?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1444\\merged_before_chandler_1444.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1444\\actual_chandler.wav"
+}

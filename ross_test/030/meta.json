@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Oh, okay, it’s the slide instead of stairs. Watch this. (She slides a doll down the slide)\nmonica: It’s very interesting, Phoebe.\nphoebe: The Licorice Room, you can eat all the furniture. And, when guests come over, they can stay on the tootsie roll-away bed.",
+  "ross_transcript": "This is the coolest house ever!!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\030\\merged_before_ross_030.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\030\\actual_ross.wav"
+}

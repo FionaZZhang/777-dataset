@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (to Chandler) It's her first day at this new job. Your not supposed to start with her!",
+  "chandler_transcript": "All right, I suppose I can wait a day. Hey, what are you doing Friday?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1634\\merged_before_chandler_1634.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1634\\actual_chandler.wav"
+}

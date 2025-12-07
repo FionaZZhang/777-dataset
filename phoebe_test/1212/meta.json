@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: You're taking the word of a guy who has night vision goggles?",
+  "phoebe_transcript": "What, he's not still following her. Do you think he is still following her?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1212\\merged_before_phoebe_1212.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1212\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Amazingly, that makes sense.\njoey: Oh, yeah. Go for it man, jump off the high dive, stare down the barrel of the gun, pee into the wind!\nchandler: Yeah, Joe, I assure you if I'm staring down the barrel of a gun, I'm pretty much peeing every which way.",
+  "phoebe_transcript": "Oh, it's your audition from this morning. Can I use the phone again?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1366\\merged_before_phoebe_1366.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1366\\actual_phoebe.wav"
+}

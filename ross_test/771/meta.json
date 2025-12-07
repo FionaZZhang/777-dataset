@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh, I blew it. I wouldn’t of even hired me.",
+  "ross_transcript": "Oh, come here sweetie, listen, you’re gonna go on like a thousand interviews before you get a job. (she glares at him) That’s not how that was supposed to come out.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\771\\merged_before_ross_771.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\771\\actual_ross.wav"
+}

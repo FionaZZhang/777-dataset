@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Wow. Okay, I don’t know how to talk to you.\nchandler: Oh, I’m taking my ex-girlfriend of my speed dialer.\nchandler: No-no-no-no, no, it’s a good thing. Why must we dial so speedily anyway? Why must we rush through life? Why can’t we savor the precious moments? (to one of Joey’s sisters) Those are some huge breasts you have.",
+  "ross_transcript": "Yeah. So um, I-I heard about this ah, Mark guy that ah, Rachel met today.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1018\\merged_before_ross_1018.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1018\\actual_ross.wav"
+}

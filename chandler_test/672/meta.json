@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: What does the sign say?\nphoebe: No, the ‘No Smoking’ sign. There’s no smoking in my Grandmother’s cab.",
+  "chandler_transcript": "Okay, well, then, I-I have to go to the bathroom.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\672\\merged_before_chandler_672.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\672\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Monica, you don't know that.\nmonica: Well, who's voice was that?\nchandler: Maybe it was his sister's. You know, maybe it was his daughter's.\nmonica: Michelle! Of course, it was Michelle! Did it sound like Michelle?",
+  "ross_transcript": "Oh, great. It's starting to rain, that will make it easy to get a cab.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\456\\merged_before_ross_456.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\456\\actual_ross.wav"
+}

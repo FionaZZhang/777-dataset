@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: What a minute, I know that hat! I was taken aboard that hat! They did experiments on me! I can’t have children!!\nmonica: Seriously, where did you get the hat?\nrachel: Ross gave it to me.",
+  "ross_transcript": "Yeah, I think she looks good.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1722\\merged_before_ross_1722.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1722\\actual_ross.wav"
+}

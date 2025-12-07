@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "pete: Ah, no it's not. I've got picture-in-picture here. (to other caller) Yeah. (listens) Yeah, okay. I'm gonna have to call you back later. (pause) Monica? You. I'm gonna have to call you back.\nmonica: Oh, oh, okay umm, so I'll see you soon.\npete: Okay, I love you.\nmonica: Okay. Well, it's good news. It's good news.",
+  "chandler_transcript": "So, what do you thing the good news is?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\969\\merged_before_chandler_969.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\969\\actual_chandler.wav"
+}

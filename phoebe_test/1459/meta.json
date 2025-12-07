@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: All right people listen, I’ve got exactly twenty-eight minutes before I have to baste again.\nchandler: Wow! Just like in the pros.\njoey: (to his team) All right, huddle up, right over here.",
+  "phoebe_transcript": "Wait for me! Wait for me! Wait for me! Oh cool, this is my first huddle.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1459\\merged_before_phoebe_1459.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1459\\actual_phoebe.wav"
+}

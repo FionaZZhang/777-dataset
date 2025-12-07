@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Oh, I'm so glad you guys like it. Yay! All right I gotta go to work. (tries to take the poem)\njoey: Whoa, I'm not done.\nmonica: All right, just give it back to me when your done. See you guys.",
+  "phoebe_transcript": "Oh my God, oh my God! Poor Monica!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1668\\merged_before_phoebe_1668.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1668\\actual_phoebe.wav"
+}

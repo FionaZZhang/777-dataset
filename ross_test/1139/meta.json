@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Went down to the docks. Bet ya didn't know you could get it wholesale.\nrachel: I didn't know there were docks.",
+  "ross_transcript": "Aww, is it broken?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1139\\merged_before_ross_1139.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1139\\actual_ross.wav"
+}

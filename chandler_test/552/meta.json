@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Yeah, I guess, but what’s like heads and what’s tails?",
+  "chandler_transcript": "Well it you don’t know that, then I don’t want to do this with you.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\552\\merged_before_chandler_552.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\552\\actual_chandler.wav"
+}

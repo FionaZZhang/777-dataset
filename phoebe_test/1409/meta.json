@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Look, it's okay, no, no, no, really, look um, I really appreciate this Pheebs, but I think I'm gonna have to go back to Estelle.\njoey: Yeah, well don't get me wrong, you're a better agent than she is, but at least with her I don't want to blow my pretty dumb brains out.",
+  "phoebe_transcript": "Yeah, no, I understand.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1409\\merged_before_phoebe_1409.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1409\\actual_phoebe.wav"
+}

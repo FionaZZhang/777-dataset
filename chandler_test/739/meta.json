@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Look Rach, wasn’t this supposed to a temporary thing? I thought you wanted to do fashion stuff?\nrachel: Well, yeah! I’m still pursuing that.",
+  "chandler_transcript": "How... exactly are you pursuing that? Y'know other than sending out resumes like what, two years ago?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\739\\merged_before_chandler_739.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\739\\actual_chandler.wav"
+}

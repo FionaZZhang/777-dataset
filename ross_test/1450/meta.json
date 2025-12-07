@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Y'know what, I think we should play a game. I mean come on, it’s been twelve years.",
+  "ross_transcript": "Can I see you for a second?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1450\\merged_before_ross_1450.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1450\\actual_ross.wav"
+}

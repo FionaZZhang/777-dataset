@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Uh, hello, the buzzer buzzed. It doesn’t count.\nmonica: After the snap!\nross: Before the snap!\nrachel: Now, does it really matter?",
+  "phoebe_transcript": "Well, okay, I made a touchdown. It was my first touchdown. So?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1487\\merged_before_phoebe_1487.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1487\\actual_phoebe.wav"
+}

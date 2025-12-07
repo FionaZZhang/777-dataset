@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: No, you're right. Well, we'll find something. Let's just get you out of that. Come on.",
+  "ross_transcript": "No, no, no, no, no, no, not out of that, not out of clothes.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\449\\merged_before_ross_449.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\449\\actual_ross.wav"
+}

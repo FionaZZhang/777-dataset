@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: You have a play date with a stripper?!\nchandler: Man, I gotta get a kid. (looks at the pen and starts laughing)",
+  "ross_transcript": "Ah, yeah, yeah. Umm, we started talking after she y'know, did her thing. And it turns out she's got a boy about Ben's age, so we're taking them to a gym-boree class. Why, is that okay?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1697\\merged_before_ross_1697.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1697\\actual_ross.wav"
+}

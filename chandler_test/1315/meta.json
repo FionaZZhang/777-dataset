@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Yeah, we’ll be fine.\nross: Look Rachel, I wanted to tell you, I thought I should, I-I did, and then Chandler and Joey convinced me not to.",
+  "chandler_transcript": "(handing Monica the wax) Wax the door shut, we’re never leaving, ever.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1315\\merged_before_chandler_1315.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1315\\actual_chandler.wav"
+}

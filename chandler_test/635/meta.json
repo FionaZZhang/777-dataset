@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: She’s going in. Wait! He’s going in! He’s going in!! The door’s closed! I, I can’t see anything but the door closed!!",
+  "chandler_transcript": "And the inventor of the door rests happily in his grave.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\635\\merged_before_chandler_635.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\635\\actual_chandler.wav"
+}

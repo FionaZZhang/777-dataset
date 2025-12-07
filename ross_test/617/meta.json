@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh, y'know, it’s just like hats, and a shirt, and CD’s, just sort of stuff that you’ve left here.",
+  "ross_transcript": "What are you doing? Are you trying to hurt me? Or something?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\617\\merged_before_ross_617.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\617\\actual_ross.wav"
+}

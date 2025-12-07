@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Just admit it Chandler, you have no backhand.",
+  "chandler_transcript": "Excuse me little one, I have a very solid backhand.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\705\\merged_before_chandler_705.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\705\\actual_chandler.wav"
+}

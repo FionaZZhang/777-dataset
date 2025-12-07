@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Yes, and the dimmer switch.\njoey: Whoa! For a rich guy he's got, that's a pretty small TV.\nchandler: (sitting down on the couch) I-kea! This is comfortable.\nrachel: (entering with Phoebe) This place is amazing.",
+  "phoebe_transcript": "No! But it's the nicest kitchen, the refrigerator told me to have a great day.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\964\\merged_before_phoebe_964.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\964\\actual_phoebe.wav"
+}

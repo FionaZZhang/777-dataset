@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (to Ross) Hey, so can you make it on Friday?\nross: What? Oh yeah, yeah I think so. Why am I invited to this again?\nchandler: Well apparently Albert has no friends. He's very excited about the bachelor party though. I think actually the only reason he's getting married is so he can see a stripper.",
+  "phoebe_transcript": "A stripper at a bachelor party, that is so clich. Why don't you get a magician?!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1649\\merged_before_phoebe_1649.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1649\\actual_phoebe.wav"
+}

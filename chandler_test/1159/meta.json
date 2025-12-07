@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (buzzes) Wrong! Now you're single. It's actually secret option number three, you meet her at the gate. That way she knows you love her.",
+  "chandler_transcript": "Okay, this is good, this is good. All right listen, I have one. Janice likes to cuddle, at night, which, you know I'm all for. But, uh, you know when you want to go to sleep, you want some space. So, uh, how do I tell her that without, you know, accidentally calling her fat or something.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1159\\merged_before_chandler_1159.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1159\\actual_chandler.wav"
+}

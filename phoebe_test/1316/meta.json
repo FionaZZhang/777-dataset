@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Look Rachel, I wanted to tell you, I thought I should, I-I did, and then Chandler and Joey convinced me not to.\nchandler: (handing Monica the wax) Wax the door shut, we’re never leaving, ever.",
+  "phoebe_transcript": "Hi, it’s Phoebe. Listen someone’s gonna have to take my 900 with Mr. Rehack, ‘cause it’s like 915 now, and I’m not there.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1316\\merged_before_phoebe_1316.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1316\\actual_phoebe.wav"
+}

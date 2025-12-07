@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Hello! Organic substances recently discovered in the depths of the rain forest!",
+  "phoebe_transcript": "They have the best stuff in there.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1251\\merged_before_phoebe_1251.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1251\\actual_phoebe.wav"
+}

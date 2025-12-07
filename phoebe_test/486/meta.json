@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: What are you supporting?\nross: Okay, hey, that's okay with me. Two down and I have exactly twelve minutes.... Wha, my watch stopped. My watch. (shows Chandler) Okay, see, the, the dinosaur tail isn't going around any more. (grabs Chandler's watch) What time is it? It's 733, I have seven minutes. I have seven minutes!!\nrachel: (entering from her room) Okay, Pheebs, quick, what shoes should I wear? The black or the purple?",
+  "phoebe_transcript": "Okay, okay, okay, the black. But, oh, do you have black, with the little strappys?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\486\\merged_before_phoebe_486.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\486\\actual_phoebe.wav"
+}

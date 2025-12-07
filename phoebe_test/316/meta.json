@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Come on Phoebe, look at that! They are not breaking up, look at them. Okay that’s, you know what that is? That is a, that is a second date, that’s what that is! Look at that, she just put her hand on his thigh...\nrachel: Ohh! (walking away from the window) Phoebe, this is all your fault! Now he loves her, he’s gonna marry her, and this is all your fault.",
+  "phoebe_transcript": "You said it was okay!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\316\\merged_before_phoebe_316.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\316\\actual_phoebe.wav"
+}

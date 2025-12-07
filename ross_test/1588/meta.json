@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Two. This photographer, who seemed really dull. And this actor guy, who I’m not sure about, because when he called and I answered the phone ‘Chandler Bing,’ he said ‘Whoa-whoa, short message.’\nmonica: (entering) Ross (who has his foot on the coffee table), foot on the floor or come over no more!",
+  "ross_transcript": "(to Phoebe) Sure, your dresser is missing but this she notices.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1588\\merged_before_ross_1588.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1588\\actual_ross.wav"
+}

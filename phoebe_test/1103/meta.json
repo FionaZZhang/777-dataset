@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Okay. Hang up! That’s it! Come on!",
+  "phoebe_transcript": "No! Rachel, that’s what they want me to do. My warranty expires tomorrow, if I don’t get through, they’re not gonna fix my crappy, broken phone for free! We cannot let them win! It’s us versus them!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1103\\merged_before_phoebe_1103.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1103\\actual_phoebe.wav"
+}

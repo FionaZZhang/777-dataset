@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: You broke a little girl’s leg?!!\nross: I know. I feel horrible. Okay.",
+  "chandler_transcript": "last night. (to Ross) Where exactly were around ten-ish?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\706\\merged_before_chandler_706.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\706\\actual_chandler.wav"
+}

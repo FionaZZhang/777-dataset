@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh honey, thank you, but Mark's taking me out.\nross: Mark is that ah, the same Mark that helped you get the job?\nrachel: Yeah, it's kinda like a 'good luck on your first day' sort of thing. (to Phoebe) Is this actually a lunchbox?",
+  "phoebe_transcript": "Umm, no, it's a purse. And there's a thermos in it.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1645\\merged_before_phoebe_1645.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1645\\actual_phoebe.wav"
+}

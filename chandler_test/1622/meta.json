@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: No, no, no, don’t get up, I got a cooler right here.",
+  "chandler_transcript": "Do you have any beers? We’re out of beers.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1622\\merged_before_chandler_1622.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1622\\actual_chandler.wav"
+}

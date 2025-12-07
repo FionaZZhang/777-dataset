@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Oh my God.",
+  "phoebe_transcript": "Oh, I knew something had to be wrong, because my fingernails did not grow at all yesterday.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1283\\merged_before_phoebe_1283.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1283\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Ah well, the ah, Pennsylvania Dutch, come from Pennsylvania.",
+  "chandler_transcript": "And the other ah, Dutch people, they come on from somewhere near the Netherlands, right?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1518\\merged_before_chandler_1518.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1518\\actual_chandler.wav"
+}

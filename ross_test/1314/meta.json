@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Y'know what, I think we can go out there. I mean they have more important things to worry about.\njoey: Yeah, we’ll be fine.",
+  "ross_transcript": "Look Rachel, I wanted to tell you, I thought I should, I-I did, and then Chandler and Joey convinced me not to.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1314\\merged_before_ross_1314.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1314\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Y'know I don’t, I don’t understand guys, I mean I-I would never congratulate Monica on a great stew by y'know, grabbin’ her boob.",
+  "chandler_transcript": "Yeah, I know, for a really great stew you just y'know, stick your head in between ‘em.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\286\\merged_before_chandler_286.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\286\\actual_chandler.wav"
+}

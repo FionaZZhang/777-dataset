@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Ah, somebody’s at the door on the ceiling.\nrachel: Noo, that’s our unbelievably loud upstairs neighbor.\nmonica: He took up the carpet, and now you can hear everything.\nmonica: I have like five times, but the guy is so charming, that I go up there to yell and then I end up apologizing to him.",
+  "phoebe_transcript": "Ooh, that is silly. (gets up) I’ll go up there, I’ll tell him to keep it down.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\996\\merged_before_phoebe_996.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\996\\actual_phoebe.wav"
+}

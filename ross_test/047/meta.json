@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Oh, that’s okay. By the way, I was just checking the shower massager.\nmonica: (runs over to her) I tried to reach you at work. There’s....been a fire.\nphoebe: What?! Oh my... (sees the remains of the house) Oh my God!! What happened?!",
+  "ross_transcript": "Well, we believe it originated here. (He uses a pointer and points to the point of origin.) In the Aroma Room.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\047\\merged_before_ross_047.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\047\\actual_ross.wav"
+}

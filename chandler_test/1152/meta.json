@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Honey, come on, I have to be at work in like ten minutes (Ross starts kissing her neck) Oh, all right, well it's not like I'm employee of the year or anything. (they fall onto the couch)\nross: There it is.",
+  "chandler_transcript": "Do I look fat?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1152\\merged_before_chandler_1152.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1152\\actual_chandler.wav"
+}

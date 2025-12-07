@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Hey-hey, it’s valid okay? And I’m not the only one who thinks so, Monica agrees with me.\nross: That’s what you said last night.\nmonica: What I said was, was that I understood. Joey’s the one who agreed with you!",
+  "phoebe_transcript": "Y'know what, but there is, there is no right or wrong, here.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\701\\merged_before_phoebe_701.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\701\\actual_phoebe.wav"
+}

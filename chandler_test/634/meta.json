@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Here they come, here they come. Oh-ho, if she kisses him goodnight, I’m gonna kill myself, I swear. I can’t, I can’t watch this. (turns away, then quickly turns to look again) Come on, date over! Date over! Uh-oh, here we go, she’s going in.\nross: She’s going in. Wait! He’s going in! He’s going in!! The door’s closed! I, I can’t see anything but the door closed!!",
+  "chandler_transcript": "And the inventor of the door rests happily in his grave.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\634\\merged_before_chandler_634.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\634\\actual_chandler.wav"
+}

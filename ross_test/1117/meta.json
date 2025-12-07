@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Okay. (to Phoebe and Chandler) Did ah, you guys mean you plus one?",
+  "ross_transcript": "All right, I’ll see you tonight.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1117\\merged_before_ross_1117.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1117\\actual_ross.wav"
+}

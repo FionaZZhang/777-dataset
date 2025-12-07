@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: I can't. It's like this chemical thing, you know. Every time she starts laughing, I just wanna (grimaces and tenses up) pull my arm off just so that I can have something to throw at her.",
+  "chandler_transcript": "Thanks for trying. (grabs the ticket and starts to leave) Oh, and by the way there is no Count Rushmore!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\805\\merged_before_chandler_805.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\805\\actual_chandler.wav"
+}

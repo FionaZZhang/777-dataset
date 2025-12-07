@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: I got a gig!\nchandler: See, that’s why I could never be an actor. Because I can’t say gig.\njoey: Well, it’s not a part, no. I’m teaching acting for soap operas down at the Learning Extension.",
+  "ross_transcript": "Come on! That’s great.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1076\\merged_before_ross_1076.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1076\\actual_ross.wav"
+}

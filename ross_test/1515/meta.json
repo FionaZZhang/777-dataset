@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Yeah, Chandler finds me so intimdating that it’s better if we’re on the same team.",
+  "ross_transcript": "Right. Okay, let’s play. Let’s go.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1515\\merged_before_ross_1515.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1515\\actual_ross.wav"
+}

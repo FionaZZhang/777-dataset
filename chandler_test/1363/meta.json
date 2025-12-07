@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (to Joey) Where there is no fear of commitment.",
+  "chandler_transcript": "Do we have any...(turns around and bumps Monica's fake chest) Do we have any thoughts here?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1363\\merged_before_chandler_1363.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1363\\actual_chandler.wav"
+}

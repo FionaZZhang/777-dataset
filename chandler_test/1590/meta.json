@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (to Phoebe) Sure, your dresser is missing but this she notices.\nross: I have to go. Yeah, Carol should be home by now, soo...",
+  "chandler_transcript": "Umm, how’s it going with you guys?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1590\\merged_before_chandler_1590.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1590\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: You get the dollhouse.",
+  "phoebe_transcript": "Wow, a house for dolls, that is so cool! When I was kid, I had a barrel.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\010\\merged_before_phoebe_010.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\010\\actual_phoebe.wav"
+}

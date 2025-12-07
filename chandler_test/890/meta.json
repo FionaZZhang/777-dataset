@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: But y'know, I could use a hand getting ready.\nrachel: Look, either help me or go.\nrachel: (with a hurt expression on her face) Okay, but before you go, could you help me first?\nross: (He checks his watch) Sure. I’ll help you.",
+  "chandler_transcript": "(rushing in) Oh, good! Good! Do you guys know how to get a chick out of a VCR?!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\890\\merged_before_chandler_890.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\890\\actual_chandler.wav"
+}

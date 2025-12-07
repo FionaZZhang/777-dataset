@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (to the rest of the gang) We’re just gonna be friends.\njoey: I bet ‘ya ya I could fit in there. (points to a hole in the center)",
+  "chandler_transcript": "I’ve got five bucks says you can’t.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\207\\merged_before_chandler_207.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\207\\actual_chandler.wav"
+}

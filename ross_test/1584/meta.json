@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: You didn’t leave lipstick marks on the phone.\nmonica: Oh, then it must’ve been you. Bye. (leaves)",
+  "ross_transcript": "Hey, y'know while we’re on that, when are you gonna tell my sister that you don’t live here anymore.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1584\\merged_before_ross_1584.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1584\\actual_ross.wav"
+}

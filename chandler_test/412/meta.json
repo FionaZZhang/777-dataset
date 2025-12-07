@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Wow, hello! You look great!\nphoebe: Thank you! I know, though.\nross: You see this, this is a person who is ready to go. Phoebe you, oh, you are my star.\nphoebe: Ohh, well, you're my lucky penny.",
+  "chandler_transcript": "(entering from bathroom, with an issue of Cosmo) All right, I took the quiz, and it turns out, I do put career before men. (to Joey) Get up.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\412\\merged_before_chandler_412.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\412\\actual_chandler.wav"
+}

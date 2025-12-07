@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: You had to do it, didn’t you? You couldn’t just leave it alone.",
+  "ross_transcript": "Four percent. Okay. I tip more than that when there’s a bug in my food.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1085\\merged_before_ross_1085.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1085\\actual_ross.wav"
+}

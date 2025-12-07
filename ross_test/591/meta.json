@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "mark: Is it okay if I finish the apple juice?",
+  "ross_transcript": "Is that Mark?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\591\\merged_before_ross_591.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\591\\actual_ross.wav"
+}

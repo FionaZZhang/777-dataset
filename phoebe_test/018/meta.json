@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: (holding a tissue) And is this in case the house sneezes?",
+  "phoebe_transcript": "No, no, that’s the ghost for the attic.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\018\\merged_before_phoebe_018.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\018\\actual_phoebe.wav"
+}

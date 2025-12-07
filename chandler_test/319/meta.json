@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Oh, nothing, no. It’s an acting exercise, I’m practising my fake laugh.\njoey: What-what’s so funny?\ngunther: (to Chandler) Oh, no-no, no-no-no, there’s none of that in here.",
+  "chandler_transcript": "Oh come on man! At least let me finish this last one.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\319\\merged_before_chandler_319.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\319\\actual_chandler.wav"
+}

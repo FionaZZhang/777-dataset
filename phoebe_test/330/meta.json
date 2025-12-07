@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "frank_jr: Well, we got into a fight ‘cause ah, she said I was to immature to get married.",
+  "phoebe_transcript": "My little brother’s getting married!!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\330\\merged_before_phoebe_330.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\330\\actual_phoebe.wav"
+}

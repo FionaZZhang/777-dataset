@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Why would you even want to come Ross? You’re a horrible skier.\nross: Oh-oh, hitting me where it hurts, my ski skills.\nmonica: Here we go again.",
+  "chandler_transcript": "Y'know what, I can handle it, handle’s my middle name. Actually it’s the ah, middle part of my first name.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\694\\merged_before_chandler_694.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\694\\actual_chandler.wav"
+}

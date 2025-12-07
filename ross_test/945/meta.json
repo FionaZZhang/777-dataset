@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: (with a disgusted look) What was it?",
+  "ross_transcript": "Well, I don't know, it's-it's kinda in a place that's not... It's not visually accessible to me, and I was hoping maybe you guys could-could help me out. (starts to take off his pants)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\945\\merged_before_ross_945.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\945\\actual_ross.wav"
+}

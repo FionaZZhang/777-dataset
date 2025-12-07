@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: You're pretending the pillow's a girl right?\njoey: Remember when you where a kid and your Mom would drop you off at the movies with a jar of jam and a little spoon?\nrachel: (Looks at him) You're so pretty.",
+  "phoebe_transcript": "Hey, oh, you know that guy who's been following me? I talked to him today.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1171\\merged_before_phoebe_1171.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1171\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: No, Yeeees. God, how do I say this. (walks into the kitchen, Chandler follows closely, he turns around and gets startled). Oh, hi, you know that girl from the Greek restaurant with the hair (holds his hands up to signify she has big hair)?",
+  "chandler_transcript": "Ooh, that girl that I hate, eww, drives me crazy, eww, eww, oh!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\798\\merged_before_chandler_798.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\798\\actual_chandler.wav"
+}

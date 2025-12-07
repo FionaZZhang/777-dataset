@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Ah, now Rach, these ah, these little women.\njoey: How little are they? I mean, are they like scary little?\nphoebe: Um, Chandler, Ross, this is Robert.\nphoebe: (to Robert) You’ve have lipstick right here (points to her cheek). That’s okay, it’s mine, we just kissed.",
+  "chandler_transcript": "(to Robert) So ah, isn’t a bit cold out for shorts?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1561\\merged_before_chandler_1561.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1561\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: It’s very interesting, Phoebe.",
+  "phoebe_transcript": "The Licorice Room, you can eat all the furniture. And, when guests come over, they can stay on the tootsie roll-away bed.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\031\\merged_before_phoebe_031.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\031\\actual_phoebe.wav"
+}

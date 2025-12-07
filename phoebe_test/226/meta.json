@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Wow, she must have hurt you pretty bad, huh?",
+  "phoebe_transcript": "Well, yeah. Y'know, we were best friends, ever since we were little, our Moms worked on the barge together.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\226\\merged_before_phoebe_226.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\226\\actual_phoebe.wav"
+}

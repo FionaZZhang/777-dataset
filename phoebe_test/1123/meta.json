@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Yeah! I stayed at Kate’s, but ah, nothing happened. Hey, Pheebs, where were ya?",
+  "phoebe_transcript": "I’m so, so, so sorry, Joey. I definitely am gonna see you’re play. I swear you’re play is very important to us, thank you for your patience. You’re play is the next play is the next play I’m gonna see.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1123\\merged_before_phoebe_1123.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1123\\actual_phoebe.wav"
+}

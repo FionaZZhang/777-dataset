@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: She cancelled! My namesake cancelled on me!\nphoebe: Yeah, she clamed she had to go out of town suddenly. She’s avoiding me, she doesn’t want to tell me where my Father is. She knows, and she won’t tell me.\nrachel: Aww Pheebs, that sucks!\nphoebe: Well, she’s out of town so, there’s gotta be something in her house that tells me where my Father is.",
+  "ross_transcript": "Uh, Pheebs, some people call that breaking and entering.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1754\\merged_before_ross_1754.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1754\\actual_ross.wav"
+}

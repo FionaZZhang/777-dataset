@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: So Ross, how umm, how did it go with Bonnie?",
+  "ross_transcript": "What? Oh! I gotta tell you, I-I wasn’t expecting to like her at all, I mean I actually wasn’t expecting to like anyone right now, but she’s really terrific.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\306\\merged_before_ross_306.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\306\\actual_ross.wav"
+}

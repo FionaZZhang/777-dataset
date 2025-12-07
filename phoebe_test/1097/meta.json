@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Why is this car in my bedroom?",
+  "phoebe_transcript": "I’m sorry, okay, I-I wasn’t looking, and the store says that they won’t take it back because you signed for it...",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1097\\merged_before_phoebe_1097.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1097\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "leslie: I ran into Vlad at the place where they sell the big fish, and he said you played here a lot, so umm....",
+  "chandler_transcript": "(to Ross) All right listen, I have to go to the bathroom, but if the place with the big fish comes up again. I’d like know whether that’s several big fish or just one big fish.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\212\\merged_before_chandler_212.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\212\\actual_chandler.wav"
+}

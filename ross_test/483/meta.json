@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Because, I'm not wearing any underwear now.",
+  "ross_transcript": "Okay, then why do you have to wear underwear tonight?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\483\\merged_before_ross_483.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\483\\actual_ross.wav"
+}

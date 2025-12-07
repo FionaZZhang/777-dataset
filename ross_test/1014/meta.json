@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Yeah! His name is um, Mark something.",
+  "ross_transcript": "Huh. Sounds like Mark Something wants to have some sex.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1014\\merged_before_ross_1014.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1014\\actual_ross.wav"
+}

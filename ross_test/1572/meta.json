@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: What? (the guys keep laughing.) What? You guys, what is going on? You not like Robert? (the guys keep laughing.) Why are you laughing?!",
+  "ross_transcript": "Calm down. There’s no reason to get testy.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1572\\merged_before_ross_1572.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1572\\actual_ross.wav"
+}

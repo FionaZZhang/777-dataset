@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: just gave her a nudge.",
+  "ross_transcript": "She said you gave her the razor!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1757\\merged_before_ross_1757.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1757\\actual_ross.wav"
+}

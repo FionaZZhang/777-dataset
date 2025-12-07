@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Just because she went to Yale drama, she thinks she’s like the greatest actress since, since, sliced bread!",
+  "chandler_transcript": "Ah, Sliced Bread, a wonderful Lady MacBeth.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\641\\merged_before_chandler_641.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\641\\actual_chandler.wav"
+}

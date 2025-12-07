@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "frank_jr: You-you work at one of those massage parlors?",
+  "phoebe_transcript": "Well, y'know we don’t call it that, but yeah!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\175\\merged_before_phoebe_175.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\175\\actual_phoebe.wav"
+}

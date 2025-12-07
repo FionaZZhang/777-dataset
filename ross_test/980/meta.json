@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: (to Ross) I’m telling you, if you want to take care of that thing, you should go to my herbal guy.",
+  "ross_transcript": "Thank you, but I want to remove it Pheebs. I don’t want to make it savory.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\980\\merged_before_ross_980.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\980\\actual_ross.wav"
+}

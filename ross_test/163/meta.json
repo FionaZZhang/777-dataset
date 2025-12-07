@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Three of your five, what?",
+  "ross_transcript": "Celebrities I’m allowed to sleep with.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\163\\merged_before_ross_163.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\163\\actual_ross.wav"
+}

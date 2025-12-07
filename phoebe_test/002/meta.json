@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Yeah! Oh my God! (to Chandler) Is this what it’s like to be you?\njoey: Oh, you have no idea. And-and when we’re on stage I get to-to kiss her and-and touch her, but then she goes home with the director, and it’s like somebody’s ripping out my heart!",
+  "phoebe_transcript": "to see you feeling like this!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\002\\merged_before_phoebe_002.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\002\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: No, no, it’s just my tooth.\nross: So what’s a matter, you need a dentist? I’ve got a good one.\nphoebe: No thanks, I have a good one too. I just, I, I can’t see him.",
+  "chandler_transcript": "See that is the problem with invisible dentists.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\054\\merged_before_chandler_054.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\054\\actual_chandler.wav"
+}

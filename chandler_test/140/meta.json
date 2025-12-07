@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Well, actually Gunther sent me. You’re not allowed to have cups out here, it’s a thing. (takes her cup and goes back inside)",
+  "chandler_transcript": "Does anyone else think David Copperfield is cute?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\140\\merged_before_chandler_140.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\140\\actual_chandler.wav"
+}

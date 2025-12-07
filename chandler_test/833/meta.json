@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Uh, huh. (to Ross) Or maybe to a galaxy far, far away. (Rachel, Monica, and Phoebe leave)\nross: Women tell each other everything. Did you know that?\nross: No Chandler, everything! Like stuff you like, stuff she likes, technique, stamina, girth....",
+  "chandler_transcript": "Girth? Why, why, why, wh-why, why, why, why would they do this?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\833\\merged_before_chandler_833.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\833\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: That is so weird, because every time I go to the dentist, I look down the hygienist’s blouse.",
+  "phoebe_transcript": "Yeah, yeah, first there was my aunt Mary, and then there was umm, John, my mailman, and then my, my cowboy friend ‘Albino Bob’.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\060\\merged_before_phoebe_060.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\060\\actual_phoebe.wav"
+}

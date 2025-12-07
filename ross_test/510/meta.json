@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Oh, wait, let me get you another glass. That's been sitting out.",
+  "ross_transcript": "I think this will be fine. Okay, vanilla milkshake, just a vanilla milkshake, with chicken bits floating in it. Cheers. (starts to drink, but Rachel stops him just before he starts drinking)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\510\\merged_before_ross_510.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\510\\actual_ross.wav"
+}

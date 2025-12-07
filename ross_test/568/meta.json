@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Wh, Ross what do you want from me? You want me, you want me to quit my job so you can feel like you have a girlfriend?",
+  "ross_transcript": "No, but it’d be nice if you realised, it’s just a job!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\568\\merged_before_ross_568.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\568\\actual_ross.wav"
+}

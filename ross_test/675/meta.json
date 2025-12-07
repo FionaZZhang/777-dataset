@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "carol: Oh God, Ross I am so sorry.\ncarol: Y'know what, I want to talk to you about this so much, but we should probably do it when we could really get into it, are you free for dinner tomorrow night?",
+  "ross_transcript": "I guess it all started when Rachel got this new job. (he sits down at the table.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\675\\merged_before_ross_675.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\675\\actual_ross.wav"
+}

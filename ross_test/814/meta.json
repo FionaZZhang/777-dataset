@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Were both of those Joey?",
+  "ross_transcript": "Yeah. Look, you don't, you don't talk about like, you know, your girlfriend and the intimate stuff you, you do with her.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\814\\merged_before_ross_814.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\814\\actual_ross.wav"
+}

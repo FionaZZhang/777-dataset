@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Aww, is it broken?\njoey: No, I gotta wear this thing for a couple weeks. (points to the sling he is wearing)\nrachel: Did you tell the doctor you did it jumping up and down on your bed?\njoey: Nooo. I had a story all worked out but then Chandler sold me out.",
+  "chandler_transcript": "Well, I'm sorry Joe. I didn't think the doctor was gonna buy that it just *fell* out of the socket.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1141\\merged_before_chandler_1141.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1141\\actual_chandler.wav"
+}

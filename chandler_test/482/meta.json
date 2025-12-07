@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Okay, now hold on. Joey, why, why can't you just wear the underwear you're wearing now?\njoey: Because, I'm not wearing any underwear now.\nross: Okay, then why do you have to wear underwear tonight?\njoey: It's a rented tux. Okay. I'm not gonna go commando in another man's fatigues.",
+  "chandler_transcript": "Well, then it looks like somebody is gonna have to give back somebody his cushions.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\482\\merged_before_chandler_482.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\482\\actual_chandler.wav"
+}

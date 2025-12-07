@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: This is the worst Christmas ever.\nchandler: Y'know what Rach, maybe you should just, y'know stay here at the coffee house.\nrachel: I can’t! It’s too late! Terry already hired that girl over there. (points to her) Look at her, she’s even got waitress experience. Last night she was teaching everybody how to make napkin.... (starts to cry) swans.",
+  "ross_transcript": "That word was swans.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\773\\merged_before_ross_773.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\773\\actual_ross.wav"
+}

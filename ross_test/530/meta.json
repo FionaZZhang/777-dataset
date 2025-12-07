@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: (pointing to the globe) See there it is right there.\nphoebe: Yeah. But Sergei said it took the Germans six weeks to get all the way across it.\nmonica: So you had fun, huh?\nphoebe: Yeah. Except for, y'know when you’re on a date and you’re getting along really great but the guy’s translator keeps getting in the way.",
+  "ross_transcript": "What is ah, Rach in her room?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\530\\merged_before_ross_530.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\530\\actual_ross.wav"
+}

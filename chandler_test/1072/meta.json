@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: So I told Carl, ‘Nobody, no matter how famous their parents are, nobody is allowed to climb on the dinosaur.’ But of course this went in one ear and out.....\nrachel: I love how he cares so much about stuff. If I squint I can pretend he’s Alan Alda.\nmonica: Oh good, another dinosaur story. When are those gonna become extinct?",
+  "chandler_transcript": "be invisible, that would be the best.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1072\\merged_before_chandler_1072.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1072\\actual_chandler.wav"
+}

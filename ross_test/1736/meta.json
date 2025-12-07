@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Okay. (Starts to spin) Ooh, y'know we could just do this. (She stops at Chandler)\nchandler: Okay, umm, we all have to play strip poker.\nmonica: Strip Happy Days Game?\njoey: Yeah, well, I couldn’t find any cards, so it was either this or Strip Bag Of Old Knitting Stuff.",
+  "ross_transcript": "Okay, (reading the card) Fonzy gives you two thumbs up, collect two cool points. Yeah.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1736\\merged_before_ross_1736.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1736\\actual_ross.wav"
+}

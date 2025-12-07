@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Well if-if that’s what it is, then it’s-it’s crazy.\nross: Monica’s right. We’re talking about getting married here. Okay? She-she can’t just rush into this.\nrachel: Oh please, what do you know! You married a lesbian!\nphoebe: All right. I gotta go. I have break up with Vince.",
+  "chandler_transcript": "Oh, so you’re going with the teacher, huh?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\976\\merged_before_chandler_976.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\976\\actual_chandler.wav"
+}

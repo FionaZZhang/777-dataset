@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Jeez, what a baby.\njoey: Yeah, Ross, way to ruin it. I was just going to get dressed.",
+  "ross_transcript": "You know what I don't care. The only person I cared about getting dressed, is the one person that says she's not even gonna go. Look Rach, I'm sorry. Okay. Look, I-I wa, I was a jerk. I'm sorry I yelled. I want you there, I need you there. Look, what, what can I do that can show you how much, how much I want you to be there.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\507\\merged_before_ross_507.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\507\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (on phone) Uh, Michelle. Yeah, that was me, I-I dialed your number by mistake. (listens) Oh, you're so sweet. Yeah, we were a great couple. I know I really miss him. Well, you know how it is, it's that....\nchandler: (to Phoebe) You know what's weird. Donald Duck never wore pants. But whenever he's getting out of the shower, he always put a towel around his waist. I mean, what is that about?\nmonica: (on phone) Michelle, I only beeped in so I could hear my message. I mean that's allowed. Yeah-huh! I mean look, yeah, you know what I would really appreciate it if you didn't tell your Dad about. What do you mean, you're not comfortable with this? Come on we're friends!! (Michelle hangs up) That bitch always hated me. I'm calling her back.\nchandler: They got a phone in there, right?",
+  "phoebe_transcript": "Okay, we're on it. We're on it.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\494\\merged_before_phoebe_494.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\494\\actual_phoebe.wav"
+}

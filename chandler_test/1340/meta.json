@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: No, no, no, I know, I know, ooh. (on the phone in a different voice) 'Hi, this is Katelynn, from Phoebe Buffay's office. Um, is um, Ann there for Phoebe, she'll know what it's about.'\nphoebe: (on phone) 'Annie! Hi. Listen we got a problem with Joey Tribbiani, apparently he missed his audition. Who did you speak to in my office? Estelle, no, I don't know what I'm going to do with her. No. All right, so your husband leaves and burns down the apartment, the world does not stop.'",
+  "chandler_transcript": "Is anybody else scared?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1340\\merged_before_chandler_1340.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1340\\actual_chandler.wav"
+}

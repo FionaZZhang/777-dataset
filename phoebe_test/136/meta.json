@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I thought you only met him once?",
+  "phoebe_transcript": "Yeah, I did. I think it sounds y'know big sistery, y'know, ‘Frank’s always late.’",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\136\\merged_before_phoebe_136.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\136\\actual_phoebe.wav"
+}

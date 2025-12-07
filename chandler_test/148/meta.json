@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Now, you do realize that she’s a cartoon, and way out of your league?",
+  "chandler_transcript": "I know, I know, I just always wondered if I could get her eyes to pop out of her head.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\148\\merged_before_chandler_148.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\148\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Oh, can I borrow this? (points to his milk) My milk’s gone bad.",
+  "chandler_transcript": "Oh, I hate that. I once had a thing of half and half, stole my car.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\252\\merged_before_chandler_252.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\252\\actual_chandler.wav"
+}

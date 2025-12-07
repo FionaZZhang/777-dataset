@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Honey, I'm sorry, but he's right. I love you, but you're crazy.\nmonica: What?! Why? Why is this crazy? So this isn't the ideal way to something....",
+  "ross_transcript": "(interrupting her) Oh, it's not the ideal way...",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1196\\merged_before_ross_1196.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1196\\actual_ross.wav"
+}

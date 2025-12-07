@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Oh, yeah. Go for it man, jump off the high dive, stare down the barrel of the gun, pee into the wind!",
+  "chandler_transcript": "Yeah, Joe, I assure you if I'm staring down the barrel of a gun, I'm pretty much peeing every which way.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1367\\merged_before_chandler_1367.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1367\\actual_chandler.wav"
+}

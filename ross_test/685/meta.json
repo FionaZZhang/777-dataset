@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "carol: No. But it’s okay, I’ll just put out pickles or something.\nphoebe: (answering the phone) (whispering) Ross, thank God.",
+  "ross_transcript": "Pheebs? What, why are you whispering?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\685\\merged_before_ross_685.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\685\\actual_ross.wav"
+}

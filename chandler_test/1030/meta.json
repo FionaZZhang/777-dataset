@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: How can you not know which one?\nmonica: I mean, was it Gina?\nrachel: Dark, big hair, with the airplane earrings.",
+  "chandler_transcript": "(to Monica) You see you can’t tell which one is which either, dwha!!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1030\\merged_before_chandler_1030.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1030\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Oh my God! That’s Pete! But why is Bill huggin’ Pete?",
+  "chandler_transcript": "This guy invented Moss 865! Every office in the world uses that program!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\360\\merged_before_chandler_360.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\360\\actual_chandler.wav"
+}

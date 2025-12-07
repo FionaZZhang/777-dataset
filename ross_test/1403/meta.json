@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Not personal, really, well they said that they never met an Italian actor with a worse Italian accent.\nphoebe: Yeah. Ooh God, there's that face again! See I can't do this job! I...\njoey: No, no, no, see that's why you have to do this job, agents always lie. You know, Estelle just says stuff like 'They went another way', but this, I can use this. (in a very bad Italian accent) I canna work on a new accent.\nphoebe: Yeah okay, no if it helps you okay. Yeah.",
+  "ross_transcript": "(running into the hall, in slow motion) You'll never get me, Joe!!! (he then pretends that he gets shot repeatedly and falls back against Joey and Chandler's door, dead.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1403\\merged_before_ross_1403.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1403\\actual_ross.wav"
+}

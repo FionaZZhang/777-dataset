@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Look, Ross look, I’m on board about this totally honesty thing, I am, just not about stuff that’s gonna get you in trouble.\nchandler: He’s right. Nobody’s gonna benefit, and you’re just gonna hurt her.\njoey: Yeah, and there won’t be a relationship left to rebuild.",
+  "ross_transcript": "Yeah, but don’t you think....",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1258\\merged_before_ross_1258.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1258\\actual_ross.wav"
+}

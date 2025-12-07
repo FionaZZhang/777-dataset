@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Ick, you were eavesdropping.\nrachel: Eavesdropping. Pheebs, the ceiling tiles were falling down.\nphoebe: Oh, I’m sorry. But I really like this guy. And I think he really happens to like me.",
+  "ross_transcript": "Maybe he’s just jumping on a pogo-stick and really likes it?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1068\\merged_before_ross_1068.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1068\\actual_ross.wav"
+}

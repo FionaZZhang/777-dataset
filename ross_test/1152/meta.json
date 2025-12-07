@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Honey, come on, I have to be at work in like ten minutes (Ross starts kissing her neck) Oh, all right, well it's not like I'm employee of the year or anything. (they fall onto the couch)",
+  "ross_transcript": "There it is.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1152\\merged_before_ross_1152.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1152\\actual_ross.wav"
+}

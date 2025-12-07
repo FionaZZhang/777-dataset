@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: So who’s idea was it to put everybody in the diner on skates?\nmonica: Oh, some idiot customer put a suggestion in the suggestion box.",
+  "phoebe_transcript": "Oh my God, they took my idea!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\846\\merged_before_phoebe_846.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\846\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Is that true? If I keep reading is Beth gonna die?\nchandler: No, Beth doesn’t die, she doesn’t die. Does she Rachel?",
+  "ross_transcript": "Joey’s asking if you’ve just ruined the first book he’s ever loved that didn’t star Jack Nicholson?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1575\\merged_before_ross_1575.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1575\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I won’t give you anything, but you’ll owe me 2.95.",
+  "phoebe_transcript": "(entering) Hey. I need an atlas! I need an atlas!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\517\\merged_before_phoebe_517.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\517\\actual_phoebe.wav"
+}

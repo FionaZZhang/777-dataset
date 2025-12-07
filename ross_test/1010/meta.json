@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (entering, to Ross) The most unbelievable thing happened to me today.\nrachel: and there happens to be an opening in his department. So I gave him my phone number and he’s gonna call me this weekend to see if he can get me an interview!",
+  "ross_transcript": "What, so this guy is helping you for no apparent reason?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1010\\merged_before_ross_1010.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1010\\actual_ross.wav"
+}

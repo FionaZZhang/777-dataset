@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Oh, okay Ross. Listen, this pen is kinda getting boring, so can you pick me up some porn?",
+  "ross_transcript": "Oh, I've got to go pick up Ben, we've got a play date this afternoon.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1693\\merged_before_ross_1693.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1693\\actual_ross.wav"
+}

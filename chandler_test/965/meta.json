@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Whoa! For a rich guy he's got, that's a pretty small TV.",
+  "chandler_transcript": "(sitting down on the couch) I-kea! This is comfortable.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\965\\merged_before_chandler_965.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\965\\actual_chandler.wav"
+}

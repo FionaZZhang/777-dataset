@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Why? Do you think he’s still mad at us?",
+  "chandler_transcript": "(to Joey) Well he’s probably mad after you called him this morning to borrow his goggles.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\670\\merged_before_chandler_670.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\670\\actual_chandler.wav"
+}

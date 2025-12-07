@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: No, no, that’s the ghost for the attic.\nmonica: I don’t want a ghost.\nphoebe: Well, nobody wants a ghost. But you’ve got one, because the house is sitting on an ancient Indian burial ground.",
+  "ross_transcript": "Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\019\\merged_before_ross_019.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\019\\actual_ross.wav"
+}

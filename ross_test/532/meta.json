@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: So you had fun, huh?\nphoebe: Yeah. Except for, y'know when you’re on a date and you’re getting along really great but the guy’s translator keeps getting in the way.",
+  "ross_transcript": "What is ah, Rach in her room?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\532\\merged_before_ross_532.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\532\\actual_ross.wav"
+}

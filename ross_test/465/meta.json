@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: The cushions are the essence of the chair!\njoey: That's right! I'm taking the essence.\nchandler: Oh-ho, it'll be back. Oh-ho, there's nobody in the room.",
+  "ross_transcript": "Look, I'm sorry, I thought it looked pretty.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\465\\merged_before_ross_465.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\465\\actual_ross.wav"
+}

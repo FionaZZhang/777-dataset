@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: What if they don’t?\njoey: You think I need a new walk?\njoey: Well y'know, I’ve been walking the same way since high school. Y'know, y'know how some guys they walk into a room and everybody takes notice. I think I need a ‘take notice’ walk.\nchandler: Are you actually saying these words?",
+  "ross_transcript": "What, now you’re not even taking to me? (moves over to the coffee table) Look Rachel, I-I’m sorry, okay, I’m sorry, I was out of my mind. I thought I’d lost you, I didn’t know what to do. Come on! Come on, how insane must I have been to do something like this? Huh? I-I don’t cheat right, I, that’s not me, I’m not Joey!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1325\\merged_before_ross_1325.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1325\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Yeah well if, if, if Mark said that, than Mark's an idiot.\njoey: Mark's a genius!\nross: Why?! How?! How is he a genius?",
+  "chandler_transcript": "Look, don't you see what's happening here. Instead of hitting on her right away, he's becoming her confidant. Now he's gonna be the guy she goes too to complain about you.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1678\\merged_before_chandler_1678.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1678\\actual_chandler.wav"
+}

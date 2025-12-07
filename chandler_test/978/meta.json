@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh please, what do you know! You married a lesbian!\nphoebe: All right. I gotta go. I have break up with Vince.",
+  "chandler_transcript": "Oh, so you’re going with the teacher, huh?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\978\\merged_before_chandler_978.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\978\\actual_chandler.wav"
+}

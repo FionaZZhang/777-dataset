@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Um, there was a Geller Cup?",
+  "ross_transcript": "Yes, it was the trophy you got if you won the game. But our Dad said, ‘nobody won that game, ‘ and he was sick of our fighting, so he took the trophy and.... (pauses to collect himself, as he is on the verge of tears saying this) threw it in the lake.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1446\\merged_before_ross_1446.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1446\\actual_ross.wav"
+}

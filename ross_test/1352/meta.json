@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: What's the big deal? Why don't you wanna see Janice?\nchandler: Okay, last night at dinner, when the meals came, she put half her chicken piccata on my plate and took my tomatoes.",
+  "ross_transcript": "And that's bad because..., you hate chicken piccata?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1352\\merged_before_ross_1352.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1352\\actual_ross.wav"
+}

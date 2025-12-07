@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "frank_jr: I don’t know, I mean, y'know, this is the city y'know, I just, I mean, I don’t know.",
+  "phoebe_transcript": "Whatever, it’s the perfect end to the perfect weekend anyways.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\189\\merged_before_phoebe_189.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\189\\actual_phoebe.wav"
+}

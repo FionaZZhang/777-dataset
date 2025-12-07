@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (reading a card) Okay, your band is playing at Arnold’s, collect three cool points. Which means, I have five, and that means I get Joey’s boxers!\njoey: Fine. Gang up on me! I got you all right where I want you.",
+  "phoebe_transcript": "Come on, take ‘em off!!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1744\\merged_before_phoebe_1744.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1744\\actual_phoebe.wav"
+}

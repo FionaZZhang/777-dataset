@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Chris says they’re closing down the bar.\nmonica: Yeah, apparently they’re turning it into some kinda coffee place.",
+  "chandler_transcript": "Just coffee! Where are we gonna hang out now?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1597\\merged_before_chandler_1597.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1597\\actual_chandler.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Y'know what this is like? This is like when my parents got divorced. Man, I hope Ross doesn’t try to kidnap me after Cub Scouts.",
+  "phoebe_transcript": "Y'know I had a dream where Ross and Rachel were still together, they never broke up. And we were all just like hanging out, and everyone was happy....",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\655\\merged_before_phoebe_655.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\655\\actual_phoebe.wav"
+}

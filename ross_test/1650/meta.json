@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "mark: ...and the style number, and the invoice number, and the shipping date. Good. Any questions so far?\nrachel: Yeah. What kind of discount do we get?\nrachel: Oh!! I love this job! (her phone rings) Wow! My first call.\nmark: Here, let me. (answers phone) Rachel Green's line, how may I help you?",
+  "ross_transcript": "(on phone) Hi, is Rachel there?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1650\\merged_before_ross_1650.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1650\\actual_ross.wav"
+}

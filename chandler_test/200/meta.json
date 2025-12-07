@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Maybe, my ruler’s wrong.\nphoebe: Maybe all the rulers are wrong.\njoey: Look it’s not that bad. So what, it blocks a little of your door, a little of my door.",
+  "chandler_transcript": "Yeah, y'know what I got a better idea. How-how ‘bout it blocks none of mine door and a lot of yours? (throws his shoulder into the center to try and move it, but it doesn’t move.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\200\\merged_before_chandler_200.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\200\\actual_chandler.wav"
+}

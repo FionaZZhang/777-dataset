@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Well, of course not for tonight. Yeah, hi!\nross: Not for tonight. Not for tonight! Wh-what, what, what, are you doing?\nrachel: No honey, we're sorry, we didn't mean it. I love you. I love you.",
+  "chandler_transcript": "We used them as pillows when we went camping.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\474\\merged_before_chandler_474.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\474\\actual_chandler.wav"
+}

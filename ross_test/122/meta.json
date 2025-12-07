@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: I did!! I watched! I watched! I watched Monica bang his head against that thing!",
+  "ross_transcript": "Monica did it?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\122\\merged_before_ross_122.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\122\\actual_ross.wav"
+}

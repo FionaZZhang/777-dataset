@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Me too. In fact, I think I might be a little too comfortable.\nross: Okay, look, we have nineteen minutes. Okay, Chandler, I want you to go and change! Okay. And then, when you come back, Joey will go change, and he'll have vacated the chair. Okay. Okay.\nchandler: All right! Fine! I'm going. But when I get back it's chair sitting, and I'm the guy who's....sitting in a chair! (leaves)\nrachel: (entering from her room) Is this a little too... (sees Phoebe) Pheebs, what happened?",
+  "phoebe_transcript": "Hummus. I got the hummus.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\442\\merged_before_phoebe_442.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\442\\actual_phoebe.wav"
+}

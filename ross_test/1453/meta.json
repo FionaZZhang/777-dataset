@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: But wait a minute though, how are we gonna get there, though, because my Mom won’t let me cross the street.",
+  "ross_transcript": "Here you go. (throws her the ball)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1453\\merged_before_ross_1453.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1453\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Is that true? If I keep reading is Beth gonna die?",
+  "chandler_transcript": "No, Beth doesn’t die, she doesn’t die. Does she Rachel?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1575\\merged_before_chandler_1575.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1575\\actual_chandler.wav"
+}

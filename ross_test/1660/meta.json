@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh, he's just goofing around.",
+  "ross_transcript": "Ohhhhh yeah, that's, that's funny. Why ah, why isn't he goofing around in his own office?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1660\\merged_before_ross_1660.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1660\\actual_ross.wav"
+}

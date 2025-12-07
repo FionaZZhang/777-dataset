@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh my God. I cannot keep having this same fight with you Ross! Look, urrgh, maybe we should take a break.",
+  "ross_transcript": "Fine, you’re right. Let’s ah, let’s take a break, (goes to the door) let’s cool off, okay, let’s get some frozen yoghurt, or something.. (opens the door)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1222\\merged_before_ross_1222.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1222\\actual_ross.wav"
+}

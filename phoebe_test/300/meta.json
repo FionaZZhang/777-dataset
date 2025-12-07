@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "bonnie: Oh yeah, well I just started wearing bras again.\nrachel: Oh, that must be it.",
+  "phoebe_transcript": "(to Bonnie) Well I hope you have fun tonight.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\300\\merged_before_phoebe_300.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\300\\actual_phoebe.wav"
+}

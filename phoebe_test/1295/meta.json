@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: She, she was different.\nross: Nobody likes change.",
+  "phoebe_transcript": "Should we do something?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1295\\merged_before_phoebe_1295.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1295\\actual_phoebe.wav"
+}

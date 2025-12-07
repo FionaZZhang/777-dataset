@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Yeah, I think she looks good.",
+  "chandler_transcript": "Buy it for ya, or win it for ya?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1725\\merged_before_chandler_1725.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1725\\actual_chandler.wav"
+}

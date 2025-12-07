@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Man, I remember the first time I saw that girl Katherine, after we broke up. She was just walking with her friend Donna, just laughing and talking. God, it killed me.",
+  "chandler_transcript": "Yes, but you ended up having sex with both of them that afternoon.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1003\\merged_before_chandler_1003.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1003\\actual_chandler.wav"
+}

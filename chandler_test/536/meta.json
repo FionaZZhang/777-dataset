@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Hey, don’t call him that! His name is Spackel Back Harry!",
+  "chandler_transcript": "Hey, y'know what, maybe we should get going. I mean what time did Chloe say we should be there?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\536\\merged_before_chandler_536.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\536\\actual_chandler.wav"
+}

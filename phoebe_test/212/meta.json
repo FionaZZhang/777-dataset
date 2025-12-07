@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "leslie: I ran into Vlad at the place where they sell the big fish, and he said you played here a lot, so umm....\nchandler: (to Ross) All right listen, I have to go to the bathroom, but if the place with the big fish comes up again. I’d like know whether that’s several big fish or just one big fish.\njoey: (to Leslie) So ah, Phoebe tells us you write jingles.",
+  "phoebe_transcript": "Actually I said she abandoned me to write jingles.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\212\\merged_before_phoebe_212.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\212\\actual_phoebe.wav"
+}

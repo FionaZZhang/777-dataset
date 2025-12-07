@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Oh no, she’s still at work, but she told me to tell you to call her.",
+  "ross_transcript": "Oh what?! Is she gonna cancel on me again?! How can she do this? Doesn’t she know it’s our anniversary?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\535\\merged_before_ross_535.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\535\\actual_ross.wav"
+}

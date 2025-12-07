@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Careful. Light. Okay, do you know how, just sweep it across the lid. Okay? Just sweep it.\nrachel: Hey! That’s just poking me in the eye!\nrachel: Okay, just sweep it.\nrachel: We don’t want it-it to be too much, we want it to be subtle.",
+  "ross_transcript": "No. No, y'know you don’t, you don’t wear enough of this. (Rachel is shocked) What?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\891\\merged_before_ross_891.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\891\\actual_ross.wav"
+}

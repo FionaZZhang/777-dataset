@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Do you wanna play football?",
+  "ross_transcript": "Um, Monica and I aren’t supposed to play football.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1435\\merged_before_ross_1435.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1435\\actual_ross.wav"
+}

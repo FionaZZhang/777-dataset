@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (entering from her room) Is this a little too... (sees Phoebe) Pheebs, what happened?",
+  "phoebe_transcript": "Hummus. I got the hummus.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\445\\merged_before_phoebe_445.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\445\\actual_phoebe.wav"
+}

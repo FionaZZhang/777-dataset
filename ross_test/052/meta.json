@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Here you go Pheebs. Who else wants one of my special homemade brownies?\nchandler: I will have one. (Ross and him both take one.)\nphoebe: No, no, it’s just my tooth.",
+  "ross_transcript": "So what’s a matter, you need a dentist? I’ve got a good one.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\052\\merged_before_ross_052.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\052\\actual_ross.wav"
+}

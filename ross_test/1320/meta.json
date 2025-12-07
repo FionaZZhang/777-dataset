@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: All right. Let’s say I had slept with Mark. Would you have been able to forgive me?",
+  "ross_transcript": "(pause) Yes I would.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1320\\merged_before_ross_1320.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1320\\actual_ross.wav"
+}

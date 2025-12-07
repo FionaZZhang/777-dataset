@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Oh my God, has she slept at all?\nrachel: No, it's been three nights in a row.",
+  "ross_transcript": "Yeah, she finally stopped crying yesterday, but then she found one of Richard's cigar butts out on the terrace, so.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\779\\merged_before_ross_779.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\779\\actual_ross.wav"
+}

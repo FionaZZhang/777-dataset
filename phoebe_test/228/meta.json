@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Oh, you two must have been so cute running around on a barge.",
+  "phoebe_transcript": "run on a barge!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\228\\merged_before_phoebe_228.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\228\\actual_phoebe.wav"
+}

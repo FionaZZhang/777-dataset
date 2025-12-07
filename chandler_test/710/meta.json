@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: doll, the ability to walk...\nrachel: I’m gonna get back to retraining. (gets up)\nross: All right, see you guys. (starts to leave)",
+  "chandler_transcript": "Look out kids, he’s coming! (Ross continues to leave with his head down in shame.)",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\710\\merged_before_chandler_710.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\710\\actual_chandler.wav"
+}

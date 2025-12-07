@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Okay, look, Ross, I realise that my Father is difficult, but that’s why you have got to be the bigger man here.",
+  "ross_transcript": "Look sweetie, I could be the bigger man, I could be the biggest man, I could be a big, huge, giant man, and it still wouldn’t make any difference, except that I could pick your Father up and say ‘Like me! Like me tiny doctor!’",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1093\\merged_before_ross_1093.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1093\\actual_ross.wav"
+}

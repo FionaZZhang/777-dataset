@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: (to Rachel) I’m really glad we came. (Rachel smiles and rubs his arm) You’re so pretty. I love you.",
+  "phoebe_transcript": "(singing) Smelly cat, smelly cat, what are they feeding you? Smelly cat, smelly cat, it’s not your fault.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\250\\merged_before_phoebe_250.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\250\\actual_phoebe.wav"
+}

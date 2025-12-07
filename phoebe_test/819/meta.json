@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Did you talk about the night of five times? Do you tell people about the night of five times?\nrachel: Uh, honey, yeah that was with Carol.\nross: I know, but it's still worth mentioning, I think.",
+  "phoebe_transcript": "( in a soothing voice) Relax every muscle in your body. Listen to the plinky-plunky music. Okay, now close you eyes, and think of a happy place. Okay, tell me your happy place.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\819\\merged_before_phoebe_819.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\819\\actual_phoebe.wav"
+}

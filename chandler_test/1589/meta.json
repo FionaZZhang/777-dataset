@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (entering) Ross (who has his foot on the coffee table), foot on the floor or come over no more!\nross: (to Phoebe) Sure, your dresser is missing but this she notices.\nross: I have to go. Yeah, Carol should be home by now, soo...",
+  "chandler_transcript": "Umm, how’s it going with you guys?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1589\\merged_before_chandler_1589.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1589\\actual_chandler.wav"
+}

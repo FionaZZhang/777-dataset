@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Oh, hey, how about this one. Ah, it’s says so in the script! Y'know ah, I-I don’t know why my character likes you either, I mean it says in the script here that you’re a bitch.\nkate: It doesn’t say that in the script.\njoey: It does in mine!",
+  "chandler_transcript": "I can blow dry it. I can put gel on it. It doesn’t matter, I still wind up with this little (pats the flat spot on the back of his head) cowlicky thing on the middle part of my head. It’s so annoying. Does it bug you?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\628\\merged_before_chandler_628.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\628\\actual_chandler.wav"
+}

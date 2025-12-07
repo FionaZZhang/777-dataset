@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (entering from her room) Okay, Pheebs, quick, what shoes should I wear? The black or the purple?",
+  "phoebe_transcript": "Okay, okay, okay, the black. But, oh, do you have black, with the little strappys?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\488\\merged_before_phoebe_488.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\488\\actual_phoebe.wav"
+}

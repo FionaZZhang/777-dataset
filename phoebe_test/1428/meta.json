@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh! That would be sooo much fun!",
+  "phoebe_transcript": "Oh, can I play too? I’ve never played football, like ever.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1428\\merged_before_phoebe_1428.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1428\\actual_phoebe.wav"
+}

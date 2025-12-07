@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Fine. (on phone) Hi! Yes, I’d like to order a large pizza.\nrachel: With ah, extra anchovies.\nrachel: Yeah, and could you please chop some up and just put it right there in the sauce?",
+  "ross_transcript": "You can have the last piece, if you want.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1322\\merged_before_ross_1322.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1322\\actual_ross.wav"
+}

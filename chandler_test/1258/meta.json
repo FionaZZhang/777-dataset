@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Look, Ross look, I’m on board about this totally honesty thing, I am, just not about stuff that’s gonna get you in trouble.",
+  "chandler_transcript": "He’s right. Nobody’s gonna benefit, and you’re just gonna hurt her.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1258\\merged_before_chandler_1258.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1258\\actual_chandler.wav"
+}

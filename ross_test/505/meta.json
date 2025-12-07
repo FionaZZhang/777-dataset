@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Yeah. Whew, it's hot with all of this stuff on. I ah, I better not do any, I don't know, lunges. (starts doing lunges)",
+  "ross_transcript": "Okay, okay. Enough, enough with the lunging. No! I'm sick of this. Okay. I've had it up to here with you two! Neither you can come to the party!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\505\\merged_before_ross_505.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\505\\actual_ross.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (throws her stuff down) I was gonna give you a chance to apologise to me.",
+  "ross_transcript": "For what? For letting you throw me out of your office?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\562\\merged_before_ross_562.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\562\\actual_ross.wav"
+}

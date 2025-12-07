@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: What can I do? One person wants to break-up, you break-up.",
+  "chandler_transcript": "Hey, no way! Come on, this is you guys, call her and work it out.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\578\\merged_before_chandler_578.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\578\\actual_chandler.wav"
+}

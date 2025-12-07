@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Wait a minute, did you just make up all that stuff just to get out of being my agent.",
+  "phoebe_transcript": "(in a coy tone) Oh, you caught me. I am so busted.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1414\\merged_before_phoebe_1414.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1414\\actual_phoebe.wav"
+}

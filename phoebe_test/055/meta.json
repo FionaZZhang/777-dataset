@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: So what’s a matter, you need a dentist? I’ve got a good one.",
+  "phoebe_transcript": "No thanks, I have a good one too. I just, I, I can’t see him.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\055\\merged_before_phoebe_055.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\055\\actual_phoebe.wav"
+}

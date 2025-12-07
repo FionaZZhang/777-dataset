@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: For every night that you’re asleep before I get home from work...\nrachel: I will wake you up in a way that’s proved very popular in the past.",
+  "ross_transcript": "Now, if you need to stay late, I want to be supportive of that.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1547\\merged_before_ross_1547.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1547\\actual_ross.wav"
+}

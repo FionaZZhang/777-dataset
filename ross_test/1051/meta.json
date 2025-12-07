@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (on phone) Hello, Mark? Hi, it’s Rachel Green. (listens) Oh no, don’t you apologize. (listens) Yeah, I’ll hold. (to Monica and Ross) He left my number at work, but he was helping his niece with her report on the pioneers.",
+  "ross_transcript": "That is so made up!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1051\\merged_before_ross_1051.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1051\\actual_ross.wav"
+}

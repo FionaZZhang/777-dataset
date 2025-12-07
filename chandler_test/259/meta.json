@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: (to Chandler) Heard about the leg burnin’ huh?",
+  "chandler_transcript": "It came up.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\259\\merged_before_chandler_259.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\259\\actual_chandler.wav"
+}

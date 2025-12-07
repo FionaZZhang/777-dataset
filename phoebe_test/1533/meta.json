@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: (looking at the timer) Thirty seconds left on the timer!\nchandler: Okay, okay, so we get to take that stupid troll thing home!\nmonica: Come on! Come on! Hurry! We’re running out of time! Huddle up!",
+  "phoebe_transcript": "Okay. Oooh! Oh, this is our last huddle, yeah.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1533\\merged_before_phoebe_1533.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1533\\actual_phoebe.wav"
+}

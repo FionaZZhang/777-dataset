@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: (to Chandler) Hey! (Chandler looks up, startled) Why isn’t it Spiderman? Y’know like Goldman, Silverman...",
+  "chandler_transcript": "No, it’s not like, like Phil Spiderman. He’s a spider, man. Y'know like ah, like Goldman is a last name, but there’s no Gold Man.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\648\\merged_before_chandler_648.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\648\\actual_chandler.wav"
+}

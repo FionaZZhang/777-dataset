@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: I'm, I'm okay. See. (tries to smile, but fails horribly)",
+  "phoebe_transcript": "Oh, now you're sad and creepy, oh. You know what, I, I'm sorry I quit, okay, I just quit.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1400\\merged_before_phoebe_1400.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1400\\actual_phoebe.wav"
+}

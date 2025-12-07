@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: I'm gonna use the cushion.\nross: Okay, you're in bed. She's over on your side, cuddling. Now you wait for her to drift off, and then you hug her (demonstrates on the cushion) and roll her back over to her side of the bed. And then you rollll a-way. Hug for her! Roll for you.",
+  "chandler_transcript": "You're pretending the pillow's a girl right?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1169\\merged_before_chandler_1169.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1169\\actual_chandler.wav"
+}

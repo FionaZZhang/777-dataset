@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: (running in from her bedroom, wearing only a towel) Okay. Hey. Umm. Does everybody hate these shoes?\nchandler: Oh yeah, but don't worry. I don't think anybody's gonna focus on that as long as your wearing that towel dress.",
+  "ross_transcript": "(to Chandler) It's her first day at this new job. Your not supposed to start with her!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1632\\merged_before_ross_1632.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1632\\actual_ross.wav"
+}

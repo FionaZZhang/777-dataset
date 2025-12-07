@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: No, no, no, no turtles scare me. I don't need that today.",
+  "ross_transcript": "Honey, just relax, it's gonna be fine. Hey, umm,. why don't I come down there and I'll take you out to lunch?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1643\\merged_before_ross_1643.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1643\\actual_ross.wav"
+}

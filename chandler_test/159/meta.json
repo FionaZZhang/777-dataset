@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "frank_jr: Hey, how do you guys get anything done?\nrachel: Well, so, now, do you guys have a lot of big plans?\nphoebe: Oh yeah! Yeah, no, we’re gonna connect, y'know bond, and everything.\nfrank_jr: Yeah, I was thinking that maybe we could go down to Time Square and pick up some ninja stars. And, oh, um, my friend Larry, he wants me to take a picture of a hooker.",
+  "chandler_transcript": "You know, we don’t really take advantage of living in the city.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\159\\merged_before_chandler_159.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\159\\actual_chandler.wav"
+}

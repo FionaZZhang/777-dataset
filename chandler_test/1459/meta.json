@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: All right people listen, I’ve got exactly twenty-eight minutes before I have to baste again.",
+  "chandler_transcript": "Wow! Just like in the pros.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1459\\merged_before_chandler_1459.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1459\\actual_chandler.wav"
+}

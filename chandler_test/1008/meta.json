@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Oh my God! How many of these things did you have? These are pure vodka.",
+  "chandler_transcript": "just like Mom used to make.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1008\\merged_before_chandler_1008.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1008\\actual_chandler.wav"
+}

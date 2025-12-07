@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Well I’d probably be scared of a guy using a fake voice.\nmonica: Oh, hey! Oh good, you brought food!\njoey: No, it’s just my luggage.",
+  "phoebe_transcript": "Oh, I am having the best karma this week. First, I find this woman who knew my parents, and then my client with the fuzzy back gives me his beach house.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1715\\merged_before_phoebe_1715.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1715\\actual_phoebe.wav"
+}

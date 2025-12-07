@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: Look, I don't care it starts at eight, we can't be late.\nross: Look, our table is down in front, okay, my boss is gonna be there, everyone will see if we arrive after it starts.\nmonica: Has somebody been drinking my fat? (Joey and Chandler look at each other)\nrachel: (entering from her bedroom) You guys, (holds up an outfit) does this look like something the girlfriend of a paleontologist would wear?",
+  "phoebe_transcript": "I don't know, you might be the first one.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\426\\merged_before_phoebe_426.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\426\\actual_phoebe.wav"
+}

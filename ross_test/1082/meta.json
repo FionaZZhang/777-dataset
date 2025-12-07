@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Aw honey stop! It’s not that bad.",
+  "ross_transcript": "Yeah. (sees the bill) Op! Uh-oh! I think your Dad must’ve added wrong. He only tipped like four percent.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1082\\merged_before_ross_1082.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1082\\actual_ross.wav"
+}

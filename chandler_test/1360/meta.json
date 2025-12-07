@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Oh, you mean like that guy thing where you act mean and distant until you get us to break up with you.\njoey: Hey, you know about that?!",
+  "chandler_transcript": "Look what do I do? I wanna get past this, I don't wanna be afraid of the commitment thing. I wanna go through the tunnel, to the other side!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1360\\merged_before_chandler_1360.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1360\\actual_chandler.wav"
+}

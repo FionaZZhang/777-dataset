@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Whoa, I'm not done.\nmonica: All right, just give it back to me when your done. See you guys.\nphoebe: Oh my God, oh my God! Poor Monica!\nphoebe: What?! He was with her when he wrote this poem. Look, (reading) 'My vessel so empty with nothing inside. Now that I've touched you, you seem emptier still.' He thinks Monica is empty, she is the empty vase!",
+  "chandler_transcript": "You really think that is what he meant?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1669\\merged_before_chandler_1669.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1669\\actual_chandler.wav"
+}

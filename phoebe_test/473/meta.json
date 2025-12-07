@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh, it's perfect! But not for tonight.",
+  "phoebe_transcript": "Well, of course not for tonight. Yeah, hi!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\473\\merged_before_phoebe_473.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\473\\actual_phoebe.wav"
+}

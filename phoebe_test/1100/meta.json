@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh, Phoebe, are you still on hold? I was supposed to call my Dad back like two hours ago.",
+  "phoebe_transcript": "Oh, yeah, he clipped on, he said call him as soon as you get a chance, he’s at Flimby’s.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1100\\merged_before_phoebe_1100.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1100\\actual_phoebe.wav"
+}

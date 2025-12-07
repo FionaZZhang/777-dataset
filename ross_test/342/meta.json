@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Well, have-have you told him how you feel?\nphoebe: Yes. Not out loud.",
+  "ross_transcript": "Pheebs, if you don’t tell him, soon he’s gonna be married, and then you’re gonna hate yourself.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\342\\merged_before_ross_342.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\342\\actual_ross.wav"
+}

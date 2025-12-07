@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Guys. I thought you were taking Ross to the game?",
+  "phoebe_transcript": "Oh come on, they can be in the same room.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\653\\merged_before_phoebe_653.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\653\\actual_phoebe.wav"
+}

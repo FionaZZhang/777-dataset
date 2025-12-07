@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Y'know those are a delicacy in India.",
+  "phoebe_transcript": "Yeah, that was Leslie calling again to see if we can get back together. That’s the twentieth time today! And good luck Leslie!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\224\\merged_before_phoebe_224.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\224\\actual_phoebe.wav"
+}

@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Yeah, maybe it’s like y'know, that jock thing. Y'know how football players pat each other after touchdowns. (pats Ross on the butt)\nrachel: Y'know I don’t, I don’t understand guys, I mean I-I would never congratulate Monica on a great stew by y'know, grabbin’ her boob.",
+  "chandler_transcript": "Yeah, I know, for a really great stew you just y'know, stick your head in between ‘em.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\285\\merged_before_chandler_285.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\285\\actual_chandler.wav"
+}

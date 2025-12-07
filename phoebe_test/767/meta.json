@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: (entering) Hey, guys. I’m here to pick out my Christmas tree.",
+  "phoebe_transcript": "Well look no further, (shows her the dead one) this one’s yours! Ahhh.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\767\\merged_before_phoebe_767.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\767\\actual_phoebe.wav"
+}

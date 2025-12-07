@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "chandler: Ross! You gotta stop! Okay?! You can’t just stare through the peep hole for three hours! You’re gonna get peep eye!",
+  "ross_transcript": "I knew it! I knew it! I always knew she liked him! Y'know, she’d say no, but here we are! Right? We just broke up, first thing she does!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\630\\merged_before_ross_630.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\630\\actual_ross.wav"
+}

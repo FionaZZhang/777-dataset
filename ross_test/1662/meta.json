@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh honey, this is his office too. I told you we're Joanna's two assistants.",
+  "ross_transcript": "Why does Joanna need two assistants, how, how lazy is she?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1662\\merged_before_ross_1662.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\1662\\actual_ross.wav"
+}

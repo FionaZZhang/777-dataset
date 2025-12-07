@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: That's right! I'm taking the essence.",
+  "chandler_transcript": "Oh-ho, it'll be back. Oh-ho, there's nobody in the room.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\466\\merged_before_chandler_466.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\466\\actual_chandler.wav"
+}

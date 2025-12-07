@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "rachel: Oh, I don’t know. Well maybe it’s just the idea of Barry for the rest of my life. I don’t know I think I feel like I need to have one last fling, y'know, just to sorta get it out of my system. (Chandler is listening in very intensely)\nrachel: I’m serious, I really, I think I need just to have some...meaningless, sex y'know, with the next guy that I see.",
+  "chandler_transcript": "Excuse, I seem to have dropped my ball.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1602\\merged_before_chandler_1602.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1602\\actual_chandler.wav"
+}

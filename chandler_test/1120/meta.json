@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Oh, hey, you guys are finally gonna get to meet Kate!\njoey: (to Chandler) And I ah, borrowed some of your cologne. I hope she likes it.\nmonica: Joey, what are you doing?! It’s never gonna happen, she’s seeing somebody.",
+  "chandler_transcript": "Yeah, and I don’t have any cologne.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1120\\merged_before_chandler_1120.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1120\\actual_chandler.wav"
+}

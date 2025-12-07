@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: I didn't get it?",
+  "phoebe_transcript": "No. They said you 'Weren't believable as a human being.' So, you can work on that.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1406\\merged_before_phoebe_1406.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\1406\\actual_phoebe.wav"
+}

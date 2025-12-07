@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Where’d you get too? We lost you after you opened up all the presents.",
+  "chandler_transcript": "Yeah, I ended up in the storage room, and not alone.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1021\\merged_before_chandler_1021.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1021\\actual_chandler.wav"
+}

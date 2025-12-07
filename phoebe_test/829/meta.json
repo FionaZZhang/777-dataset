@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Do you think breaking up with him was a huge mistake?",
+  "phoebe_transcript": "All right, there are no questions in the happy place. Okay, just, the warm breeze, and the moonlight flowing through the trees....",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\829\\merged_before_phoebe_829.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\829\\actual_phoebe.wav"
+}

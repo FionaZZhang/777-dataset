@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: You see this, this is a person who is ready to go. Phoebe you, oh, you are my star.",
+  "phoebe_transcript": "Ohh, well, you're my lucky penny.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\414\\merged_before_phoebe_414.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\414\\actual_phoebe.wav"
+}

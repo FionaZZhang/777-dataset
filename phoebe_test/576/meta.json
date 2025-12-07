@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: I’m also thinking about opening up my own restaurant.",
+  "phoebe_transcript": "Monica, can I talk to you behind my menu, please. (Behind the menu) What are you doing?",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\576\\merged_before_phoebe_576.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\576\\actual_phoebe.wav"
+}

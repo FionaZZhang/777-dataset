@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Yeah! Oh my God! (to Chandler) Is this what it’s like to be you?\njoey: Oh, you have no idea. And-and when we’re on stage I get to-to kiss her and-and touch her, but then she goes home with the director, and it’s like somebody’s ripping out my heart!\nphoebe: to see you feeling like this!",
+  "ross_transcript": "Monica, uh Dad called this morning and ah, Aunt Silvia passed away.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\002\\merged_before_ross_002.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\002\\actual_ross.wav"
+}

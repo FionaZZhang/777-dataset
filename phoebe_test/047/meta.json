@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Oh, that’s okay. By the way, I was just checking the shower massager.\nmonica: (runs over to her) I tried to reach you at work. There’s....been a fire.",
+  "phoebe_transcript": "What?! Oh my... (sees the remains of the house) Oh my God!! What happened?!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\047\\merged_before_phoebe_047.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\047\\actual_phoebe.wav"
+}

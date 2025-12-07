@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: No, no, don't, don't, rub it! Don't! (clapping) What gets out hummus?! What gets out hummus?!",
+  "phoebe_transcript": "Monica, Monica, you know what gets out hummus.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\439\\merged_before_phoebe_439.wav",
+  "actual_phoebe_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\phoebe\\439\\actual_phoebe.wav"
+}

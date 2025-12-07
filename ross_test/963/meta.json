@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "monica: Okay, this is the den. All right, check this out. Lights! (the lights turn on automatically, but are very bright) Whoa! All right. Less lights! Bad lights! Lights go away! (they dim) Oh, see you just need to find the right command.",
+  "ross_transcript": "Yes, and the dimmer switch.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\963\\merged_before_ross_963.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\963\\actual_ross.wav"
+}

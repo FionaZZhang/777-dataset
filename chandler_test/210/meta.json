@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Oh-ho yeah! A song with rhyming words. Oo, I never thought of that before.",
+  "chandler_transcript": "I like her.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\210\\merged_before_chandler_210.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\210\\actual_chandler.wav"
+}

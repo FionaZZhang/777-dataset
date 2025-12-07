@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "ross: I don’t know, but I ah, I have the feeling that my being there will do it. I’ll go over and I will borrow something. Juice!! I need juice!!\nross: Look, they must be stopped!",
+  "chandler_transcript": "I am your friend, and I am not gonna let you do this!! (Ross is now dragging Chandler and the foosball table to the door) You are surprisingly strong!",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\638\\merged_before_chandler_638.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\638\\actual_chandler.wav"
+}

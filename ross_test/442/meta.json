@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "joey: Me too. In fact, I think I might be a little too comfortable.",
+  "ross_transcript": "Okay, look, we have nineteen minutes. Okay, Chandler, I want you to go and change! Okay. And then, when you come back, Joey will go change, and he'll have vacated the chair. Okay. Okay.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\442\\merged_before_ross_442.wav",
+  "actual_ross_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\ross\\442\\actual_ross.wav"
+}

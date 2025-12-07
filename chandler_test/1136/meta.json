@@ -1,0 +1,6 @@
+{
+  "merge_before_transcript": "phoebe: Yeah, I know. Oh, good thing it’s one of those 801 numbers. Right?\nross: Phoebe, 800 is toll free, 801 is-is Utah.\nphoebe: No, no, no, oh no-no-no, it’s has to be 800. (picks up the instruction manual to check the phone number) ‘Cause all those big companies have 800 numbers, every one. (Finds the number) Yeah, every big Utah-based company has one.\nphoebe: Sorry, I’m so sorry, I will pay you back.",
+  "chandler_transcript": "And yet, she’s still not hanging up the phone.",
+  "merged_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1136\\merged_before_chandler_1136.wav",
+  "actual_chandler_wav": "C:\\Users\\ezhua\\OneDrive\\Desktop\\11777\\777_repo\\data\\fine_tune_test_data\\chandler\\1136\\actual_chandler.wav"
+}
